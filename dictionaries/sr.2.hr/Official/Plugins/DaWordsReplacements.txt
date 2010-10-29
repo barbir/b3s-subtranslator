@@ -1,0 +1,4024 @@
+da baca;bacati
+da bacaju;bacati
+da bacam;bacati
+da bacamo;bacati
+da bacaš;bacati
+da bacate;bacati
+da bace;baciti
+da baci;baciti
+da bacim;baciti
+da bacimo;baciti
+da baciš;baciti
+da bacite;baciti
+da bira;birati
+da biraju;birati
+da biram;birati
+da biramo;birati
+da biraš;birati
+da birate;birati
+da bježe;bježati
+da bježi;bježati
+da bježim;bježati
+da bježimo;bježati
+da bježiš;bježati
+da bježite;bježati
+da bole;boliti
+da boli;boliti
+da bolim;boliti
+da bolimo;boliti
+da boliš;boliti
+da bolite;boliti
+da brblja;brbljati
+da brbljaju;brbljati
+da brbljam;brbljati
+da brbljamo;brbljati
+da brbljaš;brbljati
+da brbljate;brbljati
+da briljira;briljirati
+da briljiraju;briljirati
+da briljiram;briljirati
+da briljiramo;briljirati
+da briljiraš;briljirati
+da briljirate;briljirati
+da brine;brinuti
+da brinem;brinuti
+da brinemo;brinuti
+da brineš;brinuti
+da brinete;brinuti
+da brinu;brinuti
+da broje;brojati
+da broji;brojati
+da brojim;brojati
+da brojimo;brojati
+da brojiš;brojati
+da brojite;brojati
+da bude;biti
+da budem;biti
+da budemo;biti
+da budeš;biti
+da budete;biti
+da budu;biti
+da bulje;buljiti
+da bulji;buljiti
+da buljim;buljiti
+da buljimo;buljiti
+da buljiš;buljiti
+da buljite;buljiti
+da buše;bušiti
+da buši;bušiti
+da bušim;bušiti
+da bušimo;bušiti
+da bušiš;bušiti
+da bušite;bušiti
+da cijenim;cijeniti
+da citira;citirati
+da citiraju;citirati
+da citiram;citirati
+da citiramo;citirati
+da citiraš;citirati
+da citirate;citirati
+da crta;crtati
+da crtaju;crtati
+da crtam;crtati
+da crtamo;crtati
+da crtaš;crtati
+da crtate;crtati
+da èeka;èekati
+da èekaju;èekati
+da èekam;èekati
+da èekamo;èekati
+da èekaš;èekati
+da èekate;èekati
+da èine;èiniti
+da èini;èiniti
+da èinim;èiniti
+da èinimo;èiniti
+da èiniš;èiniti
+da èinite;èiniti
+da èiste;èistiti
+da èisti;èistiti
+da èistim;èistiti
+da èistiš;èistiti
+da èistite;èistiti
+da èistmo;èistiti
+da èita;èitati
+da èitaju;èitati
+da èitam;èitati
+da èitamo;èitati
+da èitaš;èitati
+da èitate;èitati
+da èuje;èuti
+da èujem;èuti
+da èujemo;èuti
+da èuješ;èuti
+da èujete;èuti
+da èuju;èuti
+da èuva;èuvati
+da èuvaju;èuvati
+da èuvam;èuvati
+da èuvamo;èuvati
+da èuvaš;èuvati
+da èuvate;èuvati
+da da;dati
+da daje;davati
+da dajem;davati
+da dajemo;davati
+da daješ;davati
+da dajete;davati
+da daju;dati
+da dam;dati
+da damo;dati
+da daš;dati
+da date;dati
+da depilira;depilirati
+da depiliraju;depilirati
+da depiliram;depilirati
+da depiliramo;depilirati
+da depiliraš;depilirati
+da depilirate;depilirati
+da deponiram;deponirati
+da digne;diæi
+da dignem;diæi
+da dignemo;diæi
+da digneš;diæi
+da dignete;diæi
+da dignu;diæi
+da dijele;dijeliti
+da dijeli;dijeliti
+da dijelim;dijeliti
+da dijelimo;dijeliti
+da dijeliš;dijeliti
+da dijelite;dijeliti
+da dira;dirati
+da diraju;dirati
+da diram;dirati
+da diramo;dirati
+da diraš;dirati
+da dirate;dirati
+da diskutira;diskutirati
+da diskutiraju;diskutirati
+da diskutiram;diskutirati
+da diskutiramo;diskutirati
+da diskutiraš;diskutirati
+da diskutirate;diskutirati
+da diše;disati
+da dišem;disati
+da dišemo;disati
+da dišeš;disati
+da dišete;disati
+da dišu;disati
+da diže;dizati
+da dižem;dizati
+da dižemo;dizati
+da dižeš;dizati
+da dižete;dizati
+da dižu;dizati
+da djeluje;djelovati
+da djelujem;djelovati
+da djelujemo;djelovati
+da djeluješ;djelovati
+da djelujete;djelovati
+da djeluju;djelovati
+da dobije;dobiti
+da dobijem;dobiti
+da dobijemo;dobiti
+da dobiješ;dobiti
+da dobijete;dobiti
+da dobiju;dobiti
+da dobiva;dobivati
+da dobivaju;dobivati
+da dobivam;dobivati
+da dobivamo;dobivati
+da dobivaš;dobivati
+da dobivate;dobivati
+da doèeka;doèekati
+da doèekaju;doèekati
+da doèekam;doèekati
+da doèekamo;doèekati
+da doèekaš;doèekati
+da doèekate;doèekati
+da dodam;dodati
+da doðe;doæi
+da doðem;doæi
+da doðemo;doæi
+da doðeš;doæi
+da doðete;doæi
+da doðu;doæi
+da dokaže;dokazati
+da dokažem;dokazati
+da dokažemo;dokazati
+da dokažeš;dokazati
+da dokažete;dokazati
+da dokažu;dokazati
+da dolaze;dolaziti
+da dolazi;dolaziti
+da dolazim;dolaziti
+da dolazimo;dolaziti
+da dolaziš;dolaziti
+da dolazite;dolaziti
+da donese;donijeti
+da donesem;donijeti
+da donesemo;donijeti
+da doneseš;donijeti
+da donesete;donijeti
+da donesu;donijeti
+da donose;donositi
+da donosi;donositi
+da donosim;donositi
+da donosimo;donositi
+da donosiš;donositi
+da donosite;donositi
+da dopunjuju;dopunjavati
+da dopuste;dopustiti
+da dopusti;dopustiti
+da dopustim;dopustiti
+da dopustimo;dopustiti
+da dopustiš;dopustiti
+da dopustite;dopustiti
+da dospijem;dospjeti
+da dotakne;dotaknuti
+da dotaknem;dotaknuti
+da dotaknemo;dotaknuti
+da dotakneš;dotaknuti
+da dotaknete;dotaknuti
+da dotaknu;dotaknuti
+da dovede;dovesti
+da dovedem;dovesti
+da dovedemo;dovesti
+da dovedeš;dovesti
+da dovedete;dovesti
+da dovedu;dovesti
+da dovode;dovoditi
+da dovodi;dovoditi
+da dovodim;dovoditi
+da dovodimo;dovoditi
+da dovodiš;dovoditi
+da dovodite;dovoditi
+da dovrše;dovršiti
+da dovrši;dovršiti
+da dovršim;dovršiti
+da dovršimo;dovršiti
+da dovršiš;dovršiti
+da dovršite;dovršiti
+da dovuèemo;dovuæi
+da drijemate;drijemati
+da drže;držati
+da drži;držati
+da držim;držati
+da držimo;držati
+da držiš;držati
+da držite;držati
+da gaje;gajiti
+da gaji;gajiti
+da gajim;gajiti
+da gajimo;gajiti
+da gajiš;gajiti
+da gajite;gajiti
+da garantuje;jamèiti
+da garantujem;jamèiti
+da garantujemo;jamèiti
+da garantuješ;jamèiti
+da garantujete;jamèiti
+da garantuju;jamèiti
+da generalizira;generalizirati
+da generaliziraju;generalizirati
+da generaliziram;generalizirati
+da generaliziramo;generalizirati
+da generaliziraš;generalizirati
+da generalizirate;generalizirati
+da gladuje;gladovati
+da gladujem;gladovati
+da gladujemo;gladovati
+da gladuješ;gladovati
+da gladujete;gladovati
+da gladuju;gladovati
+da gleda;gledati
+da gledaju;gledati
+da gledam;gledati
+da gledamo;gledati
+da gledaš;gledati
+da gledate;gledati
+da glumim;glumiti
+da gnjaviš;gnjaviti
+da govore;govoriti
+da govori;govoriti
+da govorim;govoriti
+da govorimo;govoriti
+da govoriš;govoriti
+da govorite;govoriti
+da gricka;grickati
+da grickaju;grickati
+da grickam;grickati
+da grickamo;grickati
+da grickaš;grickati
+da grickate;grickati
+da gube;gubiti
+da gubi;gubiti
+da gubim;gubiti
+da gubimo;gubiti
+da gubiš;gubiti
+da gubite;gubiti
+da gunðaju;gunðati
+da gurne;gurnuti
+da gurnem;gurnuti
+da gurnemo;gurnuti
+da gurneš;gurnuti
+da gurnete;gurnuti
+da gurnu;gurnuti
+da hoda;hodati
+da hodaju;hodati
+da hodam;hodati
+da hodamo;hodati
+da hodaš;hodati
+da hodate;hodati
+da hrane;hraniti
+da hrani;hraniti
+da hranim;hraniti
+da hranimo;hraniti
+da hraniš;hraniti
+da hranite;hraniti
+da hvata;hvatati
+da hvataju;hvatati
+da hvatam;hvatati
+da hvatamo;hvatati
+da hvataš;hvatati
+da hvatate;hvatati
+da ide;iæi
+da idem;iæi
+da idemo;iæi
+da ideš;iæi
+da idete;iæi
+da idu;iæi
+da ignorira;ignorirati
+da ignoriraju;ignorirati
+da ignoriram;ignorirati
+da ignoriramo;ignorirati
+da ignoriraš;ignorirati
+da ignorirate;ignorirati
+da igra;igrati
+da igraju;igrati
+da igram;igrati
+da igramo;igrati
+da igraš;igrati
+da igrate;igrati
+da im kaže;reæi im
+da im kažem;reæi im
+da im kažemo;reæi im
+da im kažeš;reæi im
+da im kažete;reæi im
+da im kažu;reæi im
+da im kupuje;im kupovati
+da im kupujem;im kupovati
+da im kupujemo;im kupovati
+da im kupuješ;im kupovati
+da im kupujete;im kupovati
+da im kupuju;im kupovati
+da im plate;im platiti
+da im plati;im platiti
+da im platim;im platiti
+da im platimo;im platiti
+da im platiš;im platiti
+da im platite;im platiti
+da im vrate;im vratiti
+da im vrati;im vratiti
+da im vratim;im vratiti
+da im vratimo;im vratiti
+da im vratiš;im vratiti
+da im vratite;im vratiti
+da ima;imati
+da imaju;imati
+da imam;imati
+da imamo;imati
+da imaš;imati
+da imate;imati
+da impresioniram;impresionirati
+da inspirira;inspirirati
+da isisa;isisati
+da isisaju;isisati
+da isisam;isisati
+da isisamo;isisati
+da isisaš;isisati
+da isisate;isisati
+da isjecka;isjeckati
+da isjeckaju;isjeckati
+da isjeckam;isjeckati
+da isjeckamo;isjeckati
+da isjeckaš;isjeckati
+da isjeckate;isjeckati
+da isjeèe;isjeæi
+da iskoèi;iskoèiti
+da iskopavamo;iskopavati
+da iskoriste;iskoristiti
+da iskoristi;iskoristiti
+da iskoristim;iskoristiti
+da iskoristimo;iskoristiti
+da iskoristiš;iskoristiti
+da iskoristite;iskoristiti
+da ispadne;ispasti
+da ispadnem;ispasti
+da ispadnemo;ispasti
+da ispadneš;ispasti
+da ispadnete;ispasti
+da ispadnu;ispasti
+da ispašta;ispaštati
+da ispaštaju;ispaštati
+da ispaštam;ispaštati
+da ispaštamo;ispaštati
+da ispaštaš;ispaštati
+da ispaštate;ispaštati
+da ispita;ispitati
+da ispitaju;ispitati
+da ispitam;ispitati
+da ispitamo;ispitati
+da ispitaš;ispitati
+da ispitate;ispitati
+da ispituje;ispitivati
+da ispitujem;ispitivati
+da ispitujemo;ispitivati
+da ispituješ;ispitivati
+da ispitujete;ispitivati
+da ispituju;ispitivati
+da isplaæuje;isplaæivati
+da isplaæujem;isplaæivati
+da isplaæujemo;isplaæivati
+da isplaæuješ;isplaæivati
+da isplaæujete;isplaæivati
+da isplaæuju;isplaæivati
+da isporuèim;isporuèiti
+da isprave;ispraviti
+da ispravi;ispraviti
+da ispravim;ispraviti
+da ispravimo;ispraviti
+da ispraviš;ispraviti
+da ispravite;ispraviti
+da isprazne;isprazniti
+da isprazni;isprazniti
+da ispraznim;isprazniti
+da ispraznimo;isprazniti
+da isprazniš;isprazniti
+da ispraznite;isprazniti
+da isproba;isprobati
+da isprobaju;isprobati
+da isprobam;isprobati
+da isprobamo;isprobati
+da isprobaš;isprobati
+da isprobate;isprobati
+da istrpe;istrpjeti
+da istrpi;istrpjeti
+da istrpim;istrpjeti
+da istrpimo;istrpjeti
+da istrpiš;istrpjeti
+da istrpite;istrpjeti
+da istuèe;istuæi
+da istuèeju;istuæi
+da istuèem;istuæi
+da istuèemo;istuæi
+da istuèeš;istuæi
+da istuèete;istuæi
+da išèekuje;išèekivati
+da išèekujem;išèekivati
+da išèekujemo;išèekivati
+da išèekuješ;išèekivati
+da išèekujete;išèekivati
+da išèekuju;išèekivati
+da izabere;izabrati
+da izaberem;izabrati
+da izaberemo;izabrati
+da izabereš;izabrati
+da izaberete;izabrati
+da izaberu;izabrati
+da izaðe;izaæi
+da izaðem;izaæi
+da izaðemo;izaæi
+da izaðeš;izaæi
+da izaðete;izaæi
+da izaðu;izaæi
+da izbace;izbaciti
+da izbaci;izbaciti
+da izbacim;izbaciti
+da izbacimo;izbaciti
+da izbaciš;izbaciti
+da izbacite;izbaciti
+da izbjegava;izbjegavati
+da izbjegavaju;izbjegavati
+da izbjegavam;izbjegavati
+da izbjegavamo;izbjegavati
+da izbjegavaš;izbjegavati
+da izbjegavate;izbjegavati
+da izbjegne;izbjeæi
+da izbjegnem;izbjeæi
+da izbjegnemo;izbjeæi
+da izbjegneš;izbjeæi
+da izbjegnete;izbjeæi
+da izbjegnu;izbjeæi
+da izdaje;izdavati
+da izdajem;izdavati
+da izdajemo;izdavati
+da izdaješ;izdavati
+da izdajete;izdavati
+da izdaju;izdavati
+da izdamo;izdati
+da izdržava;izdržavati
+da izdržavaju;izdržavati
+da izdržavam;izdržavati
+da izdržavamo;izdržavati
+da izdržavaš;izdržavati
+da izdržavate;izdržavati
+da izdrže;izdržati
+da izdrži;izdržati
+da izdržim;izdržati
+da izdržimo;izdržati
+da izdržiš;izdržati
+da izdržite;izdržati
+da izglade;izgladiti
+da izgladi;izgladiti
+da izgladim;izgladiti
+da izgladimo;izgladiti
+da izgladiš;izgladiti
+da izgladite;izgladiti
+da izgleda;izgledati
+da izgledaju;izgledati
+da izgledam;izgledati
+da izgledamo;izgledati
+da izgledaš;izgledati
+da izgledate;izgledati
+da izgori;izgorjeti
+da izgovore;izgovoriti
+da izgovori;izgovoriti
+da izgovorim;izgovoriti
+da izgovorimo;izgovoriti
+da izgovoriš;izgovoriti
+da izgovorite;izgovoriti
+da izgube;izgubiti
+da izgubi;izgubiti
+da izgubim;izgubiti
+da izgubimo;izgubiti
+da izgubiš;izgubiti
+da izgubite;izgubiti
+da izigrava;izigravati
+da izigravaju;izigravati
+da izigravam;izigravati
+da izigravamo;izigravati
+da izigravaš;izigravati
+da izigravate;izigravati
+da izlaze;izaæi
+da izlazi;izaæi
+da izlazim;izaæi
+da izlazimo;izaæi
+da izlaziš;izaæi
+da izlazite;izaæi
+da izlude;izluditi
+da izludi;izluditi
+da izludim;izluditi
+da izludimo;izluditi
+da izludiš;izluditi
+da izludite;izluditi
+da izmislimo;izmisliti
+da izostanem;izostati
+da izraze;izraziti
+da izrazi;izraziti
+da izrazim;izraziti
+da izrazimo;izraziti
+da izraziš;izraziti
+da izrazite;izraziti
+da izvadim;izvaditi
+da izvede;izvesti
+da izvedem;izvesti
+da izvedemo;izvesti
+da izvedeš;izvesti
+da izvedete;izvesti
+da izvedu;izvesti
+da izvuèe;izvuæi
+da izvuèem;izvuæi
+da izvuèemo;izvuæi
+da izvuèeš;izvuæi
+da izvuèete;izvuæi
+da izvuèu;izvuæi
+da jave;javiti
+da javi;javiti
+da javim;javiti
+da javimo;javiti
+da javiš;javiti
+da javite;javiti
+da jede;jesti
+da jedem;jesti
+da jedemo;jesti
+da jedeš;jesti
+da jedete;jesti
+da jedu;jesti
+da joj pomogne;joj pomoæi
+da joj pomognem;joj pomoæi
+da joj pomognemo;joj pomoæi
+da joj pomogneš;joj pomoæi
+da joj pomognete;joj pomoæi
+da joj pomognu;joj pomoæi
+da joj zamota;joj zamotati
+da joj zamotaju;joj zamotati
+da joj zamotam;joj zamotati
+da joj zamotamo;joj zamotati
+da joj zamotaš;joj zamotati
+da joj zamotate;joj zamotati
+da juriš;juriti
+da kake;kakiti
+da kaki;kakiti
+da kakim;kakiti
+da kakimo;kakiti
+da kakiš;kakiti
+da kakite;kakiti
+da kara;karati
+da karaju;karati
+da karam;karati
+da karamo;karati
+da karaš;karati
+da karate;karati
+da kasne;kasniti
+da kasni;kasniti
+da kasnim;kasniti
+da kasnimo;kasniti
+da kasniš;kasniti
+da kasnite;kasniti
+da kaže;reæi
+da kažem;reæi
+da kažemo;reæi
+da kažeš;reæi
+da kažete;reæi
+da kažnjava;kažnjavati
+da kažnjavaju;kažnjavati
+da kažnjavam;kažnjavati
+da kažnjavamo;kažnjavati
+da kažnjavaš;kažnjavati
+da kažnjavate;kažnjavati
+da kažu;reæi
+da komplikuješ;komplicirati
+da komunicirate;komunicirati
+da kontaktiramo;kontaktirati
+da kontrolira;kontrolirati
+da kontroliraju;kontrolirati
+da kontroliram;kontrolirati
+da kontroliramo;kontrolirati
+da kontroliraš;kontrolirati
+da kontrolirate;kontrolirati
+da kopamo;kopati
+da kopaš;kopati
+da koriste;koristiti
+da koristi;koristiti
+da koristim;koristiti
+da koristimo;koristiti
+da koristiš;koristiti
+da koristite;koristiti
+da košta;koštati
+da koštaju;koštati
+da koštam;koštati
+da koštamo;koštati
+da koštaš;koštati
+da koštate;koštati
+da krade;krasti
+da kradem;krasti
+da krademo;krasti
+da kradeš;krasti
+da kradete;krasti
+da kradu;krasti
+da krene;krenuti
+da krenem;krenuti
+da krenemo;krenuti
+da kreneš;krenuti
+da krenete;krenuti
+da krenu;krenuti
+da krije;kriti
+da krijem;kriti
+da krijemo;kriti
+da kriješ;kriti
+da krijete;kriti
+da kriju;kriti
+da kritizira;kritizirati
+da kriviš;kriviti
+da krpe;krpiti
+da krpi;krpiti
+da krpim;krpiti
+da krpimo;krpiti
+da krpiš;krpiti
+da krpite;krpiti
+da krstariš;krstariti
+da kuha;kuhati
+da kuhaju;kuhati
+da kuham;kuhati
+da kuhamo;kuhati
+da kuhaš;kuhati
+da kuhate;kuhati
+da kupe;kupiti
+da kupi;kupiti
+da kupim;kupiti
+da kupimo;kupiti
+da kupiš;kupiti
+da kupite;kupiti
+da kupuje;kupovati
+da kupujem;kupovati
+da kupujemo;kupovati
+da kupuješ;kupovati
+da kupujete;kupovati
+da kupuju;kupovati
+da laže;lagati
+da lažem;lagati
+da lažemo;lagati
+da lažeš;lagati
+da lažete;lagati
+da lažu;lagati
+da legne;leæi
+da legnem;leæi
+da legnemo;leæi
+da legneš;leæi
+da legnete;leæi
+da legnu;leæi
+da lete;letjeti
+da leti;letjeti
+da letim;letjeti
+da letimo;letjeti
+da letiš;letjeti
+da letite;letjeti
+da leže;ležati
+da leži;ležati
+da ležim;ležati
+da ležimo;ležati
+da ležiš;ležati
+da ležite;ležati
+da li bi;bi li
+da li bih;bih li
+da li bismo;bismo li
+da li biste;biste li
+da li æe;hoæe li
+da li æemo;hoæemo li
+da li æeš;hoæeš li
+da li æete;hoæete li
+da li æu;hoæu li
+da li hoæe;hoæe li
+da li hoæemo;hoæemo li
+da li hoæeš;hoæeš li
+da li hoæete;hoæete li
+da li hoæu;hoæu li
+da li ide;ide li
+da li igramo;igramo li
+da li ima;ima li
+da li imaju;imaju li
+da li imam;imam li
+da li imamo;imamo li
+da li imaš;imaš li
+da li imate;imate li
+da li je;je li
+da li misle;misle li
+da li misli;misli li
+da li mislim;mislim li
+da li mislimo;mislimo li
+da li misliš;misliš li
+da li mislite;mislite li
+da li mogu;mogu li
+da li mora;mora li
+da li moraju;moraju li
+da li moram;moram li
+da li moramo;moramo li
+da li moraš;moraš li
+da li morate;morate li
+da li može;može li
+da li možemo;možemo li
+da li možeš;možeš li
+da li možete;možete li
+da li odgovara;odgovara li
+da li postoji;postoji li
+da li prekida;prekida li
+da li prekidaju;prekidaju li
+da li prekidam;prekidam li
+da li prekidamo;prekidamo li
+da li prekidaš;prekidaš li
+da li prekidate;prekidate li
+da li prima;prima li
+da li primaju;primaju li
+da li primam;primam li
+da li primamo;primamo li
+da li primaš;primaš li
+da li primate;primate li
+da li provjeriš;provjeriš li
+da li provlaèi;provlaèi li
+da li razumiješ;razumiješ li
+da li sam;jesam li
+da li shvaæa;shvaæa li
+da li shvaæaju;shvaæaju li
+da li shvaæam;shvaæam li
+da li shvaæamo;shvaæamo li
+da li shvaæaš;shvaæaš li
+da li shvaæate;shvaæate li
+da li si;jesi li
+da li smijem;smijem li
+da li smo;jesmo li
+da li ste;jeste li
+da li su;jesu li
+da li ti;je li ti
+da li treba;treba li
+da li vam;je li vam
+da li zna;zna li
+da li znaju;znaju li
+da li znam;znam li
+da li znamo;znamo li
+da li znaš;znaš li
+da li znate;znate li
+da li žele;žele li
+da li želi;želi li
+da li želim;želim li
+da li želimo;želimo li
+da li želiš;želiš li
+da li želite;želite li
+da lijeèi;lijeèiti
+da lovi;loviti
+da lutamo;lutati
+da ljube;ljubiti
+da ljubi;ljubiti
+da ljubim;ljubiti
+da ljubimo;ljubiti
+da ljubiš;ljubiti
+da ljubite;ljubiti
+da maltretiraš;maltretirati
+da maznem;maznuti
+da me èeka;me èekati
+da me èekaju;me èekati
+da me èekam;me èekati
+da me èekamo;me èekati
+da me èekaš;me èekati
+da me èekate;me èekati
+da me gleda;me gledati
+da me gledaju;me gledati
+da me gledam;me gledati
+da me gledamo;me gledati
+da me gledaš;me gledati
+da me gledate;me gledati
+da me išèupa;me išèupati
+da me išèupaju;me išèupati
+da me išèupam;me išèupati
+da me išèupamo;me išèupati
+da me išèupaš;me išèupati
+da me išèupate;me išèupati
+da me izdržava;me izdržavati
+da me izdržavaju;me izdržavati
+da me izdržavam;me izdržavati
+da me izdržavamo;me izdržavati
+da me izdržavaš;me izdržavati
+da me izdržavate;me izdržavati
+da me kazne;me kazniti
+da me kazni;me kazniti
+da me kaznim;me kazniti
+da me kaznimo;me kazniti
+da me kazniš;me kazniti
+da me kaznite;me kazniti
+da me natjera;me natjerati
+da me natjeraju;me natjerati
+da me natjeram;me natjerati
+da me natjeramo;me natjerati
+da me natjeraš;me natjerati
+da me natjerate;me natjerati
+da me nauèe;me nauèiti
+da me nauèi;me nauèiti
+da me nauèim;me nauèiti
+da me nauèimo;me nauèiti
+da me nauèiš;me nauèiti
+da me nauèite;me nauèiti
+da me odvoje;me odvojiti
+da me odvoji;me odvojiti
+da me odvojim;me odvojiti
+da me odvojimo;me odvojiti
+da me odvojiš;me odvojiti
+da me odvojite;me odvojiti
+da me osramote;me osramotiti
+da me osramoti;me osramotiti
+da me osramotim;me osramotiti
+da me osramotimo;me osramotiti
+da me osramotiš;me osramotiti
+da me osramotite;me osramotiti
+da me podsjeæa;me podsjeæati
+da me podsjeæaju;me podsjeæati
+da me podsjeæam;me podsjeæati
+da me podsjeæamo;me podsjeæati
+da me podsjeæaš;me podsjeæati
+da me podsjeæate;me podsjeæati
+da me pogleda;me pogledati
+da me pogledaju;me pogledati
+da me pogledam;me pogledati
+da me pogledamo;me pogledati
+da me pogledaš;me pogledati
+da me pogledate;me pogledati
+da me precrta;me precrtati
+da me precrtaju;me precrtati
+da me precrtam;me precrtati
+da me precrtamo;me precrtati
+da me precrtaš;me precrtati
+da me precrtate;me precrtati
+da me salijeæ;me salijeæati
+da me salijeæju;me salijeæati
+da me salijeæm;me salijeæati
+da me salijeæmo;me salijeæati
+da me salijeæš;me salijeæati
+da me salijeæte;me salijeæati
+da me ubije;me ubiti
+da me ubijem;me ubiti
+da me ubijemo;me ubiti
+da me ubiješ;me ubiti
+da me ubijete;me ubiti
+da me ubiju;me ubiti
+da me udare;me udariti
+da me udari;me udariti
+da me udarim;me udariti
+da me udarimo;me udariti
+da me udariš;me udariti
+da me udarite;me udariti
+da me vide;me vidjeti
+da me vidi;me vidjeti
+da me vidim;me vidjeti
+da me vidimo;me vidjeti
+da me vidiš;me vidjeti
+da me vidite;me vidjeti
+da me zove;me zvati
+da me zovem;me zvati
+da me zovemo;me zvati
+da me zoveš;me zvati
+da me zovete;me zvati
+da me zovu;me zvati
+da me zvekne;me zveknuti
+da me zveknem;me zveknuti
+da me zveknemo;me zveknuti
+da me zvekneš;me zveknuti
+da me zveknete;me zveknuti
+da me zveknu;me zveknuti
+da merimo;mjeriti
+da mi cmizdre;mi cmizdriti
+da mi cmizdri;mi cmizdriti
+da mi cmizdrim;mi cmizdriti
+da mi cmizdrimo;mi cmizdriti
+da mi cmizdriš;mi cmizdriti
+da mi cmizdrite;mi cmizdriti
+da mi da;mi dati
+da mi daju;mi dati
+da mi dam;mi dati
+da mi damo;mi dati
+da mi daš;mi dati
+da mi date;mi dati
+da mi doda;mi dodati
+da mi dodaju;mi dodati
+da mi dodam;mi dodati
+da mi dodamo;mi dodati
+da mi dodaš;mi dodati
+da mi dodate;mi dodati
+da mi donose;mi donositi
+da mi donosi;mi donositi
+da mi donosim;mi donositi
+da mi donosimo;mi donositi
+da mi donosiš;mi donositi
+da mi donosite;mi donositi
+da mi dopuste;mi dopustiti
+da mi dopusti;mi dopustiti
+da mi dopustim;mi dopustiti
+da mi dopustimo;mi dopustiti
+da mi dopustiš;mi dopustiti
+da mi dopustite;mi dopustiti
+da mi govore;mi govoriti
+da mi govori;mi govoriti
+da mi govorim;mi govoriti
+da mi govorimo;mi govoriti
+da mi govoriš;mi govoriti
+da mi govorite;mi govoriti
+da mi gurne;mi gurnuti
+da mi gurnem;mi gurnuti
+da mi gurnemo;mi gurnuti
+da mi gurneš;mi gurnuti
+da mi gurnete;mi gurnuti
+da mi gurnu;mi gurnuti
+da mi kaže;mi reæi
+da mi kažem;mi reæi
+da mi kažemo;mi reæi
+da mi kažeš;mi reæi
+da mi kažete;mi reæi
+da mi kažu;mi reæi
+da mi kupe;mi kupiti
+da mi kupi;mi kupiti
+da mi kupim;mi kupiti
+da mi kupimo;mi kupiti
+da mi kupiš;mi kupiti
+da mi kupite;mi kupiti
+da mi nedostaje;mi nedostajati
+da mi nedostajem;mi nedostajati
+da mi nedostajemo;mi nedostajati
+da mi nedostaješ;mi nedostajati
+da mi nedostajete;mi nedostajati
+da mi nedostaju;mi nedostajati
+da mi pokaže;mi pokazati
+da mi pokažem;mi pokazati
+da mi pokažemo;mi pokazati
+da mi pokažeš;mi pokazati
+da mi pokažete;mi pokazati
+da mi pokažu;mi pokazati
+da mi pomogne;mi pomoæi
+da mi pomognem;mi pomoæi
+da mi pomognemo;mi pomoæi
+da mi pomogneš;mi pomoæi
+da mi pomognete;mi pomoæi
+da mi pomognu;mi pomoæi
+da mi povjere;mi povjeriti
+da mi povjeri;mi povjeriti
+da mi povjerim;mi povjeriti
+da mi povjerimo;mi povjeriti
+da mi povjeriš;mi povjeriti
+da mi povjerite;mi povjeriti
+da mi rade;mi raditi
+da mi radi;mi raditi
+da mi radim;mi raditi
+da mi radimo;mi raditi
+da mi radiš;mi raditi
+da mi radite;mi raditi
+da mi razbije;mi razbiti
+da mi razbijem;mi razbiti
+da mi razbijemo;mi razbiti
+da mi razbiješ;mi razbiti
+da mi razbijete;mi razbiti
+da mi sisa;mi sisati
+da mi sisaju;mi sisati
+da mi sisam;mi sisati
+da mi sisamo;mi sisati
+da mi sisaš;mi sisati
+da mi sisate;mi sisati
+da mi ukljuèe;mi ukljuèiti
+da mi ukljuèi;mi ukljuèiti
+da mi ukljuèim;mi ukljuèiti
+da mi ukljuèimo;mi ukljuèiti
+da mi ukljuèiš;mi ukljuèiti
+da mi ukljuèite;mi ukljuèiti
+da mijenja;mijenjati
+da mijenjaju;mijenjati
+da mijenjam;mijenjati
+da mijenjamo;mijenjati
+da mijenjaš;mijenjati
+da mijenjate;mijenjati
+da miješa;miješati
+da miješaju;miješati
+da miješam;miješati
+da miješamo;miješati
+da miješaš;miješati
+da miješate;miješati
+da minimiziraju;minimizirati
+da misle;misliti
+da misli;misliti
+da mislim;misliti
+da mislimo;misliti
+da misliš;misliti
+da mislite;misliti
+da mora;morati
+da moraju;morati
+da moram;morati
+da moramo;morati
+da moraš;morati
+da morate;morati
+da motre;motriti
+da motri;motriti
+da motrim;motriti
+da motrimo;motriti
+da motriš;motriti
+da motrite;motriti
+da mu bude;mu biti
+da mu budem;mu biti
+da mu budemo;mu biti
+da mu budeš;mu biti
+da mu budete;mu biti
+da mu budu;mu biti
+da mu da;mu dati
+da mu daju;mu dati
+da mu dam;mu dati
+da mu damo;mu dati
+da mu daš;mu dati
+da mu date;mu dati
+da mu doda;mu dodati
+da mu dodaju;mu dodati
+da mu dodam;mu dodati
+da mu dodamo;mu dodati
+da mu dodaš;mu dodati
+da mu dodate;mu dodati
+da mu kupuje;mu kupovati
+da mu kupujem;mu kupovati
+da mu kupujemo;mu kupovati
+da mu kupuješ;mu kupovati
+da mu kupujete;mu kupovati
+da mu kupuju;mu kupovati
+da mu objasne;mu objasniti
+da mu objasni;mu objasniti
+da mu objasnim;mu objasniti
+da mu objasnimo;mu objasniti
+da mu objasniš;mu objasniti
+da mu objasnite;mu objasniti
+da mu odsijeèe;mu odsjeæi
+da mu odsijeèem;mu odsjeæi
+da mu odsijeèemo;mu odsjeæi
+da mu odsijeèeš;mu odsjeæi
+da mu odsijeèete;mu odsjeæi
+da mu odsijeèu;mu odsjeæi
+da mu pokaže;mu pokazati
+da mu pokažem;mu pokazati
+da mu pokažemo;mu pokazati
+da mu pokažeš;mu pokazati
+da mu pokažete;mu pokazati
+da mu pokažu;mu pokazati
+da mu pomaže;mu pomagati
+da mu pomažem;mu pomagati
+da mu pomažemo;mu pomagati
+da mu pomažeš;mu pomagati
+da mu pomažete;mu pomagati
+da mu pomažu;mu pomagati
+da mu pomogne;mu pomoæi
+da mu pomognem;mu pomoæi
+da mu pomognemo;mu pomoæi
+da mu pomogneš;mu pomoæi
+da mu pomognete;mu pomoæi
+da mu pomognu;mu pomoæi
+da mu prevode;mu prevoditi
+da mu prevodi;mu prevoditi
+da mu prevodim;mu prevoditi
+da mu prevodimo;mu prevoditi
+da mu prevodiš;mu prevoditi
+da mu prevodite;mu prevoditi
+da mu promijene;mu promijeniti
+da mu promijeni;mu promijeniti
+da mu promijenim;mu promijeniti
+da mu promijenimo;mu promijeniti
+da mu promijeniš;mu promijeniti
+da mu promijenite;mu promijeniti
+da mu rade;mu raditi
+da mu radi;mu raditi
+da mu radim;mu raditi
+da mu radimo;mu raditi
+da mu radiš;mu raditi
+da mu radite;mu raditi
+da muze;musti
+da muzem;musti
+da muzemo;musti
+da muzeš;musti
+da muzete;musti
+da muzu;musti
+da nabave;nabaviti
+da nabavi;nabaviti
+da nabavim;nabaviti
+da nabavimo;nabaviti
+da nabaviš;nabaviti
+da nabavite;nabaviti
+da nabroje;nabrojati
+da nabroji;nabrojati
+da nabrojim;nabrojati
+da nabrojimo;nabrojati
+da nabrojiš;nabrojati
+da nabrojite;nabrojati
+da nacrta;nacrtati
+da nacrtaju;nacrtati
+da nacrtam;nacrtati
+da nacrtamo;nacrtati
+da nacrtaš;nacrtati
+da nacrtate;nacrtati
+da nadoknade;nadoknaditi
+da nadoknadi;nadoknaditi
+da nadoknadim;nadoknaditi
+da nadoknadimo;nadoknaditi
+da nadoknadiš;nadoknaditi
+da nadoknadite;nadoknaditi
+da naðe;naæi
+da naðem;naæi
+da naðemo;naæi
+da naðeš;naæi
+da naðete;naæi
+da naðu;naæi
+da nagovore;nagovoriti
+da nagovori;nagovoriti
+da nagovorim;nagovoriti
+da nagovorimo;nagovoriti
+da nagovoriš;nagovoriti
+da nagovorite;nagovoriti
+da nahrane;nahraniti
+da nahrani;nahraniti
+da nahranim;nahraniti
+da nahranimo;nahraniti
+da nahraniš;nahraniti
+da nahranite;nahraniti
+da naletim;naletjeti
+da naletiš;naletjeti
+da nam donese;nam donijeti
+da nam donesem;nam donijeti
+da nam donesemo;nam donijeti
+da nam doneseš;nam donijeti
+da nam donesete;nam donijeti
+da nam donesu;nam donijeti
+da nam nadoknade;nam nadoknaditi
+da nam nadoknadi;nam nadoknaditi
+da nam nadoknadim;nam nadoknaditi
+da nam nadoknadimo;nam nadoknaditi
+da nam nadoknadiš;nam nadoknaditi
+da nam nadoknadite;nam nadoknaditi
+da nam napiše;nam napisati
+da nam napišem;nam napisati
+da nam napišemo;nam napisati
+da nam napišeš;nam napisati
+da nam napišete;nam napisati
+da nam napišu;nam napisati
+da namjeste;namjestiti
+da namjesti;namjestiti
+da namjestim;namjestiti
+da namjestimo;namjestiti
+da namjestiš;namjestiti
+da namjestite;namjestiti
+da napiše;napisati
+da napišem;napisati
+da napišemo;napisati
+da napišeš;napisati
+da napišete;napisati
+da napišu;napisati
+da naprave;napraviti
+da napravi;napraviti
+da napravim;napraviti
+da napravimo;napraviti
+da napraviš;napraviti
+da napravite;napraviti
+da napreduje;napredovati
+da napredujem;napredovati
+da napredujemo;napredovati
+da napreduješ;napredovati
+da napredujete;napredovati
+da napreduju;napredovati
+da napuste;napustiti
+da napusti;napustiti
+da napustim;napustiti
+da napustimo;napustiti
+da napustiš;napustiti
+da napustite;napustiti
+da naruèe;naruèiti
+da naruèi;naruèiti
+da naruèim;naruèiti
+da naruèimo;naruèiti
+da naruèiš;naruèiti
+da naruèite;naruèiti
+da nastave;nastaviti
+da nastavi;nastaviti
+da nastavim;nastaviti
+da nastavimo;nastaviti
+da nastaviš;nastaviti
+da nastavite;nastaviti
+da natjera;natjerati
+da natjeraju;natjerati
+da natjeram;natjerati
+da natjeramo;natjerati
+da natjeraš;natjerati
+da natjerate;natjerati
+da nauèe;nauèiti
+da nauèi;nauèiti
+da nauèim;nauèiti
+da nauèimo;nauèiti
+da nauèiš;nauèiti
+da nauèite;nauèiti
+da navrate;navratiti
+da navrati;navratiti
+da navratim;navratiti
+da navratimo;navratiti
+da navratiš;navratiti
+da navratite;navratiti
+da navuèe;navuæi
+da navuèem;navuæi
+da navuèemo;navuæi
+da navuèeš;navuæi
+da navuèete;navuæi
+da navuku;navuæi
+da naziva;nazivati
+da nazivaju;nazivati
+da nazivam;nazivati
+da nazivamo;nazivati
+da nazivaš;nazivati
+da nazivate;nazivati
+da nazove;nazvati
+da nazovem;nazvati
+da nazovemo;nazvati
+da nazoveš;nazvati
+da nazovete;nazvati
+da nazovu;nazvati
+da nema;nemati
+da nemaju;nemati
+da nemam;nemati
+da nemamo;nemati
+da nemaš;nemati
+da nemate;nemati
+da nose;nositi
+da nosi;nositi
+da nosim;nositi
+da nosimo;nositi
+da nosiš;nositi
+da nosite;nositi
+da obara;obarati
+da obaraju;obarati
+da obaram;obarati
+da obaramo;obarati
+da obaraš;obarati
+da obarate;obarati
+da obave;obaviti
+da obavi;obaviti
+da obavijeste;obavijestiti
+da obavijesti;obavijestiti
+da obavijestim;obavijestiti
+da obavijestimo;obavijestiti
+da obavijestiš;obavijestiti
+da obavijestite;obavijestiti
+da obavim;obaviti
+da obavimo;obaviti
+da obaviš;obaviti
+da obavite;obaviti
+da objasne;objasniti
+da objasni;objasniti
+da objasnim;objasniti
+da objasnimo;objasniti
+da objasniš;objasniti
+da objasnite;objasniti
+da objedinimo;objediniti
+da obori;oboriti
+da obrišem;obrisati
+da obuèe;obuæi
+da obuèem;obuæi
+da obuèemo;obuæi
+da obuèeš;obuæi
+da obuèete;obuæi
+da obuje;obuti
+da obujem;obuti
+da obujemo;obuti
+da obuješ;obuti
+da obujete;obuti
+da obuju;obuti
+da obuku;obuæi
+da ocene;ocijeniti
+da oceni;ocijeniti
+da ocenim;ocijeniti
+da ocenimo;ocijeniti
+da oceniš;ocijeniti
+da ocenite;ocijeniti
+da oèekuje;oèekivati
+da oèekujem;oèekivati
+da oèekujemo;oèekivati
+da oèekuješ;oèekivati
+da oèekujete;oèekivati
+da oèekuju;oèekivati
+da oèistim;oèistiti
+da oèistiš;oèistiti
+da oda;odati
+da odabere;odabrati
+da odaberem;odabrati
+da odaberemo;odabrati
+da odabereš;odabrati
+da odaberete;odabrati
+da odaberu;odabrati
+da odaju;odati
+da odam;odati
+da odamo;odati
+da odaš;odati
+da odate;odati
+da odbije;odbiti
+da odbijem;odbiti
+da odbijemo;odbiti
+da odbiješ;odbiti
+da odbijete;odbiti
+da odbiju;odbiti
+da ode;otiæi
+da odem;otiæi
+da odemo;otiæi
+da odeš;otiæi
+da odete;otiæi
+da odgonetnem;odgonetnuti
+da odgovori;odgovoriti
+da odgovoriš;odgovoriti
+da odjebe;odjebati
+da odjebem;odjebati
+da odjebemo;odjebati
+da odjebeš;odjebati
+da odjebete;odjebati
+da odjebu;odjebati
+da odlaze;odlaziti
+da odlazi;odlaziti
+da odlazim;odlaziti
+da odlazimo;odlaziti
+da odlaziš;odlaziti
+da odlazite;odlaziti
+da odlete;odletjeti
+da odleti;odletjeti
+da odletim;odletjeti
+da odletimo;odletjeti
+da odletiš;odletjeti
+da odletite;odletjeti
+da odlože;odložiti
+da odloži;odložiti
+da odložim;odložiti
+da odložimo;odložiti
+da odložiš;odložiti
+da odložite;odložiti
+da odluèe;odluèiti
+da odluèi;odluèiti
+da odluèim;odluèiti
+da odluèimo;odluèiti
+da odluèiš;odluèiti
+da odluèite;odluèiti
+da odmore;odmoriti
+da odmori;odmoriti
+da odmorim;odmoriti
+da odmorimo;odmoriti
+da odmoriš;odmoriti
+da odmorite;odmoriti
+da odnesu;odnijeti
+da odoli;odoljeti
+da odrade;odraditi
+da odradi;odraditi
+da odradim;odraditi
+da odradimo;odraditi
+da odradiš;odraditi
+da odradite;odraditi
+da odrede;odrediti
+da odredi;odrediti
+da odredim;odrediti
+da odredimo;odrediti
+da odrediš;odrediti
+da odredite;odrediti
+da odrijema;odrijemati
+da odrijemaju;odrijemati
+da odrijemam;odrijemati
+da odrijemamo;odrijemati
+da odrijemaš;odrijemati
+da odrijemate;odrijemati
+da održim;održati
+da odsijeèe;odsjeæi
+da odsijeèem;odsjeæi
+da odsijeèemo;odsjeæi
+da odsijeèeš;odsjeæi
+da odsijeèete;odsjeæi
+da odsijeèu;odsjeæi
+da odslužiš;odslužiti
+da odspava;odspavati
+da odspavaju;odspavati
+da odspavam;odspavati
+da odspavamo;odspavati
+da odspavaš;odspavati
+da odspavate;odspavati
+da odu;otiæi
+da odustane;odustati
+da odustanem;odustati
+da odustanemo;odustati
+da odustaneš;odustati
+da odustanete;odustati
+da odustanu;odustati
+da odveze;odvesti
+da odvezem;odvesti
+da odvezemo;odvesti
+da odvezeš;odvesti
+da odvezete;odvesti
+da odvezu;odvesti
+da okonèaš;okonèati
+da okupe;okupiti
+da okupi;okupiti
+da okupim;okupiti
+da okupimo;okupiti
+da okupiš;okupiti
+da okupite;okupiti
+da onesposobite;onesposobiti
+da opere;oprati
+da operem;oprati
+da operemo;oprati
+da opereš;oprati
+da operete;oprati
+da operiramo;operirati
+da operirate;operirati
+da operu;oprati
+da opišeš;opisati
+da opljaèka;opljaèkati
+da opljaèkaju;opljaèkati
+da opljaèkam;opljaèkati
+da opljaèkamo;opljaèkati
+da opljaèkaš;opljaèkati
+da opljaèkate;opljaèkati
+da oprosti;oprostiti
+da oprostiju;oprostiti
+da oprostim;oprostiti
+da oprostimo;oprostiti
+da oprostiš;oprostiti
+da oprostite;oprostiti
+da opslužiš;opslužiti
+da organizira;organizirati
+da organiziraju;organizirati
+da organiziram;organizirati
+da organiziramo;organizirati
+da organiziraš;organizirati
+da organizirate;organizirati
+da orobe;orobiti
+da orobi;orobiti
+da orobim;orobiti
+da orobimo;orobiti
+da orobiš;orobiti
+da orobite;orobiti
+da osete;osjetiti
+da oseti;osjetiti
+da osetim;osjetiti
+da osetimo;osjetiti
+da osetiš;osjetiti
+da osetite;osjetiti
+da osjete;osjetiti
+da osjeti;osjetiti
+da osjetim;osjetiti
+da osjetimo;osjetiti
+da osjetiš;osjetiti
+da osjetite;osjetiti
+da osnuje;osnovati
+da osnujem;osnovati
+da osnujemo;osnovati
+da osnuješ;osnovati
+da osnujete;osnovati
+da osnuju;osnovati
+da ostaje;ostajati
+da ostajem;ostajati
+da ostajemo;ostajati
+da ostaješ;ostajati
+da ostajete;ostajati
+da ostaju;ostajati
+da ostane;ostati
+da ostanem;ostati
+da ostanemo;ostati
+da ostaneš;ostati
+da ostanete;ostati
+da ostanu;ostati
+da ostave;ostaviti
+da ostavi;ostaviti
+da ostavim;ostaviti
+da ostavimo;ostaviti
+da ostaviš;ostaviti
+da ostavite;ostaviti
+da osvijetlimo;osvijetliti
+da osvoje;osvojiti
+da osvoji;osvojiti
+da osvojim;osvojiti
+da osvojimo;osvojiti
+da osvojiš;osvojiti
+da osvojite;osvojiti
+da ošiša;ošišati
+da ošišaju;ošišati
+da ošišam;ošišati
+da ošišamo;ošišati
+da ošišaš;ošišati
+da ošišate;ošišati
+da otkineš;otkinuti
+da otkopa;otkopati
+da otkopaju;otkopati
+da otkopam;otkopati
+da otkopamo;otkopati
+da otkopaš;otkopati
+da otkopate;otkopati
+da otkopava;otkopavati
+da otkopavaju;otkopavati
+da otkopavam;otkopavati
+da otkopavamo;otkopavati
+da otkopavaš;otkopavati
+da otkopavate;otkopavati
+da otkrije;otkriti
+da otkrijem;otkriti
+da otkrijemo;otkriti
+da otkriješ;otkriti
+da otkrijete;otkriti
+da otkriju;otkriti
+da otpjevamo;otpjevati
+da otplatim;otplatiti
+da otputujemo;otputovati
+da otvara;otvarati
+da otvaraju;otvarati
+da otvaram;otvarati
+da otvaramo;otvarati
+da otvaraš;otvarati
+da otvarate;otvarati
+da otvorim;otvoriti
+da ožene;oženiti
+da oženi;oženiti
+da oženim;oženiti
+da oženimo;oženiti
+da oženiš;oženiti
+da oženite;oženiti
+da pada;padati
+da padaju;padati
+da padam;padati
+da padamo;padati
+da padaš;padati
+da padate;padati
+da padne;pasti
+da padnem;pasti
+da padnemo;pasti
+da padneš;pasti
+da padnete;pasti
+da padnu;pasti
+da pale;paliti
+da pali;paliti
+da palim;paliti
+da palimo;paliti
+da pališ;paliti
+da palite;paliti
+da parkira;parkirati
+da parkiraju;parkirati
+da parkiram;parkirati
+da parkiramo;parkirati
+da parkiraš;parkirati
+da parkirate;parkirati
+da paze;paziti
+da pazi;paziti
+da pazim;paziti
+da pazimo;paziti
+da paziš;paziti
+da pazite;paziti
+da peca;pecati
+da pecaju;pecati
+da pecam;pecati
+da pecamo;pecati
+da pecaš;pecati
+da pecate;pecati
+da pije;piti
+da pijem;piti
+da pijemo;piti
+da piješ;piti
+da pijete;piti
+da piju;piti
+da piša;pišati
+da pišaju;pišati
+da pišam;pišati
+da pišamo;pišati
+da pišaš;pišati
+da pišate;pišati
+da piške;piškiti
+da piški;piškiti
+da piškim;piškiti
+da piškimo;piškiti
+da piškiš;piškiti
+da piškite;piškiti
+da pita;pitati
+da pitaju;pitati
+da pitam;pitati
+da pitamo;pitati
+da pitaš;pitati
+da pitate;pitati
+da pješaèe;pješaèiti
+da pješaèi;pješaèiti
+da pješaèim;pješaèiti
+da pješaèimo;pješaèiti
+da pješaèiš;pješaèiti
+da pješaèite;pješaèiti
+da pjeva;pjevati
+da pjevaju;pjevati
+da pjevam;pjevati
+da pjevamo;pjevati
+da pjevaš;pjevati
+da pjevate;pjevati
+da plaèe;plakati
+da plaèem;plakati
+da plaèemo;plakati
+da plaèeš;plakati
+da plaèete;plakati
+da plaèu;plakati
+da plaæa;plaæati
+da plaæaju;plaæati
+da plaæam;plaæati
+da plaæamo;plaæati
+da plaæaš;plaæati
+da plaæate;plaæati
+da plate;platiti
+da plati;platiti
+da platim;platiti
+da platimo;platiti
+da platiš;platiti
+da platite;platiti
+da pleše;plesati
+da plešem;plesati
+da plešemo;plesati
+da plešeš;plesati
+da plešete;plesati
+da plešu;plesati
+da plete;plesti
+da pletem;plesti
+da pletemo;plesti
+da pleteš;plesti
+da pletete;plesti
+da pletu;plesti
+da pliva;plivati
+da plivaju;plivati
+da plivam;plivati
+da plivamo;plivati
+da plivaš;plivati
+da plivate;plivati
+da plovi;ploviti
+da plovim;ploviti
+da pluta;plutati
+da plutaju;plutati
+da plutam;plutati
+da plutamo;plutati
+da plutaš;plutati
+da plutate;plutati
+da pljuneš;pljunuti
+da poaže;pokazati
+da pobede;pobijediti
+da pobedi;pobijediti
+da pobedim;pobijediti
+da pobedimo;pobijediti
+da pobediš;pobijediti
+da pobedite;pobijediti
+da pobegne;pobjeæi
+da pobegnem;pobjeæi
+da pobegnemo;pobjeæi
+da pobegneš;pobjeæi
+da pobegnete;pobjeæi
+da pobegnu;pobjeæi
+da pobijede;pobijediti
+da pobijedi;pobjediti
+da pobijedim;pobijediti
+da pobijedimo;pobijediti
+da pobijediš;pobjediti
+da pobijedite;pobijediti
+da pobjegne;pobjeæi
+da pobjegnem;pobjeæi
+da pobjegnemo;pobjeæi
+da pobjegneš;pobjeæi
+da pobjegnete;pobjeæi
+da pobjegnu;pobjeæi
+da poèiste;poèistiti
+da poèisti;poèistiti
+da poèistim;poèistiti
+da poèistimo;poèistiti
+da poèistiš;poèistiti
+da poèistite;poèistiti
+da poène;poèeti
+da poènem;poèeti
+da poènemo;poèeti
+da poèneš;poèeti
+da poènete;poèeti
+da poènu;poèeti
+da podele;podijeliti
+da podeli;podijeliti
+da podelim;podijeliti
+da podelimo;podijeliti
+da podeliš;podijeliti
+da podelite;podijeliti
+da podigne;podiæi
+da podignem;podiæi
+da podignemo;podiæi
+da podigneš;podiæi
+da podignete;podiæi
+da podignu;podiæi
+da podijele;podijeliti
+da podijeli;podijeliti
+da podijelim;podijeliti
+da podijelimo;podijeliti
+da podijeliš;podijeliti
+da podijelite;podijeliti
+da podiže;podizati
+da podižem;podizati
+da podižemo;podizati
+da podižeš;podizati
+da podižete;podizati
+da podižu;podizati
+da podnese;podnijeti
+da podnesem;podnijeti
+da podnesemo;podnijeti
+da podneseš;podnijeti
+da podnesete;podnijeti
+da podnesu;podnijeti
+da podsete;podsjetiti
+da podseti;podsjetiti
+da podsetim;podsjetiti
+da podsetimo;podsjetiti
+da podsetiš;podsjetiti
+da podsetite;podsjetiti
+da podsjete;podsjetiti
+da podsjeti;podsjetiti
+da podsjetim;podsjetiti
+da podsjetimo;podsjetiti
+da podsjetiš;podsjetiti
+da podsjetite;podsjetiti
+da poduzmemo;poduzeti
+da poðe;poæi
+da poðem;poæi
+da poðemo;poæi
+da poðeš;poæi
+da poðete;poæi
+da poðu;poæi
+da pogineš;poginuti
+da pogleda;pogledati
+da pogledaju;pogledati
+da pogledam;pogledati
+da pogledamo;pogledati
+da pogledaš;pogledati
+da pogledate;pogledati
+da pogode;pogoditi
+da pogodi;pogoditi
+da pogodim;pogoditi
+da pogodimo;pogoditi
+da pogodiš;pogoditi
+da pogodite;pogoditi
+da pogriješe;pogriješiti
+da pogriješi;pogriješiti
+da pogriješim;pogriješiti
+da pogriješimo;pogriješiti
+da pogriješiš;pogriješiti
+da pogriješite;pogriješiti
+da pohaðam;pohaðati
+da pohvalim;pohvaliti
+da pojede;pojesti
+da pojedem;pojesti
+da pojedemo;pojesti
+da pojedeš;pojesti
+da pojedete;pojesti
+da pojedu;pojesti
+da pokaže;pokazati
+da pokažem;pokazati
+da pokažemo;pokazati
+da pokažeš;pokazati
+da pokažete;pokazati
+da pokažu;pokazati
+da poklanja;poklanjati
+da poklanjaju;poklanjati
+da poklanjam;poklanjati
+da poklanjamo;poklanjati
+da poklanjaš;poklanjati
+da poklanjate;poklanjati
+da poklone;pokloniti
+da pokloni;pokloniti
+da poklonim;pokloniti
+da poklonimo;pokloniti
+da pokloniš;pokloniti
+da poklonite;pokloniti
+da pokrije;pokriti
+da pokrijem;pokriti
+da pokrijemo;pokriti
+da pokriješ;pokriti
+da pokrijete;pokriti
+da pokupe;pokupiti
+da pokupi;pokupiti
+da pokupim;pokupiti
+da pokupimo;pokupiti
+da pokupiš;pokupiti
+da pokupite;pokupiti
+da pokuša;pokušati
+da pokušaju;pokušati
+da pokušam;pokušati
+da pokušamo;pokušati
+da pokušaš;pokušati
+da pokušate;pokušati
+da pokušava;pokušavati
+da pokušavaju;pokušavati
+da pokušavam;pokušavati
+da pokušavamo;pokušavati
+da pokušavaš;pokušavati
+da pokušavate;pokušavati
+da polete;poletjeti
+da poleti;poletjeti
+da poletim;poletjeti
+da poletimo;poletjeti
+da poletiš;poletjeti
+da poletite;poletjeti
+da polome;polomiti
+da polomi;polomiti
+da polomim;polomiti
+da polomimo;polomiti
+da polomiš;polomiti
+da polomite;polomiti
+da polude;poluditi
+da poludi;poluditi
+da poludim;poluditi
+da poludimo;poluditi
+da poludiš;poluditi
+da poludite;poluditi
+da pomakne;pomaknuti
+da pomaknem;pomaknuti
+da pomaknemo;pomaknuti
+da pomakneš;pomaknuti
+da pomaknete;pomaknuti
+da pomaknu;pomaknuti
+da pomaže;pomagati
+da pomažem;pomagati
+da pomažemo;pomagati
+da pomažeš;pomagati
+da pomažete;pomagati
+da pomažu;pomagati
+da pomenem;spomenuti
+da pomisle;pomisliti
+da pomisli;pomisliti
+da pomislim;pomisliti
+da pomislimo;pomisliti
+da pomisliš;pomisliti
+da pomislite;pomisliti
+da pomjerim;pomaknuti
+da pomogne;pomoæi
+da pomognem;pomoæi
+da pomognemo;pomoæi
+da pomogneš;pomoæi
+da pomognete;pomoæi
+da pomognu;pomoæi
+da ponese;ponijeti
+da ponesem;ponijeti
+da ponesemo;ponijeti
+da poneseš;ponijeti
+da ponesete;ponijeti
+da ponesu;ponijeti
+da popije;popiti
+da popijem;popiti
+da popijemo;popiti
+da popiješ;popiti
+da popijete;popiti
+da popiju;popiti
+da poprave;popraviti
+da popravi;popraviti
+da popravim;popraviti
+da popravimo;popraviti
+da popraviš;popraviti
+da popravite;popraviti
+da poprièa;razgovarati
+da poprièaju;razgovarati
+da poprièam;razgovarati
+da poprièamo;razgovarati
+da poprièaš;razgovarati
+da poprièate;razgovarati
+da popune;popuniti
+da popuni;popuniti
+da popunim;popuniti
+da popunimo;popuniti
+da popuniš;popuniti
+da popunite;popuniti
+da porazgovara;porazgovarati
+da porazgovaraju;porazgovarati
+da porazgovaram;porazgovarati
+da porazgovaramo;porazgovarati
+da porazgovaraš;porazgovarati
+da porazgovarate;porazgovarati
+da posadiš;posaditi
+da posete;posjetiti
+da poseti;posjetiti
+da posetim;posjetiti
+da posetimo;posjetiti
+da posetiš;posjetiti
+da posetite;posjetiti
+da posjete;posjetiti
+da posjeti;posjetiti
+da posjetim;posjetiti
+da posjetimo;posjetiti
+da posjetiš;posjetiti
+da posjetite;posjetiti
+da posluša;poslušati
+da poslušaju;poslušati
+da poslušam;poslušati
+da poslušamo;poslušati
+da poslušaš;poslušati
+da poslušate;poslušati
+da postane;postati
+da postanem;postati
+da postanemo;postati
+da postaneš;postati
+da postanete;postati
+da postanu;postati
+da postoje;postojati
+da postoji;postojati
+da postojim;postojati
+da postojimo;postojati
+da postojiš;postojati
+da postojite;postojati
+da posude;posuditi
+da posudi;posuditi
+da posudim;posuditi
+da posudimo;posuditi
+da posudiš;posuditi
+da posudite;posuditi
+da posuðuješ;posuðivati
+da pošalje;poslati
+da pošaljem;poslati
+da pošaljemo;poslati
+da pošalješ;poslati
+da pošaljete;poslati
+da pošalju;poslati
+da potone;potonuti
+da potpiše;potpisati
+da potpišem;potpisati
+da potpišemo;potpisati
+da potpišeš;potpisati
+da potpišete;potpisati
+da potpišu;potpisati
+da potraje;potrajati
+da potrajem;potrajati
+da potrajemo;potrajati
+da potraješ;potrajati
+da potrajete;potrajati
+da potraju;potrajati
+da potraže;potražiti
+da potraži;potražiti
+da potražim;potražiti
+da potražimo;potražiti
+da potražiš;potražiti
+da potražite;potražiti
+da povede;povesti
+da povedem;povesti
+da povedemo;povesti
+da povedeš;povesti
+da povedete;povesti
+da povedu;povesti
+da povjeruje;povjerovati
+da povjerujem;povjerovati
+da povjerujemo;povjerovati
+da povjeruješ;povjerovati
+da povjerujete;povjerovati
+da povjeruju;povjerovati
+da povratim;vratiti
+da povrede;povrijediti
+da povrijede;povrijediti
+da povrijedi;povrijediti
+da povrijedim;povrijediti
+da povrijedimo;povrijediti
+da povrijediš;povrijediti
+da povrijedite;povrijediti
+da povuèe;povuæi
+da povuèem;povuæi
+da povuèemo;povuæi
+da povuèeš;povuæi
+da povuèete;povuæi
+da povuku;povuæi
+da pozdravimo;pozdraviti
+da pozove;pozvati
+da pozovem;pozvati
+da pozovemo;pozvati
+da pozoveš;pozvati
+da pozovete;pozvati
+da pozovu;pozvati
+da požele;poželiti
+da poželi;poželiti
+da poželim;poželiti
+da poželimo;poželiti
+da poželiš;poželiti
+da poželite;poželiti
+da požure;požuriti
+da požuri;požuriti
+da požurim;požuriti
+da požurimo;požuriti
+da požuriš;požuriti
+da požurite;požuriti
+da pratimo;pratiti
+da pratiš;pratiti
+da pratite;pratiti
+da prave;praviti
+da pravi;praviti
+da pravim;praviti
+da pravimo;praviti
+da praviš;praviti
+da pravite;praviti
+da prebace;prebaciti
+da prebaci;prebaciti
+da prebacim;prebaciti
+da prebacimo;prebaciti
+da prebaciš;prebaciti
+da prebacite;prebaciti
+da prebije;prebiti
+da prebijem;prebiti
+da prebijemo;prebiti
+da prebiješ;prebiti
+da prebijete;prebiti
+da prebiju;prebiti
+da precrta;precrtati
+da precrtaju;precrtati
+da precrtam;precrtati
+da precrtamo;precrtati
+da precrtaš;precrtati
+da precrtate;precrtati
+da precrtava;precrtavati
+da precrtavaju;precrtavati
+da precrtavam;precrtavati
+da precrtavamo;precrtavati
+da precrtavaš;precrtavati
+da precrtavate;precrtavati
+da preðe;prijeæi
+da preðem;prijeæi
+da preðemo;prijeæi
+da preðeš;prijeæi
+da preðete;prijeæi
+da preðu;prijeæi
+da pregleda;pregledati
+da pregledaju;pregledati
+da pregledam;pregledati
+da pregledamo;pregledati
+da pregledaš;pregledati
+da pregledate;pregledati
+da prekine;prekinuti
+da prekinem;prekinuti
+da prekinemo;prekinuti
+da prekineš;prekinuti
+da prekinete;prekinuti
+da prekinu;prekinuti
+da prekrši;prekršiti
+da prelaze;prelaziti
+da prelazi;prelaziti
+da prelazim;prelaziti
+da prelazimo;prelaziti
+da prelaziš;prelaziti
+da prelazite;prelaziti
+da prenoæe;prenoæiti
+da prenoæi;prenoæiti
+da prenoæim;prenoæiti
+da prenoæimo;prenoæiti
+da prenoæiš;prenoæiti
+da prenoæite;prenoæiti
+da prepuste;prepustiti
+da prepusti;prepustiti
+da prepustim;prepustiti
+da prepustimo;prepustiti
+da prepustiš;prepustiti
+da prepustite;prepustiti
+da prespava;prespavati
+da prespavaju;prespavati
+da prespavam;prespavati
+da prespavamo;prespavati
+da prespavaš;prespavati
+da prespavate;prespavati
+da prestane;prestati
+da prestanem;prestati
+da prestanemo;prestati
+da prestaneš;prestati
+da prestanete;prestati
+da prestanu;prestati
+da preuzmem;preuzeti
+da preuzmemo;preuzeti
+da preuzmeš;preuzeti
+da preuzmete;preuzeti
+da preuzmu;preuzeti
+da prièa;prièati
+da prièaju;prièati
+da prièam;prièati
+da prièamo;prièati
+da prièaš;prièati
+da prièate;prièati
+da prièeka;prièekati
+da prièekaju;prièekati
+da prièekam;prièekati
+da prièekamo;prièekati
+da prièekaš;prièekati
+da prièekate;prièekati
+da prièvrste;prièvrstiti
+da prièvrsti;prièvrstiti
+da prièvrstim;prièvrstiti
+da prièvrstimo;prièvrstiti
+da prièvrstiš;prièvrstiti
+da prièvrstite;prièvrstiti
+da prihvate;prihvatiti
+da prihvati;prihvatiti
+da prihvatim;prihvatiti
+da prihvatimo;prihvatiti
+da prihvatiš;prihvatiti
+da prihvatite;prihvatiti
+da prijave;prijaviti
+da prijavi;prijaviti
+da prijavim;prijaviti
+da prijavimo;prijaviti
+da prijaviš;prijaviti
+da prijavite;prijaviti
+da prijeðe;prijeæi
+da prijeðem;prijeæi
+da prijeðemo;prijeæi
+da prijeðeš;prijeæi
+da prijeðete;prijeæi
+da prijeðu;prijeæi
+da prikažem;prikazati
+da prilože;priložiti
+da primijetiš;primijetiti
+da primjeæuje;primjeæivati
+da primjeæujem;primjeæivati
+da primjeæujemo;primjeæivati
+da primjeæuješ;primjeæivati
+da primjeæujete;primjeæivati
+da pripaze;pripaziti
+da pripazi;pripaziti
+da pripazim;pripaziti
+da pripazimo;pripaziti
+da pripaziš;pripaziti
+da pripazite;pripaziti
+da prisluškuješ;prisluškivati
+da pristanem;pristati
+da priušte;priuštiti
+da priušti;priuštiti
+da priuštim;priuštiti
+da priuštimo;priuštiti
+da priuštiš;priuštiti
+da priuštite;priuštiti
+da prizalogaje;prizalogajiti
+da prizalogaji;prizalogajiti
+da prizalogajim;prizalogajiti
+da prizalogajimo;prizalogajiti
+da prizalogajiš;prizalogajiti
+da prizalogajite;prizalogajiti
+da prizna;priznati
+da priznaju;priznati
+da priznam;priznati
+da priznamo;priznati
+da priznaš;priznati
+da priznate;priznati
+da proba;probati
+da probaju;probati
+da probam;probati
+da probamo;probati
+da probaš;probati
+da probate;probati
+da probušite;probušiti
+da proèita;proèitati
+da proèitaju;proèitati
+da proèitam;proèitati
+da proèitamo;proèitati
+da proèitaš;proèitati
+da proèitate;proèitati
+da proæaska;proæaskati
+da proæaskaju;proæaskati
+da proæaskam;proæaskati
+da proæaskamo;proæaskati
+da proæaskaš;proæaskati
+da proæaskate;proæaskati
+da proda;prodati
+da prodaju;prodati
+da prodam;prodati
+da prodamo;prodati
+da prodaš;prodati
+da prodate;prodati
+da produžimo;produžiti
+da proðe;proæi
+da proðem;proæi
+da proðemo;proæi
+da proðeš;proæi
+da proðete;proæi
+da proðu;proæi
+da programira;programirati
+da programiraju;programirati
+da programiram;programirati
+da programiramo;programirati
+da programiraš;programirati
+da programirate;programirati
+da proguta;progutati
+da progutaju;progutati
+da progutam;progutati
+da progutamo;progutati
+da progutaš;progutati
+da progutate;progutati
+da proizaðe;proiziæi
+da promaše;promašiti
+da promaši;promašiti
+da promašim;promašiti
+da promašimo;promašiti
+da promašiš;promašiti
+da promašite;promašiti
+da promene;promijeniti
+da promeni;promijeniti
+da promenim;promijeniti
+da promenimo;promijeniti
+da promeniš;promijeniti
+da promenite;promijeniti
+da promijene;promijeniti
+da promijeni;promijeniti
+da promijenim;promijeniti
+da promijenimo;promijeniti
+da promijeniš;promijeniti
+da promijenite;promijeniti
+da promjene;promijeniti
+da promjeni;promijeniti
+da promjenim;promijeniti
+da promjenimo;promijeniti
+da promjeniš;promijeniti
+da promjenite;promijeniti
+da pronaðe;pronaæi
+da pronaðem;pronaæi
+da pronaðemo;pronaæi
+da pronaðeš;pronaæi
+da pronaðete;pronaæi
+da pronaðu;pronaæi
+da propadne;propasti
+da propadnem;propasti
+da propadnemo;propasti
+da propadneš;propasti
+da propadnete;propasti
+da propadnu;propasti
+da propustim;propustiti
+da proradi;proraditi
+da prouèe;prouèiti
+da prouèi;prouèiti
+da prouèim;prouèiti
+da prouèimo;prouèiti
+da prouèiš;prouèiti
+da prouèite;prouèiti
+da prouzrokuje;prouzrokovati
+da prouzrokujem;prouzrokovati
+da prouzrokujemo;prouzrokovati
+da prouzrokuješ;prouzrokovati
+da prouzrokujete;prouzrokovati
+da prouzrokuju;prouzrokovati
+da provale;provaliti
+da provali;provaliti
+da provalim;provaliti
+da provalimo;provaliti
+da provališ;provaliti
+da provalite;provaliti
+da provaljuje;provaljivati
+da provaljujem;provaljivati
+da provaljujemo;provaljivati
+da provaljuješ;provaljivati
+da provaljujete;provaljivati
+da provaljuju;provaljivati
+da provede;provesti
+da provedem;provesti
+da provedemo;provesti
+da provedeš;provesti
+da provedete;provesti
+da provedu;provesti
+da provere;provjeriti
+da proveri;provjeriti
+da proverim;provjeriti
+da proverimo;provjeriti
+da proveriš;provjeriti
+da proverite;provjeriti
+da provjerava;provjeravati
+da provjeravaju;provjeravati
+da provjeravam;provjeravati
+da provjeravamo;provjeravati
+da provjeravaš;provjeravati
+da provjeravate;provjeravati
+da provjere;provjeriti
+da provjeri;provjeriti
+da provjerim;provjeriti
+da provjerimo;provjeriti
+da provjeriš;provjeriti
+da provjerite;provjeriti
+da provuèem;provuæi
+da pruzme;preuzeti
+da pruži;pružiti
+da pružim;pružiti
+da puni;puniti
+da pustim;pustiti
+da pustiš;pustiti
+da puše;pušiti
+da pušem;puhati
+da pušeš;puhati
+da puši;pušiti
+da pušim;pušiti
+da pušimo;pušiti
+da pušiš;pušiti
+da pušite;pušiti
+da pušta;puštati
+da puštaju;puštati
+da puštam;puštati
+da puštamo;puštati
+da puštaš;puštati
+da puštate;puštati
+da putuje;putovati
+da putujem;putovati
+da putujemo;putovati
+da putuješ;putovati
+da putujete;putovati
+da putuju;putovati
+da puze;puzati
+da puzi;puzati
+da puzim;puzati
+da puzimo;puzati
+da puziš;puzati
+da puzite;puzati
+da rade;raditi
+da radi;raditi
+da radim;raditi
+da radimo;raditi
+da radiš;raditi
+da radite;raditi
+da raspravimo;raspraviti
+da raste;rasti
+da rastegne;rastegnuti
+da rastegnem;rastegnuti
+da rastegnemo;rastegnuti
+da rastegneš;rastegnuti
+da rastegnete;rastegnuti
+da rastegnu;rastegnuti
+da rastem;rasti
+da rastemo;rasti
+da rasteš;rasti
+da rastete;rasti
+da rastu;rasti
+da rasture;rasturiti
+da rasturi;rasturiti
+da rasturim;rasturiti
+da rasturimo;rasturiti
+da rasturiš;rasturiti
+da rasturite;rasturiti
+da rašèistim;rašèistiti
+da rašèistimo;rašèistiti
+da razbije;razbiti
+da razbijem;razbiti
+da razbijemo;razbiti
+da razbiješ;razbiti
+da razbijete;razbiti
+da razbiju;razbiti
+da razgovara;razgovarati
+da razgovaraju;razgovarati
+da razgovaram;razgovarati
+da razgovaramo;razgovarati
+da razgovaraš;razgovarati
+da razgovarate;razgovarati
+da razjasne;razjasniti
+da razjasni;razjasniti
+da razjasnim;razjasniti
+da razjasnimo;razjasniti
+da razjasniš;razjasniti
+da razjasnite;razjasniti
+da razlikuje;razlikovati
+da razlikujem;razlikovati
+da razlikujemo;razlikovati
+da razlikuješ;razlikovati
+da razlikujete;razlikovati
+da razlikuju;razlikovati
+da razmisle;razmisliti
+da razmisli;razmisliti
+da razmislim;razmisliti
+da razmislimo;razmisliti
+da razmisliš;razmisliti
+da razmislite;razmisliti
+da razmišlja;razmišljati
+da razmišljaju;razmišljati
+da razmišljam;razmišljati
+da razmišljamo;razmišljati
+da razmišljaš;razmišljati
+da razmišljate;razmišljati
+da raznese;raznijeti
+da raznesem;raznijeti
+da raznesemo;raznijeti
+da razneseš;raznijeti
+da raznesete;raznijeti
+da raznesu;raznijeti
+da razume;razumjeti
+da razumeju;razumjeti
+da razumem;razumjeti
+da razumemo;razumjeti
+da razumeš;razumjeti
+da razumete;razumjeti
+da razumije;razumjeti
+da razumijem;razumjeti
+da razumijemo;razumjeti
+da razumiješ;razumjeti
+da razumijete;razumjeti
+da razumiju;razumjeti
+da razumjeva;razumjevati
+da razumjevaju;razumjevati
+da razumjevam;razumjevati
+da razumjevamo;razumjevati
+da razumjevaš;razumjevati
+da razumjevate;razumjevati
+da razvija;razvijati
+da razvijaju;razvijati
+da razvijam;razvijati
+da razvijamo;razvijati
+da razvijaš;razvijati
+da razvijate;razvijati
+da resetiramo;resetirati
+da restaurira;restaurirati
+da restauriraju;restaurirati
+da restauriram;restaurirati
+da restauriramo;restaurirati
+da restauriraš;restaurirati
+da restaurirate;restaurirati
+da riješim;riješiti
+da riješimo;riješiti
+da riješite;riješiti
+da riskira;riskirati
+da riskiraju;riskirati
+da riskiram;riskirati
+da riskiramo;riskirati
+da riskiraš;riskirati
+da riskirate;riskirati
+da rješava;rješavati
+da rješavaju;rješavati
+da rješavam;rješavati
+da rješavamo;rješavati
+da rješavaš;rješavati
+da rješavate;rješavati
+da ruèamo;ruèati
+da sabotira;sabotirati
+da saèeka;prièekati
+da saèekaju;èekati
+da saèekam;èekati
+da saèekamo;èekati
+da saèekaš;prièekati
+da saèekate;prièekati
+da saèuva;saèuvati
+da saèuvaju;saèuvati
+da saèuvam;saèuvati
+da saèuvamo;saèuvati
+da saèuvaš;saèuvati
+da saèuvate;saèuvati
+da sagleda;sagledati
+da sagledaju;sagledati
+da sagledam;sagledati
+da sagledamo;sagledati
+da sagledaš;sagledati
+da sagledate;sagledati
+da sasluša;saslušati
+da saslušaju;saslušati
+da saslušam;saslušati
+da saslušamo;saslušati
+da saslušaš;saslušati
+da saslušate;saslušati
+da sastave;sastaviti
+da sastavi;sastaviti
+da sastavim;sastaviti
+da sastavimo;sastaviti
+da sastaviš;sastaviti
+da sastavite;sastaviti
+da savlada;savladati
+da savladaju;savladati
+da savladam;savladati
+da savladamo;savladati
+da savladaš;savladati
+da savladate;savladati
+da sazna;saznati
+da saznaju;saznati
+da saznam;saznati
+da saznamo;saznati
+da saznaš;saznati
+da saznate;saznati
+da se analizira;se analizirati
+da se analiziraju;se analizirati
+da se analiziram;se analizirati
+da se analiziramo;se analizirati
+da se analiziraš;se analizirati
+da se analizirate;se analizirati
+da se brine;se brinuti
+da se brinem;se brinuti
+da se brinemo;se brinuti
+da se brineš;se brinuti
+da se brinete;se brinuti
+da se brinu;se brinuti
+da se dive;se diviti
+da se divi;se diviti
+da se divim;se diviti
+da se divimo;se diviti
+da se diviš;se diviti
+da se divite;se diviti
+da se dogaða;se dogaðati
+da se dogaðaju;se dogaðati
+da se dogaðam;se dogaðati
+da se dogaðamo;se dogaðati
+da se dogaðaš;se dogaðati
+da se dogaðate;se dogaðati
+da se dogode;se dogoditi
+da se dogodi;se dogoditi
+da se dogodim;se dogoditi
+da se dogodimo;se dogoditi
+da se dogodiš;se dogoditi
+da se dogodite;se dogoditi
+da se folira;se folirati
+da se foliraju;se folirati
+da se foliram;se folirati
+da se foliramo;se folirati
+da se foliraš;se folirati
+da se folirate;se folirati
+da se hrva;se hrvati
+da se hrvaju;se hrvati
+da se hrvam;se hrvati
+da se hrvamo;se hrvati
+da se hrvaš;se hrvati
+da se hrvate;se hrvati
+da se isele;se iseliti
+da se iseli;se iseliti
+da se iselim;se iseliti
+da se iselimo;se iseliti
+da se iseliš;se iseliti
+da se iselite;se iseliti
+da se iskrade;se iskrasti
+da se iskradem;se iskrasti
+da se iskrademo;se iskrasti
+da se iskradeš;se iskrasti
+da se iskradete;se iskrasti
+da se iskradu;se iskrasti
+da se iskupe;se iskupiti
+da se iskupi;se iskupiti
+da se iskupim;se iskupiti
+da se iskupimo;se iskupiti
+da se iskupiš;se iskupiti
+da se iskupite;se iskupiti
+da se isprièa;se isprièati
+da se isprièaju;se isprièati
+da se isprièam;se isprièati
+da se isprièamo;se isprièati
+da se isprièaš;se isprièati
+da se isprièate;se isprièati
+da se izbore;se izboriti
+da se izbori;se izboriti
+da se izborim;se izboriti
+da se izborimo;se izboriti
+da se izboriš;se izboriti
+da se izborite;se izboriti
+da se izdigne;se izdiæi
+da se izdignem;se izdiæi
+da se izdignemo;se izdiæi
+da se izdigneš;se izdiæi
+da se izdignete;se izdiæi
+da se izdignu;se izdiæi
+da se kandidira;se kandidirati
+da se kandidiraju;se kandidirati
+da se kandidiram;se kandidirati
+da se kandidiramo;se kandidirati
+da se kandidiraš;se kandidirati
+da se kandidirate;se kandidirati
+da se kaž;se reæi
+da se kažju;se reæi
+da se kažm;se reæi
+da se kažmo;se reæi
+da se kažš;se reæi
+da se kažte;se reæi
+da se klade;se kladiti
+da se kladi;se kladiti
+da se kladim;se kladiti
+da se kladimo;se kladiti
+da se kladiš;se kladiti
+da se kladite;se kladiti
+da se koncentrira;se koncentrirati
+da se koncentriraju;se koncentrirati
+da se koncentriram;se koncentrirati
+da se koncentriramo;se koncentrirati
+da se koncentriraš;se koncentrirati
+da se koncentrirate;se koncentrirati
+da se ljute;se ljutiti
+da se ljuti;se ljutiti
+da se ljutim;se ljutiti
+da se ljutimo;se ljutiti
+da se ljutiš;se ljutiti
+da se ljutite;se ljutiti
+da se miješa;se mješati
+da se miješaju;se mješati
+da se miješam;se mješati
+da se miješamo;se mješati
+da se miješaš;se mješati
+da se miješate;se mješati
+da se nada;se nadati
+da se nadaju;se nadati
+da se nadam;se nadati
+da se nadamo;se nadati
+da se nadaš;se nadati
+da se nadate;se nadati
+da se natjera;se natjerati
+da se natjeraju;se natjerati
+da se natjeram;se natjerati
+da se natjeramo;se natjerati
+da se natjeraš;se natjerati
+da se natjerate;se natjerati
+da se navikne;se naviknuti
+da se naviknem;se naviknuti
+da se naviknemo;se naviknuti
+da se navikneš;se naviknuti
+da se naviknete;se naviknuti
+da se naviknu;se naviknuti
+da se nervira;se nervirati
+da se nerviraju;se nervirati
+da se nerviram;se nervirati
+da se nerviramo;se nervirati
+da se nerviraš;se nervirati
+da se nervirate;se nervirati
+da se obrane;se obraniti
+da se obrani;se obraniti
+da se obranim;se obraniti
+da se obranimo;se obraniti
+da se obraniš;se obraniti
+da se obranite;se obraniti
+da se odluèe;se odluèiti
+da se odluèi;se odluèiti
+da se odluèim;se odluèiti
+da se odluèimo;se odluèiti
+da se odluèiš;se odluèiti
+da se odluèite;se odluèiti
+da se odmore;se odmoriti
+da se odmori;se odmoriti
+da se odmorim;se odmoriti
+da se odmorimo;se odmoriti
+da se odmoriš;se odmoriti
+da se odmorite;se odmoriti
+da se odnose;se odnositi
+da se odnosi;se odnositi
+da se odnosim;se odnositi
+da se odnosimo;se odnositi
+da se odnosiš;se odnositi
+da se odnosite;se odnositi
+da se oduže;se odužiti
+da se oduži;se odužiti
+da se odužim;se odužiti
+da se odužimo;se odužiti
+da se odužiš;se odužiti
+da se odužite;se odužiti
+da se okrene;se okrenuti
+da se okrenem;se okrenuti
+da se okrenemo;se okrenuti
+da se okreneš;se okrenuti
+da se okrenete;se okrenuti
+da se okrenu;se okrenuti
+da se okupa;se okupati
+da se okupaju;se okupati
+da se okupam;se okupati
+da se okupamo;se okupati
+da se okupaš;se okupati
+da se okupate;se okupati
+da se ophode;se ophoditi
+da se ophodi;se ophoditi
+da se ophodim;se ophoditi
+da se ophodimo;se ophoditi
+da se ophodiš;se ophoditi
+da se ophodite;se ophoditi
+da se opuste;se opustiti
+da se opusti;se opustiti
+da se opustim;se opustiti
+da se opustimo;se opustiti
+da se opustiš;se opustiti
+da se opustite;se opustiti
+da se osigura;se osigurati
+da se osiguraju;se osigurati
+da se osiguram;se osigurati
+da se osiguramo;se osigurati
+da se osiguraš;se osigurati
+da se osigurate;se osigurati
+da se osjeæa;se osjeæati
+da se osjeæaju;se osjeæati
+da se osjeæam;se osjeæati
+da se osjeæamo;se osjeæati
+da se osjeæaš;se osjeæati
+da se osjeæate;se osjeæati
+da se oslone;se osloniti
+da se osloni;se osloniti
+da se oslonim;se osloniti
+da se oslonimo;se osloniti
+da se osloniš;se osloniti
+da se oslonite;se osloniti
+da se osvoje;se osvojiti
+da se osvoji;se osvojiti
+da se osvojim;se osvojiti
+da se osvojimo;se osvojiti
+da se osvojiš;se osvojiti
+da se osvojite;se osvojiti
+da se plaše;se plašiti
+da se plaši;se plašiti
+da se plašim;se plašiti
+da se plašimo;se plašiti
+da se plašiš;se plašiti
+da se plašite;se plašiti
+da se pobrine;se pobrinuti
+da se pobrinem;se pobrinuti
+da se pobrinemo;se pobrinuti
+da se pobrineš;se pobrinuti
+da se pobrinete;se pobrinuti
+da se pobrinu;se pobrinuti
+da se podsjeæa;se podsjeæati
+da se podsjeæaju;se podsjeæati
+da se podsjeæam;se podsjeæati
+da se podsjeæamo;se podsjeæati
+da se podsjeæaš;se podsjeæati
+da se podsjeæate;se podsjeæati
+da se poistovjete;se poistovjetiti
+da se poistovjeti;se poistovjetiti
+da se poistovjetim;se poistovjetiti
+da se poistovjetimo;se poistovjetiti
+da se poistovjetiš;se poistovjetiti
+da se poistovjetite;se poistovjetiti
+da se pokriva;se pokrivati
+da se pokrivaju;se pokrivati
+da se pokrivam;se pokrivati
+da se pokrivamo;se pokrivati
+da se pokrivaš;se pokrivati
+da se pokrivate;se pokrivati
+da se ponaša;se ponašati
+da se ponašaju;se ponašati
+da se ponašam;se ponašati
+da se ponašamo;se ponašati
+da se ponašaš;se ponašati
+da se ponašate;se ponašati
+da se posade;se posaditi
+da se posadi;se posaditi
+da se posadim;se posaditi
+da se posadimo;se posaditi
+da se posadiš;se posaditi
+da se posadite;se posaditi
+da se potrude;se potruditi
+da se potrudi;se potruditi
+da se potrudim;se potruditi
+da se potrudimo;se potruditi
+da se potrudiš;se potruditi
+da se potrudite;se potruditi
+da se povuèe;se povuæi
+da se povuèem;se povuæi
+da se povuèemo;se povuæi
+da se povuèeš;se povuæi
+da se povuèete;se povuæi
+da se povuèu;se povuæi
+da se prave;se praviti
+da se pravi;se praviti
+da se pravim;se praviti
+da se pravimo;se praviti
+da se praviš;se praviti
+da se pravite;se praviti
+da se pretvara;se pretvarati
+da se pretvaraju;se pretvarati
+da se pretvaram;se pretvarati
+da se pretvaramo;se pretvarati
+da se pretvaraš;se pretvarati
+da se pretvarate;se pretvarati
+da se pridruže;se pridružiti
+da se pridruži;se pridružiti
+da se pridružim;se pridružiti
+da se pridružimo;se pridružiti
+da se pridružiš;se pridružiti
+da se pridružite;se pridružiti
+da se prijave;se prijaviti
+da se prijavi;se prijaviti
+da se prijavim;se prijaviti
+da se prijavimo;se prijaviti
+da se prijaviš;se prijaviti
+da se prijavite;se prijaviti
+da se prikljuèe;se prikljuèiti
+da se prikljuèi;se prikljuèiti
+da se prikljuèim;se prikljuèiti
+da se prikljuèimo;se prikljuèiti
+da se prikljuèiš;se prikljuèiti
+da se prikljuèite;se prikljuèiti
+da se promijene;se promijeniti
+da se promijeni;se promijeniti
+da se promijenim;se promijeniti
+da se promijenimo;se promijeniti
+da se promijeniš;se promijeniti
+da se promijenite;se promijeniti
+da se provuèe;se provuæi
+da se provuèem;se provuæi
+da se provuèemo;se provuæi
+da se provuèeš;se provuæi
+da se provuèete;se provuæi
+da se provuku;se provuæi
+da se raèuna;se raèunati
+da se raèunaju;se raèunati
+da se raèunam;se raèunati
+da se raèunamo;se raèunati
+da se raèunaš;se raèunati
+da se raèunate;se raèunati
+da se raskomote;se raskomotiti
+da se raskomoti;se raskomotiti
+da se raskomotim;se raskomotiti
+da se raskomotimo;se raskomotiti
+da se raskomotiš;se raskomotiti
+da se raskomotite;se raskomotiti
+da se raspravlja;se raspravljati
+da se raspravljaju;se raspravljati
+da se raspravljam;se raspravljati
+da se raspravljamo;se raspravljati
+da se raspravljaš;se raspravljati
+da se raspravljate;se raspravljati
+da se registrira;se registrirati
+da se registriraju;se registrirati
+da se registriram;se registrirati
+da se registriramo;se registrirati
+da se registriraš;se registrirati
+da se registrirate;se registrirati
+da se rukuje;se rukovati
+da se rukujem;se rukovati
+da se rukujemo;se rukovati
+da se rukuješ;se rukovati
+da se rukujete;se rukovati
+da se rukuju;se rukovati
+da se sagne;se sageti
+da se sagnem;se sageti
+da se sagnemo;se sageti
+da se sagneš;se sageti
+da se sagnete;se sageti
+da se sagnu;se sageti
+da se sjete;se sjetiti
+da se sjeti;se sjetiti
+da se sjetim;se sjetiti
+da se sjetimo;se sjetiti
+da se sjetiš;se sjetiti
+da se sjetite;se sjetiti
+da se skoncentrira;se skoncentrirati
+da se skoncentriraju;se skoncentrirati
+da se skoncentriram;se skoncentrirati
+da se skoncentriramo;se skoncentrirati
+da se skoncentriraš;se skoncentrirati
+da se skoncentrirate;se skoncentrirati
+da se slika;se slikati
+da se slikaju;se slikati
+da se slikam;se slikati
+da se slikamo;se slikati
+da se slikaš;se slikati
+da se slikate;se slikati
+da se slože;se složiti
+da se složi;se složiti
+da se složim;se složiti
+da se složimo;se složiti
+da se složiš;se složiti
+da se složite;se složiti
+da se smije;se smijati
+da se smijem;se smijati
+da se smijemo;se smijati
+da se smiješ;se smijati
+da se smijete;se smijati
+da se smiju;se smijati
+da se snaðe;se snaæi
+da se snaðem;se snaæi
+da se snaðemo;se snaæi
+da se snaðeš;se snaæi
+da se snaðete;se snaæi
+da se snaðu;se snaæi
+da se spreme;se spremiti
+da se spremi;se spremiti
+da se spremim;se spremiti
+da se spremimo;se spremiti
+da se spremiš;se spremiti
+da se spremite;se spremiti
+da se sruše;se srušiti
+da se sruši;se srušiti
+da se srušim;se srušiti
+da se srušimo;se srušiti
+da se srušiš;se srušiti
+da se srušite;se srušiti
+da se suoèe;se suoèiti
+da se suoèi;se suoèiti
+da se suoèim;se suoèiti
+da se suoèimo;se suoèiti
+da se suoèiš;se suoèiti
+da se suoèite;se suoèiti
+da se svaða;se svaðati
+da se svaðaju;se svaðati
+da se svaðam;se svaðati
+da se svaðamo;se svaðati
+da se svaðaš;se svaðati
+da se svaðate;se svaðati
+da se šeæe;se šetati
+da se šeæem;se šetati
+da se šeæemo;se šetati
+da se šeæeš;se šetati
+da se šeæete;se šetati
+da se šeæu;se šetati
+da se trka;se trkati
+da se trkaju;se trkati
+da se trkam;se trkati
+da se trkamo;se trkati
+da se trkaš;se trkati
+da se trkate;se trkati
+da se tuèe;se tuæi
+da se tuèem;se tuæi
+da se tuèemo;se tuæi
+da se tuèeš;se tuæi
+da se tuèete;se tuæi
+da se tuku;se tuæi
+da se ubije;se ubiti
+da se ubijem;se ubiti
+da se ubijemo;se ubiti
+da se ubiješ;se ubiti
+da se ubijete;se ubiti
+da se ubiju;se ubiti
+da se ujeda;se ujedati
+da se ujedaju;se ujedati
+da se ujedam;se ujedati
+da se ujedamo;se ujedati
+da se ujedaš;se ujedati
+da se ujedate;se ujedati
+da se upiše;se upisati
+da se upišem;se upisati
+da se upišemo;se upisati
+da se upišeš;se upisati
+da se upišete;se upisati
+da se upišu;se upisati
+da se utiša;se utišati
+da se utišaju;se utišati
+da se utišam;se utišati
+da se utišamo;se utišati
+da se utišaš;se utišati
+da se utišate;se utišati
+da se vide;se vidjeti
+da se vidi;se vidjeti
+da se vidim;se vidjeti
+da se vidimo;se vidjeti
+da se vidiš;se vidjeti
+da se vidite;se vidjeti
+da se vjenèa;se vjenèati
+da se vjenèaju;se vjenèati
+da se vjenèam;se vjenèati
+da se vjenèamo;se vjenèati
+da se vjenèaš;se vjenèati
+da se vjenèate;se vjenèati
+da se voze;se voziti
+da se vozi;se voziti
+da se vozim;se voziti
+da se vozimo;se voziti
+da se voziš;se voziti
+da se vozite;se voziti
+da se vrate;se vratiti
+da se vrati;se vratiti
+da se vratim;se vratiti
+da se vratimo;se vratiti
+da se vratiš;se vratiti
+da se vratite;se vratiti
+da se zabave;se zabaviti
+da se zabavi;se zabaviti
+da se zabavim;se zabaviti
+da se zabavimo;se zabaviti
+da se zabaviš;se zabaviti
+da se zabavite;se zabaviti
+da se zabavlja;se zabavljati
+da se zabavljaju;se zabavljati
+da se zabavljam;se zabavljati
+da se zabavljamo;se zabavljati
+da se zabavljaš;se zabavljati
+da se zabavljate;se zabavljati
+da se zamijene;se zamijeniti
+da se zamijeni;se zamijeniti
+da se zamijenim;se zamijeniti
+da se zamijenimo;se zamijeniti
+da se zamijeniš;se zamijeniti
+da se zamijenite;se zamijeniti
+da se zaposle;se zaposliti
+da se zaposli;se zaposliti
+da se zaposlim;se zaposliti
+da se zaposlimo;se zaposliti
+da se zaposliš;se zaposliti
+da se zaposlite;se zaposliti
+da se zbliže;se zbližiti
+da se zbliži;se zbližiti
+da se zbližim;se zbližiti
+da se zbližimo;se zbližiti
+da se zbližiš;se zbližiti
+da se zbližite;se zbližiti
+da se zeza;se zezati
+da se zezaju;se zezati
+da se zezam;se zezati
+da se zezamo;se zezati
+da se zezaš;se zezati
+da se zezate;se zezati
+da se zove;se zvati
+da se zovem;se zvati
+da se zovemo;se zvati
+da se zoveš;se zvati
+da se zovete;se zvati
+da se zovu;se zvati
+da se žale;se žaliti
+da se žali;se žaliti
+da se žalim;se žaliti
+da se žalimo;se žaliti
+da se žališ;se žaliti
+da se žalite;se žaliti
+da se žene;se ženiti
+da se ženi;se ženiti
+da se ženim;se ženiti
+da se ženimo;se ženiti
+da se ženiš;se ženiti
+da se ženite;se ženiti
+da sede;sjediti
+da sedi;sjediti
+da sedim;sjediti
+da sedimo;sjediti
+da sediš;sjediti
+da sedite;sjediti
+da sedne;sjesti
+da sednem;sjesti
+da sednemo;sjesti
+da sedneš;sjesti
+da sednete;sjesti
+da sednu;sjesti
+da shvaæa;shvaæati
+da shvaæaju;shvaæati
+da shvaæam;shvaæati
+da shvaæamo;shvaæati
+da shvaæaš;shvaæati
+da shvaæate;shvaæati
+da shvate;shvatiti
+da shvati;shvatiti
+da shvatim;shvatiti
+da shvatimo;shvatiti
+da shvatiš;shvatiti
+da shvatite;shvatiti
+da siðe;siæi
+da siðem;siæi
+da siðemo;siæi
+da siðeš;siæi
+da siðete;siæi
+da siðu;siæi
+da simulira;simulirati
+da sipa;sipati
+da sipaju;sipati
+da sipam;sipati
+da sipamo;sipati
+da sipaš;sipati
+da sipate;sipati
+da sjede;sjediti
+da sjedi;sjediti
+da sjedim;sjediti
+da sjedimo;sjediti
+da sjediš;sjediti
+da sjedite;sjediti
+da sjedne;sjesti
+da sjednem;sjesti
+da sjednemo;sjesti
+da sjedneš;sjesti
+da sjednete;sjesti
+da sjednu;sjesti
+da skine;skinuti
+da skinem;skinuti
+da skinemo;skinuti
+da skineš;skinuti
+da skinete;skinuti
+da skinu;skinuti
+da sklonim;skloniti
+da sklopite;sklopiti
+da skoèe;skoèiti
+da skoèi;skoèiti
+da skoèim;skoèiti
+da skoèimo;skoèiti
+da skoèiš;skoèiti
+da skoèite;skoèiti
+da skonta;skontati
+da skontaju;skontati
+da skontam;skontati
+da skontamo;skontati
+da skontaš;skontati
+da skontate;skontati
+da skratiš;skratiti
+da skrene;skrenuti
+da skrenem;skrenuti
+da skrenemo;skrenuti
+da skrenep;skrenuti
+da skrenete;skrenuti
+da skrenu;skrenuti
+da skuha;skuhati
+da skuhaju;skuhati
+da skuham;skuhati
+da skuhamo;skuhati
+da skuhaš;skuhati
+da skuhate;skuhati
+da skuplja;skupljati
+da skupljaju;skupljati
+da skupljam;skupljati
+da skupljamo;skupljati
+da skupljaš;skupljati
+da skupljate;skupljati
+da slièi;slièiti
+da sluša;slušati
+da slušam;slušati
+da slušamo;slušati
+da slušaš;slušati
+da slušate;slušati
+da smanje;smanjiti
+da smanji;smanjiti
+da smanjim;smanjiti
+da smanjimo;smanjiti
+da smanjiš;smanjiti
+da smanjite;smanjiti
+da smisle;smisliti
+da smisli;smisliti
+da smislim;smisliti
+da smislimo;smisliti
+da smisliš;smisliti
+da smislite;smisliti
+da snima;snimati
+da snimaju;snimati
+da snimam;snimati
+da snimamo;snimati
+da snimaš;snimati
+da snimate;snimati
+da snimiš;snimiti
+da spava;spavati
+da spavaju;spavati
+da spavam;spavati
+da spavamo;spavati
+da spavaš;spavati
+da spavate;spavati
+da spomeneš;spomenuti
+da spomin;spominjati
+da spominm;spominjati
+da spominmo;spominjati
+da spominš;spominjati
+da spominte;spominjati
+da spominju;spominjati
+da spreme;spremiti
+da spremi;spremiti
+da spremim;spremiti
+da spremimo;spremiti
+da spremiš;spremiti
+da spremite;spremiti
+da sprijeèe;sprijeèiti
+da sprijeèi;sprijeèiti
+da sprijeèim;sprijeèiti
+da sprijeèimo;sprijeèiti
+da sprijeèiš;sprijeèiti
+da sprijeèite;sprijeèiti
+da spuste;spustiti
+da spusti;spustiti
+da spustim;spustiti
+da spustimo;spustiti
+da spustiš;spustiti
+da spustite;spustiti
+da srede;srediti
+da sredi;srediti
+da sredim;srediti
+da sredimo;srediti
+da središ;srediti
+da sredite;srediti
+da stajete;stajati
+da stane;stati
+da stanem;stati
+da stanemo;stati
+da staneš;stati
+da stanete;stati
+da stanu;stati
+da stave;staviti
+da stavi;staviti
+da stavim;staviti
+da stavimo;staviti
+da stavip;staviti
+da staviš;staviti
+da stavite;staviti
+da stekne;steæi
+da stepa;stepati
+da stepaju;stepati
+da stepam;stepati
+da stepamo;stepati
+da stepaš;stepati
+da stepate;stepati
+da stigne;stiæi
+da stignem;stiæi
+da stignemo;stiæi
+da stigneš;stiæi
+da stignete;stiæi
+da stignu;stiæi
+da stoje;stati
+da stoji;stati
+da stojim;stati
+da stojimo;stati
+da stojiš;stajati
+da stojite;stajati
+da stradate;stradati
+da stvore;stvoriti
+da stvori;stvoriti
+da stvorim;stvoriti
+da stvorimo;stvoriti
+da stvoriš;stvoriti
+da stvorite;stvoriti
+da suraðuje;suraðivati
+da suraðujem;suraðivati
+da suraðujemo;suraðivati
+da suraðuješ;suraðivati
+da suraðujete;suraðivati
+da suraðuju;suraðivati
+da svedoèe;svjedoèiti
+da svedoèi;svjedoèiti
+da svedoèim;svjedoèiti
+da svedoèimo;svjedoèiti
+da svedoèiš;svjedoèiti
+da svedoèite;svjedoèiti
+da sviram;svirati
+da svjedoèi;svjedoèiti
+da svjedoèiš;svjedoèiti
+da svraæaš;svraæati
+da svrate;svratiti
+da svrati;svratiti
+da svratim;svratiti
+da svratimo;svratiti
+da svratiš;svratiti
+da svratite;svratiti
+da svrbe;svrbjeti
+da svrbi;svrbjeti
+da svrbim;svrbjeti
+da svrbimo;svrbjeti
+da svrbiš;svrbjeti
+da svrbite;svrbjeti
+da šapnem;šapnuti
+da šije;šiti
+da šijem;šiti
+da šijemo;šiti
+da šiješ;šiti
+da šijete;šiti
+da šiju;šiti
+da škode;naškoditi
+da škodi;naškoditi
+da škodim;naškoditi
+da škodimo;naškoditi
+da škodiš;naškoditi
+da škodite;naškoditi
+da štanca;štancati
+da štancaju;štancati
+da štancam;štancati
+da štancamo;štancati
+da štancaš;štancati
+da štancate;štancati
+da te gnjave;te gnjaviti
+da te gnjavi;te gnjaviti
+da te gnjavim;te gnjaviti
+da te gnjavimo;te gnjaviti
+da te gnjaviš;te gnjaviti
+da te gnjavite;te gnjaviti
+da te laže;te lagati
+da te lažem;te lagati
+da te lažemo;te lagati
+da te lažeš;te lagati
+da te lažete;te lagati
+da te lažu;te lagati
+da te naðe;te naæi
+da te naðem;te naæi
+da te naðemo;te naæi
+da te naðeš;te naæi
+da te naðete;te naæi
+da te naðu;te naæi
+da te nervira;te nervirati
+da te nerviraju;te nervirati
+da te nerviram;te nervirati
+da te nerviramo;te nervirati
+da te nerviraš;te nervirati
+da te nervirate;te nervirati
+da te odvede;te odvesti
+da te odvedem;te odvesti
+da te odvedemo;te odvesti
+da te odvedeš;te odvesti
+da te odvedete;te odvesti
+da te odvedu;te odvesti
+da te odvoje;te odvojiti
+da te odvoji;te odvojiti
+da te odvojim;te odvojiti
+da te odvojimo;te odvojiti
+da te odvojiš;te odvojiti
+da te odvojite;te odvojiti
+da te otprate;te otpratiti
+da te otprati;te otpratiti
+da te otpratim;te otpratiti
+da te otpratimo;te otpratiti
+da te otpratiš;te otpratiti
+da te otpratite;te otpratiti
+da te pita;te pitati
+da te pitaju;te pitati
+da te pitam;te pitati
+da te pitamo;te pitati
+da te pitaš;te pitati
+da te pitate;te pitati
+da te povrijede;te povrijediti
+da te povrijedi;te povrijediti
+da te povrijedim;te povrijediti
+da te povrijedimo;te povrijediti
+da te povrijediš;te povrijediti
+da te povrijedite;te povrijediti
+da te pozove;te pozvati
+da te pozovem;te pozvati
+da te pozovemo;te pozvati
+da te pozoveš;te pozvati
+da te pozovete;te pozvati
+da te pozovu;te pozvati
+da te precrta;te precrtati
+da te precrtaju;te precrtati
+da te precrtam;te precrtati
+da te precrtamo;te precrtati
+da te precrtaš;te precrtati
+da te precrtate;te precrtati
+da te stave;te staviti
+da te stavi;te staviti
+da te stavim;te staviti
+da te stavimo;te staviti
+da te staviš;te staviti
+da te stavite;te staviti
+da te tuèe;te tuæi
+da te tuèem;te tuæi
+da te tuèemo;te tuæi
+da te tuèeš;te tuæi
+da te tuèete;te tuæi
+da te tuèu;te tuæi
+da te ubace;te ubaciti
+da te ubaci;te ubaciti
+da te ubacim;te ubaciti
+da te ubacimo;te ubaciti
+da te ubaciš;te ubaciti
+da te ubacite;te ubaciti
+da te ubije;te ubiti
+da te ubijem;te ubiti
+da te ubijemo;te ubiti
+da te ubiješ;te ubiti
+da te ubijete;te ubiti
+da te ubiju;te ubiti
+da te udare;te udariti
+da te udari;te udariti
+da te udarim;te udariti
+da te udarimo;te udariti
+da te udariš;te udariti
+da te udarite;te udariti
+da te ugura;te ugurati
+da te uguraju;te ugurati
+da te uguram;te ugurati
+da te uguramo;te ugurati
+da te uguraš;te ugurati
+da te ugurate;te ugurati
+da te uhite;te uhititi
+da te uhiti;te uhititi
+da te uhitim;te uhititi
+da te uhitimo;te uhititi
+da te uhitiš;te uhititi
+da te uhitite;te uhititi
+da te ukrade;te ukrasti
+da te ukradem;te ukrasti
+da te ukrademo;te ukrasti
+da te ukradeš;te ukrasti
+da te ukradete;te ukrasti
+da te ukradu;te ukrasti
+da te upuca;te upucati
+da te upucaju;te upucati
+da te upucam;te upucati
+da te upucamo;te upucati
+da te upucaš;te upucati
+da te upucate;te upucati
+da te utješe;te utješiti
+da te utješi;te utješiti
+da te utješim;te utješiti
+da te utješimo;te utješiti
+da te utješiš;te utješiti
+da te utješite;te utješiti
+da te vide;te vidjeti
+da te vidi;te vidjeti
+da te vidim;te vidjeti
+da te vidimo;te vidjeti
+da te vidiš;te vidjeti
+da te vidite;te vidjeti
+da te zabilježe;te zabilježiti
+da te zabilježi;te zabilježiti
+da te zabilježim;te zabilježiti
+da te zabilježimo;te zabilježiti
+da te zabilježiš;te zabilježiti
+da te zabilježite;te zabilježiti
+da telefonira;telefonirati
+da telefoniraju;telefonirati
+da telefoniram;telefonirati
+da telefoniramo;telefonirati
+da telefoniraš;telefonirati
+da telefonirate;telefonirati
+da tolerira;tolerirati
+da toleriraju;tolerirati
+da toleriram;tolerirati
+da toleriramo;tolerirati
+da toleriraš;tolerirati
+da tolerirate;tolerirati
+da traga;tragati
+da tragaju;tragati
+da tragam;tragati
+da tragamo;tragati
+da tragaš;tragati
+da tragate;tragati
+da traje;trajati
+da trajem;trajati
+da trajemo;trajati
+da traješ;trajati
+da trajete;trajati
+da traju;trajati
+da traže;tražiti
+da traži;tražiti
+da tražim;tražiti
+da tražimo;tražiti
+da tražiš;tražiti
+da tražite;tražiti
+da trèe;trèati
+da trèi;trèati
+da trèim;trèati
+da trèimo;trèati
+da trèiš;trèati
+da trèite;trèati
+da treniraš;trenirati
+da troše;trošiti
+da troši;trošiti
+da trošim;trošiti
+da trošimo;trošiti
+da trošiš;trošiti
+da trošite;trošiti
+da trpe;trpjeti
+da trpi;trpjeti
+da trpim;trpjeti
+da trpimo;trpjeti
+da trpiš;trpjeti
+da trpite;trpjeti
+da ubace;ubaciti
+da ubaci;ubaciti
+da ubacim;ubaciti
+da ubacimo;ubaciti
+da ubaciš;ubaciti
+da ubacite;ubaciti
+da ubija;ubijati
+da ubije;ubiti
+da ubijem;ubiti
+da ubijemo;ubiti
+da ubiješ;ubiti
+da ubijete;ubiti
+da ubiju;ubiti
+da uèe;uèiti
+da uèi;uèiti
+da uèim;uèiti
+da uèimo;uèiti
+da uèine;napraviti
+da uèini;napraviti
+da uèinim;napraviti
+da uèinimo;napraviti
+da uèiniš;napraviti
+da uèinite;napraviti
+da uèiš;uèiti
+da uèite;uèiti
+da udara;udarati
+da udaraju;udarati
+da udaram;udarati
+da udaramo;udarati
+da udaraš;udarati
+da udarate;udarati
+da uðe;uæi
+da uðem;uæi
+da uðemo;uæi
+da uðeš;uæi
+da uðete;uæi
+da uðu;uæi
+da ugovorim;ugovoriti
+da ugura;ugurati
+da uguraju;ugurati
+da uguram;ugurati
+da uguramo;ugurati
+da uguraš;ugurati
+da ugurate;ugurati
+da uhvatim;uhvatiti
+da uhvatimo;uhvatiti
+da uklone;ukloniti
+da ukloni;ukloniti
+da uklonim;ukloniti
+da uklonimo;ukloniti
+da ukloniš;ukloniti
+da uklonite;ukloniti
+da ukljuèe;ukljuèiti
+da ukljuèi;ukljuèiti
+da ukljuèim;ukljuèiti
+da ukljuèimo;ukljuèiti
+da ukljuèiš;ukljuèiti
+da ukljuèite;ukljuèiti
+da ukrade;ukrasti
+da ukradem;ukrasti
+da ukrademo;ukrasti
+da ukradeš;ukrasti
+da ukradete;ukrasti
+da ukradu;ukrasti
+da ukrcamo;ukrcati
+da ulazim;ulaziti
+da ulaziš;ulaziti
+da uložiš;uložiti
+da umaèe;umakati
+da umaèem;umakati
+da umaèemo;umakati
+da umaèeš;umakati
+da umaèete;umakati
+da umaèu;umakati
+da umre;umrijeti
+da umrem;umrijeti
+da umremo;umrijeti
+da umreš;umrijeti
+da umrete;umrijeti
+da umru;umrijeti
+da unište;uništiti
+da uništi;uništiti
+da uništim;uništiti
+da uništimo;uništiti
+da uništiš;uništiti
+da uništite;uništiti
+da upadne;upasti
+da upadnem;upasti
+da upadnemo;upasti
+da upadneš;upasti
+da upadnete;upasti
+da upadnu;upasti
+da upale;upaliti
+da upali;upaliti
+da upalim;upaliti
+da upalimo;upaliti
+da upališ;upaliti
+da upalite;upaliti
+da upotrebljava;upotrebljavati
+da upotrebljavaju;upotrebljavati
+da upotrebljavam;upotrebljavati
+da upotrebljavamo;upotrebljavati
+da upotrebljavaš;upotrebljavati
+da upotrebljavate;upotrebljavati
+da upotrijebe;upotrijebiti
+da upotrijebi;upotrijebiti
+da upotrijebim;upotrijebiti
+da upotrijebimo;upotrijebiti
+da upotrijebiš;upotrijebiti
+da upotrijebite;upotrijebiti
+da upozna;upoznati
+da upoznaju;upoznati
+da upoznam;upoznati
+da upoznamo;upoznati
+da upoznaš;upoznati
+da upoznate;upoznati
+da upropaste;upropastiti
+da upropasti;upropastiti
+da upropastim;upropastiti
+da upropastimo;upropastiti
+da upropastiš;upropastiti
+da upropastite;upropastiti
+da upuca;ustrijeliti
+da upucaju;ustrijeliti
+da upucam;ustrijeliti
+da upucamo;ustrijeliti
+da upucaš;ustrijeliti
+da upucate;ustrijeliti
+da urade;napraviti
+da uradi;napraviti
+da uradim;napraviti
+da uradimo;napraviti
+da uradiš;napraviti
+da uradite;napraviti
+da urazume;urazumiti
+da urazumi;urazumiti
+da urazumim;urazumiti
+da urazumimo;urazumiti
+da urazumiš;urazumiti
+da urazumite;urazumiti
+da usisava;usisavati
+da usisavaju;usisavati
+da usisavam;usisavati
+da usisavamo;usisavati
+da usisavaš;usisavati
+da usisavate;usisavati
+da uspore;usporiti
+da uspori;usporiti
+da usporim;usporiti
+da usporimo;usporiti
+da usporiš;usporiti
+da usporite;usporiti
+da usreæe;usreæiti
+da usreæi;usreæiti
+da usreæim;usreæiti
+da usreæimo;usreæiti
+da usreæiš;usreæiti
+da usreæite;usreæiti
+da ustane;ustati
+da ustanem;ustati
+da ustanemo;ustati
+da ustaneš;ustati
+da ustanete;ustati
+da ustanu;ustati
+da ušeta;ušetati
+da uštede;uštedjeti
+da uštedi;uštedjeti
+da uštedim;uštedjeti
+da uštedimo;uštedjeti
+da uštediš;uštedjeti
+da uštedite;uštedjeti
+da ušute;ušutjeti
+da ušuti;ušutjeti
+da ušutim;ušutjeti
+da ušutimo;ušutjeti
+da ušutiš;ušutjeti
+da ušutite;ušutjeti
+da uteše;utješiti
+da uteši;utješiti
+da utešim;utješiti
+da utešimo;utješiti
+da utešiš;utješiti
+da utešite;utješiti
+da utišam;utišati
+da utrèe;utrèati
+da utrèi;utrèati
+da utrèim;utrèati
+da utrèimo;utrèati
+da utrèiš;utrèati
+da utrèite;utrèati
+da uvale;uvaliti
+da uvali;uvaliti
+da uvalim;uvaliti
+da uvalimo;uvaliti
+da uvališ;uvaliti
+da uvalite;uvaliti
+da uvidi;uvidjeti
+da uvjere;uvjeriti
+da uvjeri;uvjeriti
+da uvjerim;uvjeriti
+da uvjerimo;uvjeriti
+da uvjeriš;uvjeriti
+da uvjerite;uvjeriti
+da uzdigne;uzdiæi
+da uzdignem;uzdiæi
+da uzdignemo;uzdiæi
+da uzdigneš;uzdiæi
+da uzdignete;uzdiæi
+da uzdignu;uzdiæi
+da uzima;uzimati
+da uzimaju;uzimati
+da uzimam;uzimati
+da uzimamo;uzimati
+da uzimaš;uzimati
+da uzimate;uzimati
+da uzme;uzeti
+da uzmem;uzeti
+da uzmemo;uzeti
+da uzmeš;uzeti
+da uzmete;uzeti
+da uzmu;uzeti
+da uživa;uživati
+da uživaju;uživati
+da uživam;uživati
+da uživamo;uživati
+da uživaš;uživati
+da uživate;uživati
+da vam kaže;vam reæi
+da vam kažem;vam reæi
+da vam kažemo;vam reæi
+da vam kažeš;vam reæi
+da vam kažete;vam reæi
+da vam kažu;vam reæi
+da vam pomogne;vam pomoæi
+da vam pomognem;vam pomoæi
+da vam pomognemo;vam pomoæi
+da vam pomogneš;vam pomoæi
+da vam pomognete;vam pomoæi
+da vam pomognu;vam pomoæi
+da vam predstave;vam predstaviti
+da vam predstavi;vam predstaviti
+da vam predstavim;vam predstaviti
+da vam predstavimo;vam predstaviti
+da vam predstaviš;vam predstaviti
+da vam predstavite;vam predstaviti
+da vara;varati
+da varaju;varati
+da varam;varati
+da varamo;varati
+da varaš;varati
+da varate;varati
+da veèera;veèerati
+da veèeraju;veèerati
+da veèeram;veèerati
+da veèeramo;veèerati
+da veèeraš;veèerati
+da veèerate;veèerati
+da veruje;vjerovati
+da verujem;vjerovati
+da verujemo;vjerovati
+da veruješ;vjerovati
+da verujete;vjerovati
+da veruju;vjerovati
+da vièe;vikati
+da vièem;vikati
+da vièemo;vikati
+da vièeš;vikati
+da vièete;vikati
+da vièu;vikati
+da vide;vidjeti
+da vidi;vidjeti
+da vidim;vidjeti
+da vidimo;vidjeti
+da vidiš;vidjeti
+da vidite;vidjeti
+da vise;visiti
+da visi;visiti
+da visim;visiti
+da visimo;visiti
+da visiš;visiti
+da visite;visiti
+da vizualizira;vizualizirati
+da vizualiziraju;vizualizirati
+da vizualiziram;vizualizirati
+da vizualiziramo;vizualizirati
+da vizualiziraš;vizualizirati
+da vizualizirate;vizualizirati
+da vjeruje;vjerovati
+da vjerujem;vjerovati
+da vjerujemo;vjerovati
+da vjeruješ;vjerovati
+da vjerujete;vjerovati
+da vjeruju;vjerovati
+da vježba;vježbati
+da vježbaju;vježbati
+da vježbam;vježbati
+da vježbamo;vježbati
+da vježbaš;vježbati
+da vježbate;vježbati
+da vode;voditi
+da vodi;voditi
+da vodim;voditi
+da vodimo;voditi
+da vodiš;voditi
+da vodite;voditi
+da vole;voljeti
+da voli;voljeti
+da volim;voljeti
+da volimo;voljeti
+da voliš;voljeti
+da volite;voljeti
+da voze;voziti
+da vozi;voziti
+da vozim;voziti
+da vozimo;voziti
+da voziš;voziti
+da vozite;voziti
+da vraæa;vraæati
+da vraæaju;vraæati
+da vraæam;vraæati
+da vraæamo;vraæati
+da vraæaš;vraæati
+da vraæate;vraæati
+da vrate;vratiti
+da vrati;vratiti
+da vratim;vratiti
+da vratimo;vratiti
+da vratiš;vratiti
+da vratite;vratiti
+da vruje;vjerovati
+da zabilježe;zabilježiti
+da zabilježi;zabilježiti
+da zabilježim;zabilježiti
+da zabilježimo;zabilježiti
+da zabilježiš;zabilježiti
+da zabilježite;zabilježiti
+da zaborave;zaboraviti
+da zaboravi;zaboraviti
+da zaboravim;zaboraviti
+da zaboravimo;zaboraviti
+da zaboraviš;zaboraviti
+da zaboravite;zaboraviti
+da zaboravlja;zaboravljati
+da zaboravljaju;zaboravljati
+da zaboravljam;zaboravljati
+da zaboravljamo;zaboravljati
+da zaboravljaš;zaboravljati
+da zaboravljate;zaboravljati
+da zadave;zadaviti
+da zadavi;zadaviti
+da zadavim;zadaviti
+da zadavimo;zadaviti
+da zadaviš;zadaviti
+da zadavite;zadaviti
+da zadrže;zadržati
+da zadrži;zadržati
+da zadržim;zadržati
+da zadržimo;zadržati
+da zadržiš;zadržati
+da zadržite;zadržati
+da zaigra;zaigrati
+da zaigraju;zaigrati
+da zaigram;zaigrati
+da zaigramo;zaigrati
+da zaigraš;zaigrati
+da zaigrate;zaigrati
+da zakasne;zakasniti
+da zakasni;zakasniti
+da zakasnim;zakasniti
+da zakasnimo;zakasniti
+da zakasniš;zakasniti
+da zakasnite;zakasniti
+da zakasnu;zakasniti
+da zakaže;zakazati
+da zakažem;zakazati
+da zakažemo;zakazati
+da zakažeš;zakazati
+da zakažete;zakazati
+da zakažu;zakazati
+da zakrpe;zakrpiti
+da zakrpi;zakrpiti
+da zakrpim;zakrpiti
+da zakrpimo;zakrpiti
+da zakrpiš;zakrpiti
+da zakrpite;zakrpiti
+da zaluta;zalutati
+da zalutaju;zalutati
+da zalutam;zalutati
+da zalutamo;zalutati
+da zalutaš;zalutati
+da zalutate;zalutati
+da zamijene;zamjeniti
+da zamijeni;zamjeniti
+da zamijenim;zamjeniti
+da zamijenimo;zamjeniti
+da zamijeniš;zamjeniti
+da zamijenite;zamjeniti
+da zamisle;zamisliti
+da zamisli;zamisliti
+da zamislim;zamisliti
+da zamislimo;zamisliti
+da zamisliš;zamisliti
+da zamislite;zamisliti
+da zamjene;zamijeniti
+da zamjeni;zamijeniti
+da zamjenim;zamijeniti
+da zamjenimo;zamijeniti
+da zamjeniš;zamijeniti
+da zamjenite;zamijeniti
+da zaobiðe;zaobiæi
+da zaobiðem;zaobiæi
+da zaobiðemo;zaobiæi
+da zaobiðeš;zaobiæi
+da zaobiðete;zaobiæi
+da zaobiðu;zaobiæi
+da zapale;zapaliti
+da zapali;zapaliti
+da zapalim;zapaliti
+da zapalimo;zapaliti
+da zapališ;zapaliti
+da zapalite;zapaliti
+da zapamte;zapamtiti
+da zapamti;zapamtiti
+da zapamtim;zapamtiti
+da zapamtimo;zapamtiti
+da zapamtiš;zapamtiti
+da zapamtite;zapamtiti
+da zapoène;zapoèeti
+da zapoènem;zapoèeti
+da zapoènemo;zapoèeti
+da zapoèneš;zapoèeti
+da zapoènete;zapoèeti
+da zapoènu;zapoèeti
+da zarade;zaraditi
+da zaradi;zaraditi
+da zaradim;zaraditi
+da zaradimo;zaraditi
+da zaradiš;zaraditi
+da zaradite;zaraditi
+da zaraze;zaraziti
+da zarazi;zaraziti
+da zarazim;zaraziti
+da zarazimo;zaraziti
+da zaraziš;zaraziti
+da zarazite;zaraziti
+da zaspe;zaspati
+da zaspi;zaspati
+da zaspim;zaspati
+da zaspimo;zaspati
+da zaspiš;zaspati
+da zaspite;zaspati
+da zaštite;zaštititi
+da zaštiti;zaštititi
+da zaštitim;zaštititi
+da zaštitimo;zaštititi
+da zaštitiš;zaštititi
+da zaštitite;zaštititi
+da zatraže;zatražiti
+da zatraži;zatražiti
+da zatražim;zatražiti
+da zatražimo;zatražiti
+da zatražiš;zatražiti
+da zatražite;zatražiti
+da zatvore;zatvoriti
+da zatvori;zatvoriti
+da zatvorim;zatvoriti
+da zatvorimo;zatvoriti
+da zatvoriš;zatvoriti
+da zatvorite;zatvoriti
+da zaustave;zaustaviti
+da zaustavim;zaustaviti
+da zaustavimo;zaustaviti
+da zausti;zaustiti
+da zauzme;zauzeti
+da zauzmem;zauzeti
+da zauzmemo;zauzeti
+da zauzmeš;zauzeti
+da zauzmete;zauzeti
+da zauzmu;zauzeti
+da zavara;zavarati
+da zaveže;zavezati
+da zavežem;zavezati
+da zavežemo;zavezati
+da zavežeš;zavezati
+da zavežete;zavezati
+da zavežu;zavezati
+da završe;završiti
+da završi;završiti
+da završim;završiti
+da završimo;završiti
+da završiš;završiti
+da završite;završiti
+da zažalim;zažaliti
+da zbriše;zbrisati
+da zbrišem;zbrisati
+da zbrišemo;zbrisati
+da zbrišeš;zbrisati
+da zbrišete;zbrisati
+da zbrišu;zbrisati
+da zeza;zezati
+da zezaju;zezati
+da zezam;zezati
+da zezamo;zezati
+da zezaš;zezati
+da zezate;zezati
+da zna;znati
+da znaèi;znaèiti
+da znaju;znati
+da znam;znati
+da znamo;znati
+da znaš;znati
+da znate;znati
+da zove;zvati
+da zovem;zvati
+da zovemo;zvati
+da zoveš;zvati
+da zovete;zvati
+da zovu;zvati
+da žele;željeti
+da želi;željeti
+da želim;željeti
+da želimo;željeti
+da želiš;željeti
+da želite;željeti
+da žive;živjeti
+da živi;živjeti
+da živim;živjeti
+da živimo;živjeti
+da živiš;živjeti
+da živite;živjeti
+da žure;žuriti
+da žuri;žuriti
+da žurim;žuriti
+da žurimo;žuriti
+da žuriš;žuriti
+da žurite;žuriti

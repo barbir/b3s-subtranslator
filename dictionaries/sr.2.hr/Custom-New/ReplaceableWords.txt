@@ -1,0 +1,144 @@
+bednog;bijednog;
+begam;bježim;
+bezuslovnu;bezuvjetnu;
+camac;èamac;Cro phonems error
+caše;èaše;Cro phonems error
+celavi;æelavi;Cro phonems error
+cizmu;èizmu;Cro phonems error
+cucnju;èuènju;Cro phonems error
+deèaèki;djeèaèki;
+dezinfikovao;dezinficirao;
+djiha;ðiha;Cro phonems error
+doterala;dotjerala;
+dredloke;dreadlockse;Foreign words
+ejmine;Amyne;Case sensitive
+espreso;espresso;Foreign words
+fokusiraæu;fokusirat æu;1->2
+fraj;Fry;Case sensitive
+fraja;Frya;Case sensitive
+fraje;Fry;Case sensitive
+frajova;Fryova;Case sensitive
+frajove;Fryove;Case sensitive
+frajovo;Fryovo;Case sensitive
+frajovoj;Fryovoj;Case sensitive
+frajovu;Fryovu;Case sensitive
+fraju;Fryju;Case sensitive
+gremi;Grammy;Case sensitive
+hokinga;Hawkinga;Case sensitive
+hvalospev;hvalospjev;
+ispratiæe;ispratit æe;1->2
+isprobaæu;isprobat æu;1->2
+izgladnele;izgladnjele;
+izvaæareni;prevareni;
+izvaæarili;prevarili;
+izvaæarimo;prevarimo;
+izvinjavaju;isprièavaju;
+jagneæi;janjeæi;
+jednosmeran;jednosmjeran;
+kafeni;smeði;
+kepeca;patuljka;
+kife;Kif;Case sensitive
+kifija;Kiffyja;Case sensitive
+koferèe;kuferiæ;Wrong form
+kolin;Colin;Case sensitive
+kombinovani;kombinirani;
+kontrolisanih;kontroliranih;
+koordinisati;koordinirati;
+kritikovati;kritizirati;
+kvadrilion;kvadrilijun;
+ludaèo;luðakinjo;
+majcine;majèine;Cro phonems error
+majmunèe;majmuniæ;Wrong form
+majmunèeta;majmuniæa;
+malecnom;siæušnom;
+menjaža;zamjena;
+menjažu;zamjenu;
+merilima;mjerilima;
+meteoritima;meteorima;
+micem;mièem;Cro phonems error
+mleo;mlio;
+mleveni;mljeveni;
+mlevenih;mljevenih;
+moroni;idioti;
+naslediæu;naslijedit æu;1->2
+natali;Nataly;Case sensitive
+neizmerna;neizmjerna;
+nerešiva;nerješiva;
+neverovatnoæi;nevjerojatnosti;
+nibler;Nibbler;Case sensitive
+niblere;Nibbler;Case sensitive
+niks;Nix;Case sensitive
+nikson;Nixon;Case sensitive
+niksona;Nixona;Case sensitive
+niksone;Nixon;Case sensitive
+ninða;nindža;
+obavezivanja;obvezivanja;
+obuciti;obuèiti;Cro phonems error
+obuhvataju;obuhvaæaju;
+odmeravaš;odmjeravaš;
+odmerimo;odmjerimo;
+odradiæu;odradit æu;1->2
+odrzat;održat;Cro phonems error
+opièenog;opaljenog;
+opravljeno;popravljeno;
+oterana;otjerana;
+pasuljèe;grah;Wrong form
+plocom;ploèom;Cro phonems error
+pobednièe;pobjednièe;
+podgrejmo;podgrijmo;
+posedujemo;posjedujemo;
+prekardašili;pretjerali;
+pritiskaj;pritišæi;Wrong form
+proprzene;propržene;Cro phonems error
+protestuješ;protestiraš;
+protivreèiti;proturjeèiti;
+proucavam;prouèavam;Cro phonems error
+registrovani;registrirani;
+rešivo;rješivo;
+rezultuje;rezultira;
+rodjace;roðaèe;Cro phonems error
+saglasan;suglasan;
+saopštimo;priopæimo;
+sekao;sjekao;
+seljoberu;seljaèe;Wrong form
+skakljas;škakljaš;Cro phonems error
+skarabej;skarab;
+skupocenog;skupocjenog;
+skuvamo;skuhamo;
+slicite;slièite;Cro phonems error
+smrviæeš;smrvit æeš;1->2
+solitere;nebodere;
+stadijum;stadion;
+sustici;sustiæi;Cro phonems error
+suvog;suhog;
+svacega;svaèega;Cro phonems error
+svetlucavog;svjetlucavog;
+šargarepama;mrkvama;
+šrafcigera;odvijaèa;
+šrafcigerom;odvijaèem;
+trilionima;trilijunima;
+tupadžiju;glupana;
+ucenjem;uèenjem;Cro phonems error
+ugušiæu;ugušit æu;
+unapreðena;unaprijeðena;
+upotrebiceš;upotrebit æeš;1->2
+utovariæemo;utovarit æemo;1->2
+uzivajte;uživajte;Cro phonems error
+vaæaroši;prevaranti;
+vaæarošima;prevarantima;
+vaæaroških;prevarantskih;
+velicanstvena;velièanstvena;Cro phonems error
+vikipediji;wikipedii;Foreign words
+vong;Wong;Case sensitive
+zaheftanom;zaklamanom;
+zakljucaj;zakljuèaj;Cro phonems error
+zanovetalici;zanovjetalici;
+zapakovati;zapakirati;
+zapaliæemo;zapalit æemo;
+zapocinjemo;zapoèinjemo;Cro phonems error
+zaslepljujuæe;zasljepljujuæe;
+zaslepljujuæeg;zasljepljujuæeg;
+zavlaci;zavlaèi;Cro phonems error
+zvaniènim;službenim;
+žlezdu;žlijezdu;
+žurkama;zabavama;

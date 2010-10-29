@@ -1,0 +1,11 @@
+Case sensitive
+Wrong form
+Foreign words
+1->2
+Cro phonems error
+ije->je
+je->ije
+Typo
+Apostrophe
+Negation
+OCR errors

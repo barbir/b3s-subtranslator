@@ -1,0 +1,20 @@
+iseèeno;isjeèeno;;true;izrezano;;false
+lila;Leela;Ime enskog lika iz Futurame;false;lila;boja;true
+lile;Leele;Ime enskog lika iz Futurame;false;lile;boja;true
+lili;Leeli;Ime enskog lika iz Futurame;false;lili;boja;true
+lilom;Leelom;Ime enskog lika iz Futurame;false;lilom;boja;true
+lilu;Leelu;Ime enskog lika iz Futurame;false;lilu;boja;true;Leeloo;Strano ensko ime;false
+loh;loh;;false;Loch;"Loch Ness";true
+nabubrim;oteknem;;true;narastem;;false
+obavjesti;obavjesti;;true;obavijesti;;false
+prsnuæu;prsnut æu;1->2;true;prsnuæu;;false
+rascep;rascjep;;true;razdor;;false
+saopštenja;priopæenja;;true;obavjesti;;false
+sataninog;sotoninog;;true;vrajeg;;false
+testerisanja;testiranja;;false;pilanja;;true
+testerom;testerom;mnoina od "tester";false;pilom;;true
+tupadija;glupana;;true;glupan;;false
+umeæe;umeæe;;false;umjeæe;;true
+vaæare;prevarante;;false;prevare;;true
+vaæaroša;prevaranta;;false;prevaranata;;true
+vaæaroški;prevarantici;;false;prevarantski;;true

@@ -1,0 +1,916 @@
+acida;kiselina;;false;kiseline;;true
+ajkula;morski pas;;true;morskih pasa;;false
+ajkule;morski psi;;false;morskog psa;;true
+al;Al;ime;false;Al';;true
+aleksa;Aleksa;;false;Alexa;;true
+aleksej;Aleksei;;false;Aleksej;;true;Alexei;;false
+alekseju;Alekseju;;true;Alexeiu;;false
+angazuje;angažira;;true;unajmi;;false;uposli;;false
+angažuje;angažira;;true;unajmi;;false;uposli;;false
+april;April;ime;false;travanj;;true
+arèi;Archie;;true;arèi;;false
+asova;asova;;false;lopata;;true
+august;August;ili Augustus;false;kolovoz;;true
+augusta;Augusta;;false;kolovoza;;true
+auguste;Auguste;;false;kolovoze;;true
+augusti;Augusti;;false;kolovozi;;true
+augustima;Augustima;;false;kolovozima;;true
+augustom;Augustom;;false;kolovozom;;true
+augustov;Augustov;;true;kolovoski;;false
+augustu;Augustu;;false;kolovozu;;true
+barija;barija;on je barija neku koku;false;Barryja;;true
+bas;bas;;false;baš;;true
+bascu;baš æu;;true;bašèu;;false
+beg;beg;;false;bijeg;;true
+bega;bega;titula;false;bijega;;true
+begom;begom;;false;bijegom;;true
+begova;begova;;false;bjegova;;true
+begove;begove;;false;bjegove;;true
+begovi;begovi;;false;bjegovi;;true
+begovima;begovima;;false;bjegovima;;true
+begu;begu;;false;bijegu;;true
+bela;bela;;false;bijela;;true
+bele;bele;;false;bijele;;true
+belešku;bilješku;;false;poruku;;true
+belu;belu;;false;bijelu;;true
+besan;besan;;false;bijesan;;true
+bešika;bešika;;false;krevetiæ;;false;mjehur;;true
+bezbedniji;bezbjedniji;;false;sigurniji;;true
+bezkucnice;beskuænice;;true;beskuænièe;;false
+beže;beže;;false;bježe;;true
+biber;Biber;;false;papar;;true
+bibera;Bibera;;false;papra;;true
+bibere;Biber;;false;papre;;true
+biberi;Biberu;;false;papri;;true
+biberima;Biberima;;false;paprima;;true
+biberom;Biberom;;false;paprom;;true
+biberu;Biberu;;false;papru;;true
+bic;Bic;;false;biè;;true
+bice;biæe;;false;bit æe;;true
+bicu;biæu;;false;bit æu;;true
+bièe;bièe;;false;biæe;;true;bit æe;;false
+biæe;biæe;;false;bit æe;;true
+biæu;biæu;;false;bit æu;;true
+bijem;bijem;;false;tuèem;;true
+bisvezao;bi svezao;;true;bih svezao;ukoliko je prvo lice jednine;false
+bozica;božica;;true;Božiæa;;false
+bozicu;božicu;;true;božiæu;;false
+božica;božica;;true;božiæa;;false
+božicu;božicu;;false;Božiæu;;true
+brace;brace;;false;braæe;;true;brat æe;;false
+braci;braci;;false;braæi;;true
+braèa;Braèa;;false;braæa;;true
+braèu;Braèu;;false;braæu;;true
+braon;smeða;;true;smeðe;;false;smeði;;false;smeðoj;;false;smeðu;;false
+brendi;Brandy;;true;brendi;;false
+brze;brze;;false;brže;;true
+bure;baèva;;false;bure;;true
+busna;autobusna;;true;šuplja;;false
+cak;Chuck;strano ime;false;èak;;true
+cao;bok;;true;æao;;false
+car;car;;false;èar;;true
+carbon;Carbon;;false;karbon;;true
+cas;èas;;false;sat;;false;tren;;true
+casa;casa;mi casa e su casa;false;èasa;;false;èaša;;true
+cast;cast;;false;èast;;true
+cepam;cijepam;;false;sijeèem;;false
+ceri;ceri;;false;kæeri;;true
+cestica;cestica;malih cesta;false;èestica;;true
+cesto;cesto;;false;èesto;;true
+cete;èete;;false;æete;;true
+cin;cin;zvona - "cin-cin";false;èin;;true
+cista;cista;;false;èista;;true
+ciste;ciste;;false;èiste;;true
+cistu;cistu;;false;èistu;;true
+citacu;èitaèu;;false;èitat æu;;true
+citate;citate;;false;èitate;;true
+cjeni;cijeni;;false;cjeni;;true
+cudi;èudi;;true;æudi;;false
+curetinom;curetinom;;false;puretinom;;true
+cutacu;æutjet æu;;false;šutjet æu;;true
+cutala;æutjela;;false;šutjela;;true
+cuti;èuti;;false;šuti;;true
+cutim;æutim;;false;šutim;;true
+cutio;æutio;;false;šutio;;true
+cutis;æutiš;;false;šutiš;;true
+cutite;æutite;;false;šutite;;true
+cutljiv;æutljiv;;false;šutljiv;;true
+cveta;cvijeta;;false;cvjeta;;true
+èaršafa;plahti;;true
+èas;èas;;false;sat;;false;tren;;true
+èasa;èasa;;false;èaša;;false;sata;;false;trena;;true
+èasu;èasu;;false;èašu;;false;satu;;false;trenu;;true
+èete;èete;;false;æete;;true
+èitaæu;èitaæu;;false;èitat æu;;true
+æaletom;ocem;;false;starim;;true
+æerka;kæer;;true;kæerka;;false
+æerkama;kæerima;;true;kæerkama;;false
+æerke;kæeri;;true;kæerke;;false
+æerku;kæer;;true;kæerku;;false
+æule;èule;;true;æule;;false
+æuli;èuli;;true;æuli;;false
+æutanja;šutenja;;false;šutnje;;true
+æuti;èuti;;false;šuti;;true
+æutim;æutim;;false;šutim;;true
+æutiš;æutiš;;false;šutiš;;true
+æutite;æutite;;false;šutite;;true
+æutljiv;æutljiv;;false;šutljiv;;true
+dali;da li;;true;dali;;false
+data;dana;;true;Data;lik iz Star Trek-a;false
+de;de;;false;gdje;;true
+deci;deki;;false;djeci;;true
+deèakov;Deèakov;od prezimena Deèak;false;djeèakov;;true
+dela;dijela;;false;djela;;true
+deliæu;dijelit æu;;false;djeliæu;;true
+delu;Delu;;false;dijelu;;false;djelu;;true
+detektuje;otkrije;;true;otkriva;;false
+dièi;dièi;;false;diæi;;true
+didi;Deedee;;true;didi;;false
+disciplina;disciplina;;true;stega;;false
+docu;docu;;false;doæi æu;;true
+dole;dole;;false;dolje;;true
+dospe;dospe;;false;dospije;;true
+dospem;dospem;;false;dospijem;;true
+doterao;dotjerao;;false;uredio;;true
+dovuci;dovuci;;true;dovuæi;;false
+dozvoli;dopusti;;true;dozvoli;npr u vozaèkoj dozvoli;false
+dozvoljavas;dopuštaš;;true;dozvoljavaš;;false
+druga;druga;;true;prijatelja;;false
+drugar;drugar;;false;prijatelj;;true;prijatelju;;false
+drugare;drugare;;false;prijatelje;;true
+drugarici;drugarici;;false;prijateljici;;true
+drugove;drugove;;false;prijatelje;;true
+druze;druže;;false;prijatelju;;true
+druzi;druzi;skr. od drugovi;false;druži;;true
+druže;druže;;false;prijatelju;;true
+drzace;držaèe;;false;držat æe;;true
+drzaèe;držaèe;;false;držat æe;;true
+drzaæe;držaèe;;false;držat æe;;true
+držace;držaèe;;false;držat æe;;true
+držaèe;držaèe;;false;držat æe;;true
+držaæe;držaèe;;false;držat æe;;true
+dunula;puhnula;;true
+dušeci;dušeci;;false;madraci;;true
+dušecima;dušecima;;false;madracima;;true
+dušek;dušek;;false;madrac;;true
+dušeka;dušeka;;false;madraca;;true
+dušeke;dušeke;;false;madrace;;true
+dušekom;dušekom;;false;madracem;;true
+dušeku;dušeku;;false;madracu;;true
+duvala;Duvala;Prezime;true;puhala;;false
+džaba;besplatno;;false;uzalud;;true
+džonu;ðonu;;false;Johnu;;true
+ðubretarima;govnarima;;false;smeæarima;;true
+ekstatièan;mahnit;;false;oduševljen;;false;pomaman;;false;ushiæen;;true;zanesen;;false
+emili;Emili;;false;Emily;;true
+fila;fila;;false;Phila;strano ime;true
+file;file;;false;Phile;strano ime;true
+filom;filom;;false;Philom;strano ime;true
+filu;filu;;false;Philu;strano ime;true
+flaša;boca;;false;èaša;;true
+flašama;bocama;;false;èašama;;true
+flaše;boce;;false;èaše;;true
+flaši;boci;;false;èaši;;true
+flašo;boco;;false;èašo;;true
+flašu;bocu;;false;èašu;;true
+fon;fon;;true;von;;false
+franciska;Franciscoa;;true;Franciska;;false
+francisko;Francisco;;true;Francisko;;false
+francisku;Franciscu;;true;Francisku;;false
+front;bojišnica;;true;front;;false
+gas;gas;;false;plin;;true
+gasa;gasa;;false;plina;;true
+gasom;gasom;;false;plinom;;true
+glasacu;glasaèu;;false;glasat æu;;true
+glasaæu;glasaèu;;false;glasat æu;;true
+glasaj;glasaj;;false;glasuj;;true
+glodaru;glodavcu;;false;glodavèe;;true
+gonicu;gonièu;;false;gonit æu;;true
+gopsodo;gospodo;;true;gospoðo;;false
+gospodo;gospodo;;true;gospoðo;;false
+gradonacelnice;gradonaèelnice;;false;gradonaèelnièe;;true
+granici;granici;;true;granièi;;false
+greju;griju;;true;idu;;false
+grijaæe;grijaèe;;false;grijaæe;;true
+grijesi;grijesi;;false;griješi;;true
+hali;hali;;true;Hallie;ime;false
+her;her;;true;herr;;false
+iseci;isijeci;;true;isjeæi;;false
+isjeci;isjeci;;false;isjeæi;;true
+ispitivaæu;ispitivaèu;;false;ispitivat æu;;true
+ispusta;ispusta;;true;ispušta;;false
+ista;ista;;true;išta;;false
+istrpe;izdrže;;true;pretrpe;;false
+istrpim;izdržim;;true;pretrpim;;false
+izlijeæe;izlijeèe;;true;izlijeæe;;false
+izlijeæite;izlijeèite;;true;izlijeæite;;false
+izmucenih;izmuèenih;;false
+izmuæenih;izmuèenih;;true
+izvini;isprièaj;;false;izvini;;false;oprosti;;true
+izvinite;isprièajte;;false;isprièate;;false;izvinite;;false;oprostite;;true
+izvinuti;isprièati;;true;izvinuti;;false
+izvuci;izvuci;;true;izvuæi;;false
+jaæu;ja æu;;true;jaèu;;false
+jebace;jebaèe;;false;jebat æe;;true
+jebaæu;jebaèu;;false;jebat æu;;true
+jelda;je l' da;;false;jel' da;;true
+jel'da;je l' da;;false;jel' da;;true
+jeli;je li;;true;jeli;;false
+jona;iona;;true;Jona;biblijska liènost;false
+juna;Juna;nadimak za Juniora Soprana;false;lipnja;;true
+june;june;mlado krave;false;lipnje;;true
+junom;junetom;mladim krave;false;lipnjem;;true
+kafe;caffe;npr. caffe aparat;false;kave;;true
+karl;Carl;;false;Karl;;false
+karter;Carter;prezime;true;karter;;false
+kašièica;kašica;;false;žlièica;;true
+kaubojci;kauboji;;true;westerni;;false
+kazete;kasete;;false;kažete;;true
+kej;Kay;ime;false;kej;;true
+keti;Cathy;;true;Kathy;;false
+ketrin;Katharine;;false;Kathryn;;true
+kevin;Kevin;;true;majèin;;false;majkin;;false
+klaudijus;Claudio;;false;Claudius;;true
+klizite;klizite;;true;kližite;;false
+ko;kao;;false;ko;;false;k'o;;false;tko;;true
+kofa;kanta;;true;košara;;false
+kofom;kantom;;true;košarom;;false
+kofu;kantu;;true;košaru;;false
+kokos;kokos;;true;kokoš;;false
+kokosi;kokosi;;true;kokoši;;false
+kolac;kolac;;false;kolaè;;true
+komanda;komanda;;false;zapovjed;;false;zapovjedništvo;krivi rod;true
+komandama;komandama;;false;zapovijedima;;true;zapovjedništvima;;false
+komande;komande;;false;zapovjedi;;true;zapovjedništva;;false
+komandi;komandi;;false;zapovjedi;;false;zapovjedništvu;;true
+komandira;zapovijeda;;false;zapovjednika;;true
+komandiru;komandiru;;false;zapovjednièe;;false;zapovjedniku;;true
+komandna;komandna;;false;zapovjedna;;true
+komandne;komandne;;false;zapovjedne;;true
+komandnih;komandnih;;false;zapovjednih;;true
+komandnim;komandnim;;false;zapovjednim;;true
+komandnima;komandnima;;false;zapovjednim;;true
+komandno;komandno;;false;zapovjedno;;false
+komandnog;komandnog;;false;zapovjednog;;true
+komandnoj;komandnoj;;false;zapovjednoj;;true
+komandnu;komandnu;;false;zapovjednu;;true
+komandom;komandom;;false;zapovijeðu;;false;zapovjedništvom;krivi rod;true
+komandu;komandu;;false;zapovijed;;false;zapovjedništvo;;true
+kompulzivni;nagonski;;false;obavezan;;false;prinudan;;false
+konsultant;konzultant;;false;savjetnik;;true
+kosacu;kosaèu;;true;kosaæu;;false
+kosta;Kosta;;false;košta;;true
+kreèi;kreèi;;false;kreæi;;true
+krijes;krijes;;true;kriješ;;false
+krmilo;kormilo;;false;krmilo;;true
+kuca;kuca;;false;kuæa;;true
+kucama;kucama;;false;kuæama;;true
+kuci;kuci;;false;kuæi;;true
+kucica;kucica;;false;kuèica;;true
+kucni;kucni;;false;kuæni;;true
+kucnu;kucnu;;false;kuænu;;true
+kucu;kucu;;false;kuæu;;true
+kuèe;kuæe;;true;psiæ;;false
+kup;Coop;;false;kup;;false
+kupa;Coopa;;false;kupa;;true
+kupu;Coopu;;false;kupu;;true
+kurseve;kursove;;true;teèajeve;;false
+leci;letci;;true;lijeèi;;false
+leèe;leæe;;false;lijeèe;;true
+leèi;leæi;;false;lijeèi;;true
+lenji;lijeni;;false;ljeniji;;true
+leta;leta;;false;ljeta;;true
+lici;lici;;false;lièi;;true
+licim;lièim;bojam;false;slièim;;true
+licis;lièiš;bojaš;false;slièiš;;true
+liciti;lièiti;bojati;false;slièiti;;true
+lièe;lièe;bojaju;false;slièe;;true
+lièi;lièi;;false;slièi;;true
+lièila;lièila;bojala;false;slièila;;true
+lièile;lièile;;false;slièile;;true
+lièili;lièili;;false;slièili;;true
+lièilo;lièilo;;false;slièilo;;true
+lièim;lièim;;false;slièim;;true
+lièimo;lièimo;;false;slièimo;;true
+lièio;lièio;;false;slièio;;true
+lièiš;lièiš;;false;slièiš;;true
+lièite;lièite;bojate;false;slièite;;true
+lièiti;lièiti;;true;slièiti;;false
+liènošæu;liènošæu;;true;osobnošæu;;false
+liæim;lièim;;false;slièim;;true
+liæite;lièite;bojate;false;slièite;;true
+liæiti;lièiti;;false;slièiti;;true
+lorens;Laurence;;false;Lawrence;;true
+lorensa;Laurencea;;false;Lawrencea;;true
+lorensom;Laurenceom;;false;Lawrenceom;;true
+lorensovih;Laurenceovih;;false;Lawrenceovih;;true
+losa;losa;;false;loša;;true
+lose;lose;;false;loše;;false
+loze;loze;;true;lože;;false
+ljubicu;ljubicu;;false;ljubit æu;;true
+mac;Mac;;false;maè;;true
+madelin;Madeleine;;true;Madeline;;false
+major;bojnik;;true;major;;false
+majora;bojnika;;true;majora;;false
+majori;bojnici;;true;majori;;false
+majorica;bojnica;;true;majorica;;false
+majorice;bojnice;;true;majorice;;false
+majorici;bojnici;;true;majorici;;false
+majoricom;bojnicom;;true;majoricom;;false
+majoricu;bojnicu;;true;majoricu;;false
+majorièinoj;bojnièinoj;;true;majorièinoj;;false
+majorima;bojnicima;;true;majorima;;false
+majorom;bojnikom;;true;majorom;;false
+majorova;bojnikova;;true;majorova;;false
+majorove;bojnikove;;true;majorove;;false
+majorovi;bojnikovi;;true;majorovi;;false
+majorovih;bojnikovih;;true;majorovih;;false
+majorovim;bojnikovim;;true;majorovim;;false
+majorovima;bojnikovima;;true;majorovima;;false
+majorovoj;bojnikovoj;;true;majorovoj;;false
+majorovom;bojnikovom;;true;majorovom;;false
+majorovu;bojnikovu;;true;majorovu;;false
+majorski;bojnièki;;true;majorski;;false
+majoru;bojniku;;true;majoru;;false
+mal;mal;;false;malen;;true
+margaret;Margaret;;true;Margareth;;false
+markus;Marcus;;true;Markus;;false
+marni;Marnie;strano ž. ime;false;udari;;false;vrijedni;;true
+mars;Mars;;false;marš;;true
+marta;marta;;false;Martha;;false;ožujka;;true
+marte;Marte;ime;false;Marthe;;true;ožujke;;false
+marti;Marthi;;false;Marty;;true
+masine;stroja;;false;strojevi;;true
+medov;Meadow;;true;medov;;false
+medvjedici;medvjedici;;true;medvjediæi;;false
+meri;Mary;strano ime;true;Meri;;false;mjeri;;false
+mesa;mesa;;true;miješa;;false
+mesno;mesno;;true;mjesno;;false
+ml;mi;;false;ml;mililitar;true
+mladici;mladici;;false;mladiæi;;true
+mladicu;mladicu;;false;mladiæu;;true
+moèi;moèi;;false;moæi;;true
+moæ;moæ;;true;moæi;;false
+monika;Monica;;true;Monika;;false
+monikinim;Monica-inim;;true;Monikinim;;false
+mucenja;muèenja;;true;muæenja;;false
+muci;muci;;false;muèi;;true
+muva;mrda;;false;muha;;true
+naciniti;naèiniti;;false;napraviti;;true
+naduven;naduven;;false;napuhan;;true
+naložiæu;naložit æu;npr. vatru;false;reæi æu;;false
+namene;na mene;;false;namjene;;true
+napadace;napadaèe;;false;napadat æe;;true
+napadaæe;napadaèe;;false;napadat æe;;true
+naprsnuæe;naprsnuæe;puknuæe;true;naprsnut æe;puknut æe;false
+nas;nas;;true;naš;;false
+nasa;NASA;;false;naša;;true
+nasedam;na sedam;;false;nasjedam;;true
+nasta;na što;;true;nasta;skr. od nastade;false
+nasu;NASU;;false;našu;;true
+nauci;nauci;;false;nauèi;;true;znanosti;;false
+neda;ne da;;true;Neda;;false
+nedelja;nedjelja;;false;tjedan;;true;tjedana;;false
+nedeljama;nedjeljama;;false;tjednima;;true
+nedelje;nedjelje;;false;tjedna;;true
+nedelji;nedjelji;;false;tjednu;;true
+nedeljne;nedjeljne;;false;tjedne;;true
+nedeljni;nedjeljni;;false;tjedni;;true
+nedeljno;nedjeljno;;false;tjedno;;true
+nedeljnoj;nedjeljnoj;;false;tjednoj;;true
+nedeljnom;nedjeljnom;;false;tjednom;;true
+nedeljnu;nedjeljnu;;true;tjednu;;false
+nedeljom;nedjeljom;;false;tjednu;;true
+nedelju;nedjelju;;false;tjedan;;true
+nedjelja;nedjelja;;true;tjedan;;false
+nedjeljama;nedjeljama;;false;tjednima;;true
+nedjelje;nedjelje;;true;tjedna;;false
+nedjelji;nedjelji;;true;tjednu;;false
+nedjelju;nedjelju;;false;tjedan;;true
+neko;neko;;true;neku;;false;netko;;false
+nemacka;Njemaèka;;true
+nemacke;Njemaèke;;true
+nemacku;Njemaèku;;true
+nemaèka;Njemaèka;;true
+nemaèke;Njemaèke;;true
+nemaèku;Njemaèku;;true
+niko;Niko;;false;nitko;;true
+nju;New;;false;nju;;true
+obezbjedi;osigura;;true;osiguraj;;false
+oboja;oboja;;false;oboji;;true
+obrnuæu;obrnuæu;;false;obrnut æu;;true
+obuæite;obucite;;false;obuèite;;true
+oce;hoæe;;false;oèe;;true
+ocene;ocijene;;false;ocjene;;true
+oci;oci;;true;oèi;;false
+oèe;hoæe;;false;oèe;;true
+oæe;hoæe;;false;oèe;;true
+odela;odijela;;true;odjela;;false
+odelenja;odjela;odjela za organizirani kriminal;true;odjeljenja;;false
+odelenje;odjel;;true;odjeljenje;;false
+odelenjima;odjelima;;true;odjeljenjima;;false
+odelima;odijelima;odjeæa;false;odjelima;od odio;true
+odelom;odijelom;;false;odjelom;;true
+odelu;odijelu;;false;odjelu;;true
+odeljenja;odjela;;true;odjeljenja;;false
+odeljenje;odjel;;true;odjeljenje;;false
+odeljenjem;odjelom;;true;odjeljenjem;;false
+odeljenju;odjelu;;true;odjeljenju;;false
+odjeci;odjeci;;false;odjeæi;;true
+odreci;odreci;;true;odreæi;;false
+odrediste;odrediste;;true;odredište;;false
+odri;Audrey;;false;odri;;true
+odseli;odseli;;false;odsjeli;;true
+odšarafim;odvijem;;true;odvrnem;;false
+odvuci;odvuci;;false;odvuæi;;true
+okreèe;okreèe;obojaju;false;okreæe;;true
+okreèi;okreèi;;false;okreæi;;true
+oktobarska;listopadska;;false;oktobarska;...revolucija;true
+oktobarske;listopadske;;false;oktobarske;...revolucije;true
+oktobarskoj;listopadskoj;;false;oktobarskoj;...revoluciji;true
+oktobarskom;listopadskom;;false;oktobarskom;...revolucijom;true
+oktobarsku;listopadsku;;false;oktobarsku;...revoluciju;true
+omer;Homer;;false;omjer;;true
+oskara;Oscara;;false;Oskara;;false
+otpuzi;otpuže;;true;otpuži;;false
+otrije;otkrije;;true;otprije;;false
+otstampa;ispiše;;false;otiska;;true
+otštampa;ispiše;;false;otiska;;false
+otvaracu;otvaraèu;;false;otvarat æu;;true
+ovlascenjem;ovlasti;;false;ovlaštenjem;;true
+ovlascenjima;ovlastima;;false;ovlaštenjima;;true
+ovlašæenjima;ovlastima;;true;ovlaštenjima;;false
+palaca;palaca;;false;palaèa;;true
+palace;Palace;engleski;true;Palaèe;;false
+panici;panici;;false;panièari;;true
+para;novac;;false;novaca;;true;para;;false
+paradajza;rajèica;;false;rajèice;;true
+pec;pec;npr. eci-peci-pec :-);false;peæ;;true
+pecenka;peèenje;;true;peænica;;false
+peèenka;peèenje;;true;peænica;;false
+peni;penny;;false;pjeni;;true
+pesnici;pjesnici;;true;šaci;;false
+pica;piæa;;true;pizza;;false
+pice;pice;;false;piæe;;false;pizze;;true
+picu;picu;pi*ku;false;piæu;;true;pizzu;;false
+pièe;piæe;;false;pit æe;;true
+piæe;piæe;;true;pit æe;;false
+pisaci;pisaèi;;false;pisaæi;;true
+pisi;Pisi;;false;piši;;true
+pjer;Pierre;;true;Pjer;;false
+pjeru;Pierreu;;true;Pjeru;;false
+pjevaca;pijevaca;pijetlova;false;pjevaèa;;true
+plaèom;plaèem;;false;plaæom;;true
+plate;plaæe;;false;plate;;true
+platu;plaæu;;true;platu;;false
+pocetnice;poèetnice;;false;poèetnièe;;true
+podpredsednice;potpredsjednice;;false;potpredsjednièe;;true
+podpredsjednice;potpredsjednice;;false;potpredsjednièe;;true
+pokaze;pokaze;;false;pokaže;;true
+pokusa;pokusa;;true;pokuša;;false
+pol;Paul;;false;pol;;true;pola;;false;spol;;false
+pole;Paule;;true;pole;;false
+polne;bolne;;true;spolne;;false
+polov;Paulov;;true;polov;;false
+pomagace;pomagaèe;;false;pomagat æe;;true
+pomeri;pomakni;;true;pomjeri;;false
+pomjerimo;pamaknemo;;true;pomaknimo;;false
+porekla;porekla;od poreæi;false;porijekla;;true
+poreklo;poreklo;od poreæi;false;porijeklo;;true
+posednut;opsjednut;Typo;false;posjednut;;true
+postavljace;postavljaèe;;false;postavljat æe;;true
+postavljacu;postavljaèu;;false;postavljat æu;;true
+postignuce;postignuæe;;false;postignut æe;;true
+posudicu;posudicu;;false;posudit æu;;true
+potpredsednice;potpredsjednice;;false;potpredsjednièe;;true
+potpredsjednice;potpredsjednice;;false;potpredsjednièe;;true
+potpukovnice;potpukovnice;;false;potpukovnièe;;true
+potuci;potuci;;false;potuæi;;true
+povest;povest;povest(i) nekoga ili nešto;false;povijest;;true
+povesti;povesti;povesti nekoga ili nešto;true;povijesti;;false
+povrede;povrede;;true;povrijede;;false
+povredi;povredi;;false;povrijedi;;true
+povuci;povuci;;true;povuæi;;false
+pozajmice;posudit æe;;true;pozajmice;;false
+pozajmicu;posudit æu;;true;pozajmicu;;false
+pozornice;pozornice;;true;pozornièe;;false
+pravlima;pravilima;;true;pravima;;false
+pre;pre;;false;prije;;true
+preci;preci;;false;prijeæi;;true
+precicu;preèicu;;true;prijeæi æu;;false
+precuti;preèuti;;false;prešuti;;true
+preæi;preèi;;false;preæi;;false;prijeæi;;true
+predlozi;predloži;;false;prijedlozi;;true
+predsednice;predsjednice;;false;predsjednièe;;true
+predsjednice;predsjednice;;false;predsjednièe;;true
+preduzecu;poduzet æu;1-->2;false;tvrtci;;true
+preduzeæu;poduzet æu;1-->2;false;tvrtci;;true
+preðe;preðe;;false;prijeðe;;true
+preðu;preðu;;false;prijeðu;;true
+preskoci;preskoci;;false;preskoèi;;true
+presute;presute;;true;prešute;;false
+presuti;presuti;;true;prešuti;;false
+presutim;presutim;;true;prešutim;;false
+presvuci;presvuci;;false;presvuæi;;true
+preteæi;preteæi;;false;prijeteæi;;true
+pretila;pretila;predebela;false;prijetila;;true
+pretile;pretile;predebele;false;prijetile;;true
+pretili;pretili;predebeli;false;prijetili;;true
+pretilo;pretilo;predebelo;false;prijetilo;;true
+pretio;pretio;;false;prijetio;;true
+pretvaraæu;pretvaraèu;;false;pretvarat æu;;true
+prevazilazi;nadilazi;;false;nadmašuje;;true;premašuje;;false
+prevazisao;nadišao;;false;nadvladao;;true
+prevazišao;nadišao;;false;nadvladao;;true
+price;Price;;true;prièe;;false
+prièi;prièi;;true;priæi;;false
+prince;Prince;strano ime ili prezime;false;prinèe;;false
+propovjedi;propovijedi;;true;propovjedi;npr. Propovjedi!;false
+prosta;jednostavna;;false;prosta;;true
+proste;jednostavne;;false;proste;;true
+prosti;jednostavni;;false;oprosti;;false;prosti;;true
+prosto;jednostavno;;false;prosto;;true
+prostu;jednostavnu;;false;prostu;;true
+prošunjao;prošuljao;;true;prošunjao;;false
+prozdrvljivce;proždrljivce;;false;proždrljivèe;;true
+puse;puse;;false;puše;;true
+pusi;pusi;;true;puši;;false
+pusu;pusu;;true;pušu;;false
+radicu;Radiæu;;false;radit æu;;true
+radiæu;Radiæu;;false;radit æu;;true
+razmazivacu;razmazivaèu;;false;razmazivat æu;;true
+razume;razume;;false;razumije;;true
+reagovanje;reagiranje;;true;reakcija;;false
+rec;reæi;;false;rijeè;;true
+reci;reci;;true;reæi;;false;rijeci;;false;rijeèi;;false
+recima;recima;;false;rijeèima;;true
+reèi;reæi;;false;rijeèi;;true
+redak;redak;umanj. od red;false;rijedak;;true
+rese;rese;;false;riješe;;true
+resi;resi;;false;riješi;;true
+resicu;resicu;;false;riješit æu;;true
+resila;resila;;false;riješila;;true
+resili;resili;;true;riješili;;false
+resim;resim;;false;riješim;;true
+resimo;resimo;;true;riješimo;;false
+resio;resio;;false;riješio;;true
+resite;resite;;true;riješite;;false
+resiti;resiti;;false;riješiti;;true
+retka;retka;;false;rijetka;;true
+rid;Reed;;true;Reid;;false
+rijeci;rijeci;;true;rijeèi;;false
+rikverc;rikverc;;false;natrag;;true
+rodice;rodice;;false;rodit æe;;true
+rodicu;rodicu;;false;rodit æu;;true
+sabijen;stiješnjen;;false;zbijen;;true
+sacu;saæu;;false;sad æu;;true
+saèeka;doèeka;;false;prièeka;;true
+sala;sala;;true;šala;;false
+sali;sali;;false;Sally;;true
+saobraæaju;prometu;;true;prometuju;;false
+savana;savana;;true;Savannah;;false
+sece;sijeèe;;false;sjeèe;množina od sjeèa;false;šeæe;;false
+secem;sijeèem;;false;šeæem;;true
+seci;sijeci;;false;šeæi;;true
+sedmica;sedmica;;false;tjedan;;false
+sedmicama;sedmicama;;false;tjadnima;;true
+sedmice;sedmice;;false;tjedna;;true
+sedmici;sedmici;;false;tjednu;;true
+sedmico;sedmico;;false;tjedne;;true
+sedmicom;sedmicom;;false;tjednom;;true
+sedmicu;sedmicu;;false;tjedan;;true
+sedmièna;sedmièna;;false;tjedna;;true
+sedmiène;sedmiène;;false;tjedne;;true
+sedmièni;sedmièni;;false;tjedni;;true
+sedmiènih;sedmiènih;;false;tjednih;;true
+sedmiènim;sedmiènim;;false;tjednim;;true
+sedmiènima;sedmiènima;;false;tjednim;;true;tjednima;;false
+sedmièno;sedmièno;;false;tjedno;;true
+sedmiènog;sedmiènog;;false;tjednog;;true
+sedmiènoj;sedmiènoj;;false;tjednoj;;true
+sedmiènom;sedmiènom;;false;tjednom;;true
+sedmiènu;sedmiènu;;false;tjednu;;true
+sefa;sefa;;false;šefa;;true
+sekira;nervira;;false;sjekira;;true
+seku;sestru;;false;sijeku;;true
+selotejp;samoljepljiva traka;;false;samoljepljivu traku;;true
+selotejpa;samoljepljiva traka;;false;samoljepljive trake;;true
+sem;osim;;true;Sam;strano ime;false
+sena;sijena;;false;sjena;;true
+sesti;sjesti;;true;šesti;;false
+seti;SETI;;false;sjeti;;true
+siedeæi;sjedeæi;;false;slijedeæi;;true
+sipam;sipam;;true;uspem;;false
+sire;sire;;false;šire;;true
+sjecala;sjecala;;false;sjeæala;;true
+sjecanje;sjecanje;;false;sjeæanje;;true
+sjeèa;sjeèa;;false;sjeæa;;true
+skužiti;razumjeti;;false;skužiti;;true
+slavicu;Slavicu;;false;slavit æu;;true
+slede;slede;;false;slijede;;true
+sledeca;slijedeæa;koja prati nekog;false;sljedeæa;iduæa, naredna;true
+sledece;slijedeæe;koja prati nekog;false;sljedeæe;iduæe, naredno;true
+sledeceg;slijedeæeg;koje prati nekog;false;sljedeæeg;iduæeg, narednog;true
+sledecem;slijedeæem;koje prati nekog;false;sljedeæem;iduæem, narednom;true
+sledeci;slijedeæi;prateæi;false;sljedeæi;;true
+sledecih;slijedeæih;koje prate nekog;false;sljedeæih;iduæih, narednih;true
+sledecim;slijedeæim;koje prate nekog;false;sljedeæim;iduæim, narednim;true
+sledecoj;slijedeæoj;koje prati nekog;false;sljedeæoj;iduæoj, narednoj;true
+sledecom;slijedeæom;koja prati nekog;false;sljedeæom;iduæom, narednom;true
+sledecu;slijedeæu;koja prati nekog;false;sljedeæu;iduæu, narednu;true
+sledeèa;slijedeæa;koja prati nekog;false;sljedeæa;iduæa, naredna;true
+sledeèe;slijedeæe;koja prati nekog;false;sljedeæe;iduæe, naredne;true
+sledeèeg;slijedeæeg;koje prati nekog;false;sljedeæeg;iduæeg, narednog;true
+sledeèem;slijedeæem;koje prati nekog;false;sljedeæem;iduæem, narednom;true
+sledeèi;slijedeæi;prateæi nekog;false;sljedeæi;iduæi, naredni;true
+sledeèih;slijedeæih;koje prate nekog;false;sljedeæih;iduæih, narednih;true
+sledeèim;slijedeæim;koje prate nekog;false;sljedeæim;iduæim, narednim;true
+sledeèoj;slijedeæoj;koje prati nekog;false;sljedeæoj;iduæoj, narednoj;true
+sledeèom;slijedeæom;koja prati nekog;false;sljedeæom;iduæom, narednom;true
+sledeèu;slijedeæu;koja prati nekog;false;sljedeæu;iduæu, narednu;true
+sledeæa;slijedeæa;koja prati nekog;false;sljedeæa;iduæa, naredna;true
+sledeæe;slijedeæe;koja prati nekog;false;sljedeæe;iduæe, naredno;true
+sledeæeg;slijedeæeg;koje prati nekog;false;sljedeæeg;iduæeg, narednog;true
+sledeæem;slijedeæem;koje prati nekog;false;sljedeæem;iduæem, narednom;true
+sledeæi;slijedeæi;prateæi nekog;false;sljedeæi;iduæi, naredni;true
+sledeæih;slijedeæih;koje prate nekog;false;sljedeæih;iduæih, narednih;true
+sledeæim;slijedeæim;koje prate nekog;false;sljedeæim;iduæim, narednim;true
+sledeæoj;slijedeæoj;koje prati nekog;false;sljedeæoj;iduæoj, narednoj;true
+sledeæom;slijedeæom;koja prati nekog;false;sljedeæom;iduæom, narednom;true
+sledeæu;slijedeæu;koja prati nekog;false;sljedeæu;iduæu, narednu;true
+sledi;sledi;;false;slijedi;;true
+sledih;sledih;;false;slijedih;;true
+sledila;sledila;;false;slijedila;;true
+sledile;sledile;;false;slijedile;;true
+sledili;sledili;;false;slijedili;;true
+sledilo;sledilo;;false;slijedilo;;true
+sledim;sledim;;false;slijedim;;true
+sledimo;sledimo;;false;slijedimo;;true
+sledio;sledio;;false;slijedio;;true
+sledismo;sledismo;;true;slijedismo;;false
+slediste;slediste;;true;slijediste;;false
+slediš;slediš;;false;slijediš;;true
+slediše;slediše;;true;slijediše;;false
+sledite;sledite;;false;slijedite;;true
+slediti;slediti;;false;slijediti;;true
+sledu;slede;;false;slijedu;;true
+sleðen;sleðen;;true;slijeðen;;false
+sleðena;sleðena;;true;slijeðena;;false
+sleðene;sleðene;;true;slijeðene;;false
+sleðeni;sleðeni;;true;slijeðeni;;false
+sleðenih;sleðenih;;true;slijeðenih;;false
+sleðenim;sleðenim;;true;slijeðenim;;false
+sleðenima;sleðenima;;true;slijeðenima;;false
+sleðenoj;sleðenoj;;true;slijeðenoj;;false
+sleðenom;sleðenom;;true;slijeðenom;;false
+sleðenu;sleðenu;;true;slijeðenu;;false
+sleva;slijeva;s lijeve strane;true;sliva;od slivati;false
+slijedeèa;slijedeæa;koja prati nekog;false;sljedeæa;iduæa, naredna;true
+slijedeèæim;slijedeæim;koje prate nekog;false;sljedeæim;iduæim, narednim;true
+slijedeèem;slijedeæem;koje prati nekog;false;sljedeæem;iduæem, narednom;true
+slijedeèi;slijedeæi;prateæi nekog;false;sljedeæi;iduæi, naredni;true
+sluzi;sluzi;;false;služi;;true
+sljedeèa;slijedeæa;koja prati nekog;false;sljedeæa;iduæa, naredna;true
+sljedeèoj;slijedeæoj;koje prati nekog;false;sljedeæoj;iduæoj, narednoj;true
+sma;sam;;false;smo;;true
+smela;smela;;false;smjela;;true
+smeli;smeli;;false;smjeli;;true
+smelo;smelo;;false;smjelo;;true
+smeo;smeo;;false;smio;;true
+smesti;smesti;;false;smjesti;;true
+smeš;smeš;;false;smiješ;;true
+smeša;smiješa;;true;smjesa;;false
+smete;smete;;false;smijete;;true
+smeti;smeti;;false;smjeti;;true
+smlaèen;smlaèen;;true;smlaæen;;false
+solju;solju;;false;šalicu;;true
+sos;S.O.S.;;false;SOS;;false;umak;;true
+spansko;špansko;;false;španjolsko;;true
+spavaèica;spavaèica;;false;spavaæica;;true
+spavaèici;spavaèici;;false;spavaæici;;true
+spelovanju;slovkanju;;true;spelovanju;;false
+sreda;s reda;;false;srijeda;;true
+srede;srede;;false;srijede;;true
+sredi;sredi;;false;srijedi;;true
+sredu;srede;;false;srijedu;;true
+stanica;postaja;;false;stanica;;true
+stanicama;postajama;;false;stanicama;;true
+stanice;postaje;;false;stanice;;true
+stanici;postaji;;false;stanici;;true
+stanicom;postajom;;false;stanicom;;true
+stanicu;postaju;;false;stanicu;;true
+stene;stijene;;true;štene;;false
+stenjem;stenjem;;true;stijenjem;;false
+stisci;stisci;;false;stišæi;;true
+stiven;Stephen;;false;Steven;;true
+sto;sto;;true;stol;;false;što;;false
+strasna;strasna;;true;strašna;;false
+strasne;strasne;;true;strašne;;false
+strasni;strasni;;true;strašni;;false
+strasnih;strasnih;;true;strašnih;;false
+strasnija;strasnija;;true;strašnija;;false
+strasnije;strasnije;;true;strašnije;;false
+strasniji;strasniji;;true;strašniji;;false
+strasnijih;strasnijih;;true;strašnijih;;false
+strasnijim;strasnijim;;true;strašnijim;;false
+strasnijima;strasnijima;;true;strašnijima;;false
+strasnijoj;strasnijoj;;true;strašnijoj;;false
+strasnijom;strasnijom;;true;strašnijom;;false
+strasniju;strasniju;;true;strašniju;;false
+strasnim;strasnim;;true;strašnim;;false
+strasnima;strasnima;;true;strašnima;;false
+strasno;strasno;;false;strašno;;true
+strasnoga;strasnoga;;true;strašnoga;;false
+strasnoj;strasnoj;;true;strašnoj;;false
+strasnom;strasnom;;true;strašnom;;false
+strasnu;strasnu;;true;strašnu;;false
+sudce;sudce;;true;sudèe;;false
+sudiæe;sudiæe;;false;sudit æe;;true
+suzanin;Susanin;;true;Suzanin;;false
+suzanini;Susanini;;true;Suzanini;;false
+svako;svako;;true;svaku;;false;svatko;;false
+sveca;sveca;;false;svijeæa;;true
+svecu;svetcu;;false;svijeæu;;true
+svest;svest;;false;svijest;;true
+svesti;svesti;;false;svijesti;;true
+svet;svet;;false;svijet;;true
+sveta;sveta;;false;svijeta;;true
+svetom;svetom;;false;svijetom;;true
+svetu;svetu;;false;svijetu;;true
+sveza;sveza;;false;svježa;;true
+svezi;svezi;;false;sveži;;false;svježi;;true
+sveže;sveže;;false;svježe;;true
+sveži;sveži;;false;svježi;;true
+svo;sve;;true;svih;;false
+šejn;Shane;;true;Shayne;;false
+širu;šire;;false;širu;;true
+šoljice;šalice;;true;školjkice;;false
+šolju;šalicu;;true;školjku;;false
+šou;Shaw;;false;show;;true
+špansko;špansko;;false;španjolsko;;true
+tacaka;taèaka;;false;toèaka;;true
+tacna;tacna;;true;toèna;;false
+tacne;tacne;;true;toène;;false
+tacni;tacni;;true;toèni;;false
+tacnu;tacnu;;true;toènu;;false
+taèaka;taèaka;;false;toèaka;;true
+taèke;taèke;;false;toèke;;true
+tak;tak;;false;tako;;true
+teci;teci;;false;teæi;;true
+tecnost;teènost;;true;tekuæina;;false
+tesan;tesan;;false;tijesan;;true
+teše;teše;od tesati;false;tješe;;true
+teši;teši;od tesati;false;tješi;;true
+trejsi;Tracey;;false;Tracy;;true
+trojca;trojca;;false;trojica;;true
+trojcu;trojcu;;false;trojicu;;true
+tuca;tuca;;false;tuèa;;true
+tuèi;tuèi;;false;tuæi;;true
+tuæi;tuèi;;false;tuæi;;true
+ubi;ubi;;false;ubij;;true
+ubicu;ubit æu;;false;ubojicu;;true
+ubite;ubijte;;true;ubite;;false
+udarace;udaraèe;;false;udarat æe;;true
+udes;udes;;true;uðeš;;false
+udu;udu;;true;uðu;;false
+ujka;ujaèe;;true;ujak;;false;ujaka;;false
+ulubit;udubit;;false;ulupit;;true
+unaprediti;unaprediti;;false;unaprijediti;;true
+upletana;upletana;;false;upletena;;true
+ureci;ureci;;false;ureæi;;true
+uredu;u redu;;true;uredu;;false
+uspe;uspe;;false;uspije;;true
+uspeh;uspeh;;false;uspjeh;;true
+uspela;uspela;;false;uspjela;;true
+uspeli;uspeli;;false;uspjeli;;true
+uspelo;uspelo;;false;uspjelo;;true
+uspem;uspem;;false;uspijem;;true
+uspemo;uspemo;;false;uspijemo;;true
+uspeo;uspeo;;false;uspio;;true
+uspes;uspeš;;false;uspiješ;;true
+uspeš;uspeš;;false;uspiješ;;true
+uspet;uspet;;true;uspjet;;false
+uspete;uspete;;true;uspijete;;false
+uspeti;uspeti;;false;uspjeti;;true
+usredsreðenost;koncentraciju;;true;usredotoèenost;;false
+ustanovljen;ustanovljen;;true;ustrojen;;false
+usute;usute;;true;ušute;;false
+usuti;usuti;;false;ušuti;;true
+usvoj;u svoj;;true;usvoji;od usvojiti;false
+uticao;uticao;;false;utjecao;;true
+uticu;utièu;;false;utjeèu;;true
+utièe;utièe;;false;utjeèe;;true
+utièeš;utièeš;;false;utjeèeš;;true
+utièu;utièu;;false;utjeèu;;true
+uveta;uha;;false;uvjeta;;false
+uvetima;ušima;;true;uvjetima;;false
+uvetom;uhom;;false;uvjetom;;false
+uvetu;uhu;Kopam po uvetu.;false;uvjetu;;true
+uvrede;uvrede;;true;uvrijede;;false
+uvredi;uvredi;;true;uvrijedi;;false
+uvreditelj;uvreditelj;;true;uvrjeditelj;;false
+uvredljiv;uvredljiv;;true;uvrjedljiv;;false
+uvredljiva;uvredljiva;;true;uvrjedljiva;;false
+uvredljive;uvredljive;;true;uvrjedljive;;false
+uvredljivi;uvredljivi;;true;uvrjedljivi;;false
+uvredljivih;uvredljivih;;true;uvrjedljivih;;false
+uvredljivim;uvredljivim;;true;uvrjedljivim;;false
+uvredljivo;uvredljivo;;true;uvrjedljivo;;false
+uvredljivog;uvredljivog;;true;uvrjedljivog;;false
+uvredljivoj;uvredljivoj;;true;uvrjedljivoj;;false
+uvredljivom;uvredljivom;;true;uvrjedljivom;;false
+uvredljivost;uvredljivost;;true;uvrjedljivost;;false
+uvredljivu;uvredljivu;;true;uvrjedljivu;;false
+uvredo;uvredo;;true;uvrjedo;;false
+uvredom;uvredom;;true;uvrjedom;;false
+uvredu;uvredu;;true;uvrjedu;;false
+vas;vas;;true;vaš;;false
+vašare;prodaju;;true;sajme;;false
+vašari;prodaje;;true;sajmovi;;false
+vece;veèer;;false;veæe;;true
+veèe;veèer;;true;veæe;;false
+veæa;veæa;;true;vijeæa;;false
+veæe;veæe;;true;vijeæe;;false
+veæem;veæem;;true;vijeæem;;false
+veæima;veæima;;true;vijeæima;;false
+veæom;veæom;;true;vijeæem;;false
+veæu;veæu;;true;vijeæu;;false
+veoma;jako;;false;mnogo;;false;vrlo;;true
+veprica;veprica;;false;vepriæa;;true
+vera;Vera;;false;vjera;;true
+vere;vere;;false;vjere;;true
+verne;Verne;Jules Verne;false;vjerne;;true
+verom;verom;;false;vjerom;;true
+veru;veru;;false;vjeru;;true
+vesa;rublja;;false;vješa;;true
+vesala;vesala;;false;vješala;;true
+vest;vijest;;true;vješt;;false
+vesti;vesti;;false;vijesti;;true
+vestica;vesta;;false;vještica;;true
+vestice;veste;;false;vještice;;true
+vesticu;vestu;;false;vješticu;;true
+vesto;vesto;;false;vješto;;true
+veša;rublja;;false;vješa;;true
+vezeš;vezeš;;true;vežeš;;false
+vezite;vezite;;false;vežite;;true
+vièite;vièite;;true;Wichite;;false
+video;video;;false;vidio;;true
+viktorije;Victorije;;true;viktorije;;false
+vilard;Villard;;false;Willard;;true
+viler;Wheeler;;true;Willer;;false
+vileru;Wheeleru;;true;Willeru;;false
+vise;vise;;false;više;;true
+visi;visi;;true;viši;;false
+viteze;viteze;;true;vitezove;;false;viteže;;false
+vjest;vijest;;false;vješt;;true
+vjesti;vijesti;;true;vješti;;false
+vodice;vodice;;false;vodit æe;;true
+vodicu;vodicu;;false;vodit æu;;true
+voz;vlak;;true;voz;;false
+voza;vlaka;;true;voza;;false
+vozom;vlakom;;true;vozom;;false
+vozova;vlakova;;true;vozova;;false
+vozove;vlakove;;true;vozova;;false
+vozovi;vlakovi;;true;vozovi;;false
+vozu;vlaku;;true;vozu;;false
+vracali;vraèali;;false;vraæali;;true
+vracas;vraèaš;;false;vraæaš;;true
+vracati;vraèati;;false;vraæati;;true
+vraèa;vraèa;;false;vraæa;;true
+vraèaj;vraèaj;;false;vraæaj;;true
+vraèaju;vraèaju;;false;vraæaju;;true
+vraèam;vraèam;;false;vraæam;;true
+vraèati;vraèati;;false;vraæati;;true
+vraæati;vraèati;;false;vraæati;;true
+vraticu;vratiæu;;false;vratit æu;;true
+vratiæe;vratiæe;;false;vratit æe;;true
+vratiæu;vratiæu;;false;vratit æu;;true
+vuca;vuèa;;true;vuèe;;false
+zabavice;zabavice;;false;zabavit æe;;true
+zagorele;zagorjele;;true
+zaleæi;zaleæi;;false;zalijeæi;;true
+zali;zali;;false;žali;;true
+zamorce;zamorca;nekog zamorca;true;zamorce;množina;false
+zao;zao;;false;žao;;true
+zapeci;zapeci;;false;zapeæi;;true
+zapovedi;zapovijedi;množina od zapovijed;true;zapovjedi;uzvièni oblik;false
+zapovijednice;zapovjednice;;false;zapovjednièe;;true
+zaprijeèeno;zaprijeèeno;postaviti zapreku;true;zaprijeæeno;zaprijetiti nekome;false
+zaprijeæeno;zaprijeèeno;postaviti zapreku;false;zaprijeæeno;zaprijetiti nekome;true
+zasijalo;zasijalo;;false;zasjalo;;true
+zastavnice;zastavnice;;false;zastavnièe;;true
+zasuti;zasuti;;false;zašuti;;true
+zasutim;zasutim;;true;zašutim;;false
+zateci;zateci;;false;zateæi;;true
+zecica;zeèica;;false;zeèiæa;;true
+zeland;Zealand;New Zealand;false;zeland;;true
+zelande;Zealande;;false;zelande;;true
+zenica;zenica;;false;zjenica;;true
+zenice;zenice;;false;zjenice;;true;ženit æe;;false
+znace;znaèe;;false;znat æe;;true
+znaci;znaci;;false;znaèi;;true
+znaèejne;znaèajne;;true;znaèenje;;false
+znaæe;znaèe;;false;znat æe;;true
+zvaceš;zvat æeš;;false;žvaèeš;;true
+zvacu;zvat æu;;true;žvaèu;;false
+zvuci;zvuci;;false;zvuèi;;true
