@@ -1,20 +1,76 @@
+bijem;bijem;;false;tuèem;;true;borim;;false
+borice;borit æe;;false;borice;male bore;true
+brisem;brišem;brisati;true;brisom;bris;false
+burk;Burke;strano prezime;true;Burk;;false
+èak;èak;;true;Chuck;Strano ime Chuck;false
+džini;džini;;true;Jeanie;Strano žensko ime Jeanie;false
+franc;Franz;Franz Kafka;true;Franc;;false
+hani;Hani;;false;Honey;;true
+hey;hey;;false;hej;;true
+idi;idi;;true;Edie;Strano žensko ime;false
+iscepana;isjeèena;;false;iskidana;;true
 iseèeno;isjeèeno;;true;izrezano;;false
+iti;i ti;;true;iti;npr. "iti jednom";false
+izvinut;izvinut;;true;isprièat;;false
+jang;yang;ying-yang;false;Young;strano prezime;true
+jun;lipanj;;false;Jun;nadimak za lika iz Sopranosa - June;true
+juna;Juna;nadimak za Juniora Soprana;true;lipnja;;false
+june;june;mlado krave;false;lipnje;;false;June;lik iz Sopranosa - June;true
+junom;junetom;mladim krave;false;lipnjem;;false;Junom;lik iz Sopranosa - June;true
+junu;lipnju;;false;Junu;lik iz Sopranosa - June;true
+juta;juta;;true;Utah;Savezna država u SAD-u;false
+jute;jute;;true;Utaha;Savezna država u SAD-u;false
+juti;juti;;true;Utahu;Savezna država u SAD-u;false
+jutu;jutu;;true;Utah;Savezna država u SAD-u;false
+kolaæe;kolat æe;kolati;true;kolaèe;;false
+kolet;kolet;;false;Colette;strano žensko ime Colette;true
+konsultanti;konzultanti;;false;savjetnici;;true
+levi;lijevi;;true;Levi;Strano muško ime;false
 lila;Leela;Ime ženskog lika iz Futurame;false;lila;boja;true
 lile;Leele;Ime ženskog lika iz Futurame;false;lile;boja;true
 lili;Leeli;Ime ženskog lika iz Futurame;false;lili;boja;true
 lilom;Leelom;Ime ženskog lika iz Futurame;false;lilom;boja;true
 lilu;Leelu;Ime ženskog lika iz Futurame;false;lilu;boja;true;Leeloo;Strano žensko ime;false
 loh;loh;;false;Loch;"Loch Ness";true
+ludaèe;luðaèe;;false;luðakinje;;true
+majka;majka;;true;Mikea;Strano ime Mike;false
+majkom;majkom;;true;Mikeom;Strano ime Mike;false
+majku;majku;;true;Mikeu;Strano ime Mike;false
 nabubrim;oteknem;;true;narastem;;false
+napastvovao;napastovao;;false;zlostavljao;;true
+napastvovati;napastovati;;false;zlostavljati;;true
+napastvuje;napastuje;;false;zlostavlja;;true
+nemo;nijemo;;true;Nemo;strano ime;false
 obavjesti;obavjesti;;true;obavijesti;;false
+obezbeðujem;snabdjevam;;true;osiguravam;;false
+obraðivaæu;obraðivaèu;nekome tko nešto obraðuje;true;obraðivat æu;;false
+osmesi;osmjesi;;true;osmješi;;false
+pièe;piæe;;true;pit æe;;false
 prsnuæu;prsnut æu;1->2;true;prsnuæu;;false
+pružaæu;pružat æu;1->2;true;pružaèu;;false
+pukovnice;pukovnice;;true;pukovnièe;;false
 rascep;rascjep;;true;razdor;;false
+reèi;reæi;;true;rijeèi;;false
+remi;remi;kartaška igra;false;Remy;strano muško ime Remy;true
+remiju;Remyju;muško ime Remy;true;remiju;kartaška igra;false
 saopštenja;priopæenja;;true;obavjesti;;false
 sataninog;sotoninog;;true;vražjeg;;false
+sekretarice;tajnice;;true;sekretarice;npr. telefonske sekretarice;false
+sexy;sexy;;false;seksi;;true
+snimaæu;snimat æu;1->2;true;snimaèu;;false
+suši;suši;;true;sushi;azijsko jelo;false
+suzanino;suzanino;;false;Susanino;;true
+šolje;šalice;;true;školjke;WC školjka;false
+šopingom;šopingom;;true;kupovinom;;false
 testerisanja;testiranja;;false;pilanja;;true
 testerom;testerom;množina od "tester";false;pilom;;true
+tinu;Teenu;;true;Tinu;;false
+tomijevog;tomijevog;;true;tommyevog;;false
 tupadžija;glupana;;true;glupan;;false
 umeæe;umeæe;;false;umjeæe;;true
 vaæare;prevarante;;false;prevare;;true
 vaæaroša;prevaranta;;false;prevaranata;;true
 vaæaroški;prevarantici;;false;prevarantski;;true
+veæe;veæe;;true;vijeæe;;false;veèer;;false
+venca;vjenèa;;false;vijenca;;true
+zapušen;zapušen;;false;zaèepljen;;true
