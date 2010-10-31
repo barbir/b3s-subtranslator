@@ -268,6 +268,7 @@ da držim;držati
 da držimo;držati
 da držiš;držati
 da držite;držati
+da eksplodira;eksplodirati
 da gaje;gajiti
 da gaji;gajiti
 da gajim;gajiti
@@ -292,6 +293,7 @@ da gladujemo;gladovati
 da gladuješ;gladovati
 da gladujete;gladovati
 da gladuju;gladovati
+da glasamo;glasati
 da gleda;gledati
 da gledaju;gledati
 da gledam;gledati
@@ -306,6 +308,7 @@ da govorim;govoriti
 da govorimo;govoriti
 da govoriš;govoriti
 da govorite;govoriti
+da gradi;graditi
 da gricka;grickati
 da grickaju;grickati
 da grickam;grickati
@@ -392,7 +395,14 @@ da imamo;imati
 da imaš;imati
 da imate;imati
 da impresioniram;impresionirati
+da inficira;inficirati
 da inspirira;inspirirati
+da intervenira;intervenirati
+da interveniraju;intervenirati
+da interveniram;intervenirati
+da interveniramo;intervenirati
+da interveniraš;intervenirati
+da intervenirate;intervenirati
 da isisa;isisati
 da isisaju;isisati
 da isisam;isisati
@@ -406,6 +416,12 @@ da isjeckamo;isjeckati
 da isjeckaš;isjeckati
 da isjeckate;isjeckati
 da isjeèe;isjeæi
+da iskljuèe;iskljuèiti
+da iskljuèi;iskljuèiti
+da iskljuèim;iskljuèiti
+da iskljuèimo;iskljuèiti
+da iskljuèiš;iskljuèiti
+da iskljuèite;iskljuèiti
 da iskoèi;iskoèiti
 da iskopavamo;iskopavati
 da iskoriste;iskoristiti
@@ -463,6 +479,7 @@ da isprobam;isprobati
 da isprobamo;isprobati
 da isprobaš;isprobati
 da isprobate;isprobati
+da istražim;istražiti
 da istrpe;istrpjeti
 da istrpi;istrpjeti
 da istrpim;istrpjeti
@@ -493,6 +510,7 @@ da izaðemo;izaæi
 da izaðeš;izaæi
 da izaðete;izaæi
 da izaðu;izaæi
+da izazovu;izazvati
 da izbace;izbaciti
 da izbaci;izbaciti
 da izbacim;izbaciti
@@ -511,6 +529,12 @@ da izbjegnemo;izbjeæi
 da izbjegneš;izbjeæi
 da izbjegnete;izbjeæi
 da izbjegnu;izbjeæi
+da izbriše;izbrisati
+da izbrišem;izbrisati
+da izbrišemo;izbrisati
+da izbrišeš;izbrisati
+da izbrišete;izbrisati
+da izbrišu;izbrisati
 da izdaje;izdavati
 da izdajem;izdavati
 da izdajemo;izdavati
@@ -574,6 +598,7 @@ da izludimo;izluditi
 da izludiš;izluditi
 da izludite;izluditi
 da izmislimo;izmisliti
+da iznudi;iznuditi
 da izostanem;izostati
 da izraze;izraziti
 da izrazi;izraziti
@@ -606,12 +631,14 @@ da jedemo;jesti
 da jedeš;jesti
 da jedete;jesti
 da jedu;jesti
+da joj kažem;joj reæi
 da joj pomogne;joj pomoæi
 da joj pomognem;joj pomoæi
 da joj pomognemo;joj pomoæi
 da joj pomogneš;joj pomoæi
 da joj pomognete;joj pomoæi
 da joj pomognu;joj pomoæi
+da joj vjeruješ;joj vjerovati
 da joj zamota;joj zamotati
 da joj zamotaju;joj zamotati
 da joj zamotam;joj zamotati
@@ -750,6 +777,7 @@ da li æemo;hoæemo li
 da li æeš;hoæeš li
 da li æete;hoæete li
 da li æu;hoæu li
+da li djeluje;djeluje li
 da li hoæe;hoæe li
 da li hoæemo;hoæemo li
 da li hoæeš;hoæeš li
@@ -781,7 +809,9 @@ da li može;može li
 da li možemo;možemo li
 da li možeš;možeš li
 da li možete;možete li
+da li mu možeš;možeš li mu
 da li odgovara;odgovara li
+da li postoje;postoje li
 da li postoji;postoji li
 da li prekida;prekida li
 da li prekidaju;prekidaju li
@@ -806,12 +836,14 @@ da li shvaæamo;shvaæamo li
 da li shvaæaš;shvaæaš li
 da li shvaæate;shvaæate li
 da li si;jesi li
+da li smetam;smetam li
 da li smijem;smijem li
 da li smo;jesmo li
 da li ste;jeste li
 da li su;jesu li
 da li ti;je li ti
 da li treba;treba li
+da li trebamo;trebamo li
 da li vam;je li vam
 da li zna;zna li
 da li znaju;znaju li
@@ -878,6 +910,7 @@ da me nauèim;me nauèiti
 da me nauèimo;me nauèiti
 da me nauèiš;me nauèiti
 da me nauèite;me nauèiti
+da me nazoveš;me nazvati
 da me odvoje;me odvojiti
 da me odvoji;me odvojiti
 da me odvojim;me odvojiti
@@ -1131,6 +1164,7 @@ da mu pomognemo;mu pomoæi
 da mu pomogneš;mu pomoæi
 da mu pomognete;mu pomoæi
 da mu pomognu;mu pomoæi
+da mu prenese;mu prenijeti
 da mu prevode;mu prevoditi
 da mu prevodi;mu prevoditi
 da mu prevodim;mu prevoditi
@@ -1149,6 +1183,7 @@ da mu radim;mu raditi
 da mu radimo;mu raditi
 da mu radiš;mu raditi
 da mu radite;mu raditi
+da mu vratim;mu vratiti
 da muze;musti
 da muzem;musti
 da muzemo;musti
@@ -1442,7 +1477,12 @@ da odrijemam;odrijemati
 da odrijemamo;odrijemati
 da odrijemaš;odrijemati
 da odrijemate;odrijemati
+da održe;održati
+da održi;održati
 da održim;održati
+da održimo;održati
+da održiš;održati
+da održite;održati
 da odsijeèe;odsjeæi
 da odsijeèem;odsjeæi
 da odsijeèemo;odsjeæi
@@ -1457,6 +1497,7 @@ da odspavamo;odspavati
 da odspavaš;odspavati
 da odspavate;odspavati
 da odu;otiæi
+da odugovlaèim;odugovlaèiti
 da odustane;odustati
 da odustanem;odustati
 da odustanemo;odustati
@@ -1579,6 +1620,7 @@ da otkrijemo;otkriti
 da otkriješ;otkriti
 da otkrijete;otkriti
 da otkriju;otkriti
+da otmu;oteti
 da otpjevamo;otpjevati
 da otplatim;otplatiti
 da otputujemo;otputovati
@@ -1866,6 +1908,12 @@ da pokušavam;pokušavati
 da pokušavamo;pokušavati
 da pokušavaš;pokušavati
 da pokušavate;pokušavati
+da polaže;polagati
+da polažem;polagati
+da polažemo;polagati
+da polažeš;polagati
+da polažete;polagati
+da polažu;polagati
 da polete;poletjeti
 da poleti;poletjeti
 da poletim;poletjeti
@@ -1971,6 +2019,13 @@ da postanemo;postati
 da postaneš;postati
 da postanete;postati
 da postanu;postati
+da postave;postaviti
+da postavi;postaviti
+da postavim;postaviti
+da postavimo;postaviti
+da postaviš;postaviti
+da postavite;postaviti
+da postigne;postiæi
 da postoje;postojati
 da postoji;postojati
 da postojim;postojati
@@ -2087,6 +2142,7 @@ da precrtavam;precrtavati
 da precrtavamo;precrtavati
 da precrtavaš;precrtavati
 da precrtavate;precrtavati
+da predam;predati
 da preðe;prijeæi
 da preðem;prijeæi
 da preðemo;prijeæi
@@ -2136,6 +2192,7 @@ da prestanemo;prestati
 da prestaneš;prestati
 da prestanete;prestati
 da prestanu;prestati
+da pretpostavimo;pretpostaviti
 da preuzmem;preuzeti
 da preuzmemo;preuzeti
 da preuzmeš;preuzeti
@@ -2179,6 +2236,7 @@ da prijeðete;prijeæi
 da prijeðu;prijeæi
 da prikažem;prikazati
 da prilože;priložiti
+da primijetim;primijetiti
 da primijetiš;primijetiti
 da primjeæuje;primjeæivati
 da primjeæujem;primjeæivati
@@ -2510,6 +2568,7 @@ da sagledam;sagledati
 da sagledamo;sagledati
 da sagledaš;sagledati
 da sagledate;sagledati
+da sagrade;sagraditi
 da sasluša;saslušati
 da saslušaju;saslušati
 da saslušam;saslušati
@@ -2570,6 +2629,7 @@ da se foliram;se folirati
 da se foliramo;se folirati
 da se foliraš;se folirati
 da se folirate;se folirati
+da se gaðam;gaðati se
 da se hrva;se hrvati
 da se hrvaju;se hrvati
 da se hrvam;se hrvati
@@ -2654,6 +2714,7 @@ da se nadam;se nadati
 da se nadamo;se nadati
 da se nadaš;se nadati
 da se nadate;se nadati
+da se naðemo;se naæi
 da se natjera;se natjerati
 da se natjeraju;se natjerati
 da se natjeram;se natjerati
@@ -2750,6 +2811,8 @@ da se osvojim;se osvojiti
 da se osvojimo;se osvojiti
 da se osvojiš;se osvojiti
 da se osvojite;se osvojiti
+da se otrgnem;se otrgnuti
+da se oženiš;se oženiti
 da se plaše;se plašiti
 da se plaši;se plašiti
 da se plašim;se plašiti
@@ -2834,6 +2897,7 @@ da se prikljuèim;se prikljuèiti
 da se prikljuèimo;se prikljuèiti
 da se prikljuèiš;se prikljuèiti
 da se prikljuèite;se prikljuèiti
+da se probudiš;se probuditi
 da se promijene;se promijeniti
 da se promijeni;se promijeniti
 da se promijenim;se promijeniti
@@ -3156,6 +3220,12 @@ da slušam;slušati
 da slušamo;slušati
 da slušaš;slušati
 da slušate;slušati
+da služe;služiti
+da služi;služiti
+da služim;služiti
+da služimo;služiti
+da služiš;služiti
+da služite;služiti
 da smanje;smanjiti
 da smanji;smanjiti
 da smanjim;smanjiti
@@ -3493,6 +3563,11 @@ da ubacimo;ubaciti
 da ubaciš;ubaciti
 da ubacite;ubaciti
 da ubija;ubijati
+da ubijaju;ubijati
+da ubijam;ubijati
+da ubijamo;ubijati
+da ubijaš;ubijati
+da ubijate;ubijati
 da ubije;ubiti
 da ubijem;ubiti
 da ubijemo;ubiti
