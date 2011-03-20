@@ -219,6 +219,7 @@ alapacom;alapaèom;missing Cro phonemes
 alapacu;alapaèu;missing Cro phonemes
 alarmiras;alarmiraš;missing Cro phonemes
 alarmirase;alarmiraše;missing Cro phonemes
+alaski;Aljaski;Case sensitive
 alatnicar;alatnièar;missing Cro phonemes
 albani;Albany;Case sensitive
 alegorican;alegorièan;missing Cro phonemes
@@ -253,6 +254,7 @@ alhemièar;alkemièar;
 alhemièara;alkemièara;
 alijadan;ali jadan;Typo
 alijas;alias;
+alisja;Alicia;Case sensitive
 alkatraz;Alcatraz;Case sensitive
 alkemicar;alkemièar;missing Cro phonemes
 alkemicara;alkemièara;missing Cro phonemes
@@ -682,6 +684,7 @@ apelvajtovih;Applewhiteovih;Case sensitive
 apelvajtovima;Applewhiteovima;Case sensitive
 aplaudiras;aplaudiraš;missing Cro phonemes
 aplaudirase;aplaudiraše;missing Cro phonemes
+aplazuz;aplauz;Typo
 apliciras;apliciraš;missing Cro phonemes
 aplicirase;apliciraše;missing Cro phonemes
 aplituda;amplituda;Typo
@@ -1167,6 +1170,7 @@ azdaju;zmaja;Wrong Form
 azot;dušik;
 azota;dušika;
 azotne;dušiène;
+azotnu;dušiènu;
 azotom;dušikom;
 aztecka;azteèka;missing Cro phonemes
 azurirah;ažurirah;missing Cro phonemes
@@ -1245,6 +1249,9 @@ bakcil;bacil;
 bakcili;bacili;
 balansirace;balansirat æe;1->2
 balaviš;bališ;
+baldasar;Baldazar;Case sensitive
+baldasara;Baldazara;Case sensitive
+baldasaru;Baldazaru;Case sensitive
 baletsku;baletnu;
 baligar;Ballygar;Case sensitive
 baligaru;Ballygaru;Case sensitive
@@ -1530,6 +1537,7 @@ besno;bijesno;
 besnog;bijesnog;
 besnoj;bijesnoj;
 besnom;bijesnom;
+besnu;bijesnu;
 besnjenja;bješnjenja;missing Cro phonemes
 besom;bijesom;
 besopasan;bezopasan;
@@ -1565,6 +1573,7 @@ bešèutna;bešæutna;wrong Cro phonemes
 bešèutni;bešæutni;wrong Cro phonemes
 bešæasno;bešèasno;wrong Cro phonemes
 beše;bješe;
+bešiku;mjehur;Wrong Form
 beti;Betty;Case sensitive
 betmana;Batmana;Case sensitive
 betmen;Batman;Case sensitive
@@ -1733,6 +1742,7 @@ biciklistièa;biciklistièka;Typo
 bicima;biæima;missing Cro phonemes
 bièemo;bit æemo;1->2
 bièete;bit æete;1->2
+bièevaæemo;bièevat æemo;1->2
 bièovana;bièevana;
 biæ;biè;wrong Cro phonemes
 biæemo;bit æemo;1->2
@@ -1771,6 +1781,7 @@ bijo;bio;
 bijsnim;bijesnim;Typo
 bil;Bill;Case sensitive
 bilaje;bila je;Typo
+bilans;bilancu;Wrong Form
 biliarsk;Bilyarsk;Case sensitive
 bilija;Billyja;Case sensitive
 bilijarskog;biljarskog;
@@ -2140,6 +2151,7 @@ božiène;Božiæne;wrong Cro phonemes
 božièni;Božiæni;wrong Cro phonemes
 božiènih;Božiænih;wrong Cro phonemes
 božièno;Božiæno;wrong Cro phonemes
+božiènog;božiænog;wrong Cro phonemes
 božiènoj;Božiænoj;wrong Cro phonemes
 božiènu;Božiænu;wrong Cro phonemes
 božiènjak;Božiænjak;wrong Cro phonemes
@@ -2405,6 +2417,7 @@ cajniku;èajniku;missing Cro phonemes
 cajnu;èajnu;missing Cro phonemes
 cajom;èajem;missing Cro phonemes
 caju;èaju;missing Cro phonemes
+cakana;slatka;
 caknut;æaknut;missing Cro phonemes
 caknuta;æaknuta;missing Cro phonemes
 cale;stari;missing Cro phonemes
@@ -2992,6 +3005,7 @@ creva;crijeva;
 crevima;crijevima;
 crevne;crijevne;
 crevo;crijevo;
+crevom;crijevom;
 crevu;crijevu;
 cristina;Christina;Case sensitive
 crkvenjekova;crkvenjakova;Typo
@@ -3308,6 +3322,7 @@ cvršca;èvršæa;missing Cro phonemes
 èestitike;èestitke;Typo
 èeš;æeš;wrong Cro phonemes
 èešce;èešæe;missing Cro phonemes
+èeškoslovaèka;èehoslovaèka;
 èešljajuèi;èešljajuæi;wrong Cro phonemes
 èetir;èetiri;Typo
 èetredesete;èetrdesete;Typo
@@ -3347,6 +3362,7 @@ cvršca;èvršæa;missing Cro phonemes
 èianinu;Chianinu;Case sensitive
 èianom;Chianom;Case sensitive
 èianu;Chianu;Case sensitive
+èiao;ciao;Foreign words
 èihuahua;Chihuahua;Case sensitive
 èijana;Chiana;Case sensitive
 èijanom;Chianom;Case sensitive
@@ -3511,6 +3527,7 @@ cvršca;èvršæa;missing Cro phonemes
 æastio;èastio;wrong Cro phonemes
 æaše;èaše;wrong Cro phonemes
 æašu;èašu;wrong Cro phonemes
+æebad;deke;
 æebeta;deke;
 æebetom;pokrivaèem;
 æebetu;deki;
@@ -3616,6 +3633,7 @@ cvršca;èvršæa;missing Cro phonemes
 æokolade;èokolade;wrong Cro phonemes
 æokoladice;èokoladice;wrong Cro phonemes
 æopi;èopi;wrong Cro phonemes
+æoše;kut;
 æoškovima;kutovima;
 æoveèe;èovjeèe;wrong Cro phonemes
 æoveæe;èovjeèe;wrong Cro phonemes
@@ -3658,6 +3676,7 @@ cvršca;èvršæa;missing Cro phonemes
 æurana;purana;
 æurane;purane;
 æureæeg;pureæeg;
+æuretina;puretina;
 æuretino;puretino;Wrong Form
 æuretinu;puretinu;
 æurka;purica;
@@ -5305,6 +5324,7 @@ dozvoliæe;dopustit æe;1->2
 dozvoliæemo;dopustit æemo;1->2
 dozvoliæeš;dopustit æeš;1->2
 dozvoliæete;dopustit æete;1->2
+dozvoliæte;dopustit æete;1->2
 dozvoliæu;dopustit æu;1->2
 dozvolih;dopustih;
 dozvolila;dopustila;
@@ -5387,6 +5407,7 @@ dragocijenim;dragocjenim;ije->je
 dragocijeno;dragocjeno;ije->je
 dragocijenog;dragocjenog;ije->je
 dragocijenosti;dragocjenosti;ije->je
+dragocijenostima;dragocjenostima;ije->je
 dragocijenu;dragocjenu;ije->je
 dragstor;ljekarna;
 dragstoru;ljekarni;
@@ -6020,7 +6041,9 @@ ekscenrièan;ekscentrièan;Typo
 ekscentrican;ekscentrièan;missing Cro phonemes
 ekscentricni;ekscentrièni;missing Cro phonemes
 ekscentricnosti;ekscentriènosti;missing Cro phonemes
+ekselencije;ekscelencije;
 ekselencijo;ekscelencijo;
+ekselenciju;ekscelenciju;
 ekser;èavao;
 eksere;èavle;
 ekserima;èavlima;
@@ -6319,6 +6342,7 @@ explozije;eksplozije;Typo
 exploziju;eksploziju;Typo
 expresu;expressu;
 extra;ekstra;
+extravagantnim;ekstravagantnim;
 extravagantno;ekstravagantno;
 extremno;ekstremno;
 exzocismom;egzorcizmom;
@@ -6401,6 +6425,7 @@ farskejpa;Farscapea;Case sensitive
 farskejpe;Farscape;Case sensitive
 farskejpu;Farscapeu;Case sensitive
 fascinatno;fascinantno;Typo
+fascinirajuæim;zanosnim;
 fasera;fazora;Foreign words
 faseri;fazori;Foreign words
 faserom;fazorom;Foreign words
@@ -6409,6 +6434,7 @@ fasizam;fašizam;missing Cro phonemes
 fasizma;fašizma;missing Cro phonemes
 favorizovao;favorizirao;
 favorizuju;favoriziraju;
+faxom;faksom;
 fazer;fazor;Foreign words
 fazere;fazore;Foreign words
 fazeri;fazori;Foreign words
@@ -6458,6 +6484,7 @@ ferbanksu;Fairbanksu;Case sensitive
 ferèajld;Fairchild;Case sensitive
 feremone;feromone;
 fiaska;fijaska;
+fibi;Phoebe;Case sensitive
 fidži;Fiji;Case sensitive
 fidžija;Fiji-ja;Case sensitive
 fiiip;Filip;OCR errors
@@ -6471,6 +6498,7 @@ filadelfija;Philadelphia;Case sensitive
 filadelfije;Philadelphie;Case sensitive
 filadelfiji;Philadelphiji;Case sensitive
 filadelfiju;Philadelphiju;Case sensitive
+filantropista;filantropa;
 filds;fields;Foreign words
 filedelfija;Philadelphia;Case sensitive
 fileova;datoteka;Foreign words
@@ -6587,7 +6615,9 @@ fline;Flynne;Case sensitive
 flinn;Flynn;Case sensitive
 flinovih;Flynnovih;Case sensitive
 fllntstone;flintstone;OCR errors
+flojd;Floyd;Case sensitive
 flojda;Floyda;Case sensitive
+flojde;Floyd;Case sensitive
 floks;Phlox;Case sensitive
 floksa;Phloxa;Case sensitive
 florens;Florence;Case sensitive
@@ -6963,6 +6993,7 @@ glumiæu;glumit æu;1->2
 glupaca;glupaèa;missing Cro phonemes
 glupije;gluplje;Typo
 glupl;glupi;OCR errors
+glupošèu;glupošæu;wrong Cro phonemes
 glusis;glušiš;missing Cro phonemes
 gluv;gluh;
 gluva;gluha;
@@ -7000,6 +7031,7 @@ gnjezdis;gnijezdiš;je->ije
 gnjezdiš;gnijezdiš;je->ije
 gnjezdo;gnijezdo;je->ije
 gnjojivom;gnojivom;
+gnjuraèku;ronilaèku;
 goapodar;gospodar;Typo
 godfri;Godfrey;Case sensitive
 godimama;godinama;Typo
@@ -7014,6 +7046,7 @@ godisnjica;godišnjica;missing Cro phonemes
 godisnjice;godišnjice;missing Cro phonemes
 godisnjicu;godišnjicu;missing Cro phonemes
 godlna;godina;OCR errors
+godne;godine;Typo
 godpod;Gospod;Case sensitive
 godpodine;gospodine;Typo
 godpoðe;gospoðe;Typo
@@ -7041,6 +7074,7 @@ goreæem;goruæem;
 goreæes;gorjet æeš;1->2
 goreæeš;gorjet æeš;1->2
 gorela;gorjela;
+goreli;gorjeli;
 gorelo;gorjelo;
 goreo;gorio;
 goreti;gorjeti;
@@ -7084,6 +7118,7 @@ gostoljubivosæu;gostoljubivošæu;missing Cro phonemes
 gostoljubivošcu;gostoljubivošæu;missing Cro phonemes
 gostoljubljivost;gostoljubivost;
 gostoljubljivošæu;gostoljubivošæu;
+gostoprinstvu;gostoprimstvu;Typo
 gostujuci;gostujuæi;missing Cro phonemes
 gostujucom;gostujuæom;missing Cro phonemes
 gotiviti;štovati;
@@ -7304,6 +7339,7 @@ gurnio;gurnuo;
 gurnucu;gurnut æu;1->2
 gurnuæu;gurnut æu;1->2
 guscju;gušèju;missing Cro phonemes
+gusèjim;gušèjim;missing Cro phonemes
 gusenica;gusjenica;
 gusenice;gusjenice;
 gusenicu;gusjenicu;
@@ -7334,6 +7370,7 @@ gvadalkanal;Guadalcanal;Case sensitive
 gvadalkanala;Guadalcanala;Case sensitive
 gvatemalanko;Gvatemalko;Case sensitive
 gvendolin;Gwendolyn;Case sensitive
+gverner;guverner;Typo
 gvido;Guido;Case sensitive
 gvinevira;Guinevere;Case sensitive
 gvinija;gvineja;Typo
@@ -7441,6 +7478,7 @@ hartije;papira;
 harvi;Harvey;Case sensitive
 haski;husky;Foreign words
 haskiji;huskyji;Foreign words
+hauard;Howard;Case sensitive
 hauarda;Howarda;Case sensitive
 hauarde;Howarde;Case sensitive
 hauardom;Howardom;Case sensitive
@@ -7741,6 +7779,8 @@ holestereorol;kolesterol;Typo
 holesterol;kolesterol;
 holesterola;kolesterola;
 holidej;Holiday;Foreign words
+holis;Hollis;Case sensitive
+holise;Hollis;Case sensitive
 holivud;Hollywood;Case sensitive
 holivuda;Hollywooda;Case sensitive
 holivudu;Hollywoodu;Case sensitive
@@ -7846,6 +7886,8 @@ hrišæanstvo;kršæanstvo;
 hrišæanstvom;kršæanstvom;
 hrišæanstvu;kršæanstvu;
 hrizanteme;krizanteme;
+hroinom;heroinom;Typo
+hromira;kromira;
 hromirano;kromirano;
 hromosoma;kromosoma;
 hromozom;kromosom;
@@ -7892,6 +7934,7 @@ huda;Hooda;Case sensitive
 hudini;Houdini;Case sensitive
 hujavice;hunjavice;
 humaini;humani;Typo
+hummus;humus;
 humoristican;humoristièan;missing Cro phonemes
 huver;Hoover;Case sensitive
 hvaia;hvala;OCR errors
@@ -7974,6 +8017,7 @@ iducu;iduæu;missing Cro phonemes
 iduèa;iduæa;wrong Cro phonemes
 iduèe;iduæe;wrong Cro phonemes
 iduèeg;iduæeg;wrong Cro phonemes
+iduèem;iduæem;wrong Cro phonemes
 iduèi;iduæi;wrong Cro phonemes
 iduèih;iduæih;wrong Cro phonemes
 iduèu;iduæu;wrong Cro phonemes
@@ -8058,6 +8102,7 @@ ijubavna;ljubavna;OCR errors
 ijubavno;ljubavno;OCR errors
 ijubazan;ljubazan;OCR errors
 ijubazni;ljubazni;OCR errors
+ijubazno;prijazno;
 ijubi;ljubi;OCR errors
 ijubièasti;ljubièasti;OCR errors
 ijubimaca;ljubimaca;OCR errors
@@ -8170,12 +8215,14 @@ inaca;inèa;Typo
 inace;inaèe;missing Cro phonemes
 inaæe;inaèe;wrong Cro phonemes
 inaæi;i naæi;Typo
+inaguraciju;inauguraciju;Typo
 inaugurisan;inauguriran;
 inca;inèa;missing Cro phonemes
 incha;inèa;missing Cro phonemes
 inchni;inèni;missing Cro phonemes
 incindent;incident;
 incni;inèni;missing Cro phonemes
+indentièan;identièan;
 indentificiraj;identificiraj;
 indentificiran;identificiran;Typo
 indentifikacija;identifikacija;
@@ -8560,6 +8607,7 @@ isèekivanje;išèekivanje;missing Cro phonemes
 isèekujem;išèekujem;missing Cro phonemes
 isèezli;išèezli;missing Cro phonemes
 isèezne;išèezne;missing Cro phonemes
+isèisti;išèisti;missing Cro phonemes
 isèupa;išèupa;missing Cro phonemes
 isèupaj;išèupaj;missing Cro phonemes
 isèupala;išèupala;missing Cro phonemes
@@ -8622,9 +8670,11 @@ isjecemo;isijeèemo;je->ije
 isjecite;isijecite;je->ije
 isjeèemo;isijeèemo;je->ije
 isjeèi;isjeæi;wrong Cro phonemes
+iskaj;išæi;
 iskamcenih;iskamèenih;missing Cro phonemes
 iskamci;iskamèi;missing Cro phonemes
 iskamcili;iskamèili;missing Cro phonemes
+iskasapiæe;iskasapit æe;1->2
 iskenjaæu;iskenjat æu;1->2
 iskidaæe;iskidat æe;1->2
 iskinuo;istrgnuo;
@@ -8672,6 +8722,7 @@ iskoæiti;iskoèiti;wrong Cro phonemes
 iskombinovanog;iskombiniranog;
 iskomplikovali;iskomplicirali;
 iskomplikovao;iskomplicirao;
+iskomplikovati;iskomplicirati;
 iskomplikuje;iskomplicira;
 iskomponnovala;iskomponirala;Typo
 iskonstruisala;iskonstruirala;
@@ -9309,6 +9360,7 @@ izbošæemo;izbost æemo;1->2
 izbrisacu;izbrisat æu;1->2
 izbrisaæu;izbrisat æu;1->2
 izbrisete;izbrišete;missing Cro phonemes
+izbristi;izbrisati;Typo
 izbrojte;izbrojite;
 izbruseno;izbrušeno;missing Cro phonemes
 izcedjen;iscijeðen;missing Cro phonemes
@@ -9389,6 +9441,7 @@ izgladnjeo;izgladnio;
 izglaedao;izgledao;Typo
 izglancamo;uglancamo;
 izglancao;uglancao;
+izglasaæe;izglasat æe;1->2
 izglèeda;izgleda;Typo
 izglea;izgleda;Typo
 izgledace;izgledat æe;1->2
@@ -9624,6 +9677,7 @@ izmene;izmjene;
 izmeni;izmjeni;
 izmenice;izmijenit æe;1->2
 izmeniæe;izmijenit æe;1->2
+izmeniæu;izmijenit æu;1->2
 izmenila;izmijenila;
 izmenile;izmijenile;
 izmenili;izmijenili;
@@ -9677,6 +9731,7 @@ izmišijena;izmišljena;OCR errors
 izmišijene;izmišljene;OCR errors
 izmišijeno;izmišljeno;OCR errors
 izmišijotine;izmišljotine;OCR errors
+izmjenile;izmijenile;je->ije
 izmjenili;izmijenili;je->ije
 izmjenilo;izmijenilo;je->ije
 izmjenimo;izmijenimo;je->ije
@@ -9872,6 +9927,7 @@ izvanzemaljaca;vanzemaljaca;
 izvanzemaljca;vanzemaljca;
 izvanzemaljce;vanzemaljce;
 izvanzemaljcem;vanzemaljcem;
+izvanzemaljci;vanzemaljci;
 izvanzemaljcima;vanzemaljcima;
 izvanzemaljka;vanzemaljka;
 izvaredna;izvanredna;Typo
@@ -9957,6 +10013,7 @@ izvidjaca;izviðaèa;missing Cro phonemes
 izvidjaci;izviðaèi;missing Cro phonemes
 izvidjacima;izviðaèima;missing Cro phonemes
 izvidjacki;izviðaèki;missing Cro phonemes
+izvidjaèima;izviðaèima;missing Cro phonemes
 izvidjaèki;izviðaèki;missing Cro phonemes
 izvidjanje;izviðanje;missing Cro phonemes
 izvidjanju;izviðanju;missing Cro phonemes
@@ -10252,6 +10309,10 @@ jenkije;Yankeeje;Foreign words
 jenkijem;Yankeejem;Case sensitive
 jenkiji;Yankeeji;Foreign words
 jenostavno;jednostavno;Typo
+jensi;Yancy;Case sensitive
+jensija;Yancyja;Case sensitive
+jensijem;Yancyjem;Case sensitive
+jensijevi;Yancyjevi;Case sensitive
 jerbo;jer;
 jeres;herez;
 jeresa;hereza;
@@ -10329,6 +10390,7 @@ jimi;Jimmy;Case sensitive
 jimija;Jimmyja;Case sensitive
 jimmija;Jimmyja;Case sensitive
 jimmya;Jimmyja;Case sensitive
+jimmyu;Jimmyju;Case sensitive
 jives;Jeeves;Case sensitive
 jkezgra;jezgra;Typo
 jlubavnica;ljubavnica;Typo
@@ -10376,6 +10438,7 @@ juæer;juèer;wrong Cro phonemes
 jugoistocnoj;jugoistoènoj;missing Cro phonemes
 jugoistoænoj;jugoistoènoj;wrong Cro phonemes
 jugosjaviji;Jugoslaviji;Typo
+juicea;džusa;
 jul;srpanj;
 juli;srpanj;
 junace;junaèe;missing Cro phonemes
@@ -10417,6 +10480,7 @@ južnoafikanac;južnoafrikanac;Typo
 južnjacke;južnjaèke;missing Cro phonemes
 jvite;javite;Typo
 kabal;kabel;
+kacelariji;uredu;Typo
 kacis;kaèiš;missing Cro phonemes
 kacketu;kaèketu;missing Cro phonemes
 kaèao;kvaèio;
@@ -10584,8 +10648,9 @@ kapuljacu;kapuljaèu;missing Cro phonemes
 kaputic;kaputiæ;missing Cro phonemes
 karakas;Caracas;Case sensitive
 karakterr;karakter;Typo
+karaljevim;kraljevim;Typo
 karamel;karamela;
-karantin;karantena;
+karantin;karantenu;Wrong Form
 karantina;karantene;
 karantinom;karantenom;
 karantinske;karantenske;
@@ -10926,6 +10991,7 @@ kimnem;klimnem;
 kindapiranje;otimanje;
 kindapirao;oteo;
 kindapirat;otet;
+kindapuješ;otmeš;
 kingonaca;Klingonaca;Case sensitive
 kingonca;Klingonca;Case sensitive
 kingonce;Klingonce;Case sensitive
@@ -11049,6 +11115,7 @@ kloniæemo;klonit æemo;1->2
 kloralnog;klornog;
 klovn;klaun;
 klovna;klauna;
+klovnom;klaunom;
 klovnova;klaunova;
 klovnove;klaunove;
 klovnovi;klaunovi;
@@ -11432,6 +11499,10 @@ komšijama;susjedima;
 komšiji;susjedu;
 komšijin;susjedov;
 komšijo;susjede;
+komšijom;susjedom;
+komšijom;susjedom;
+komšijskoj;susjedskoj;
+komšijskoj;susjedskoj;
 komšiju;susjeda;
 komšiluci;susjedstva;
 komšiluk;susjedstvo;
@@ -11439,6 +11510,7 @@ komšiluka;susjedstva;
 komšiluke;susjedstva;
 komšiluku;susjedstvu;
 komšinica;susjeda;
+komšinice;susjede;Wrong Form
 komšinici;susjedi;
 komšinicom;susjedom;
 komšinicu;susjedu;
@@ -11851,6 +11923,7 @@ koverzacije;konverzacije;Typo
 kovitlc;kovitlac;Typo
 kovoriš;govoriš;Typo
 kovrdžaju;kovrèaju;wrong Cro phonemes
+kovrdžama;kovrèama;
 kovrdžav;kovrèav;wrong Cro phonemes
 kovrdžavi;kovrèavi;wrong Cro phonemes
 kovrdžavu;kovrèavu;wrong Cro phonemes
@@ -12490,6 +12563,7 @@ lazno;lažno;missing Cro phonemes
 laznog;lažnog;missing Cro phonemes
 laznom;lažnom;missing Cro phonemes
 lazov;lažov;missing Cro phonemes
+lažcem;lašcem;
 lažes;lažeš;missing Cro phonemes
 lažijiva;lažljiva;Typo
 lažijivom;lažljivom;OCR errors
@@ -13446,6 +13520,7 @@ maltretiro;maltretirao;
 maljušnog;majušnog;
 managementa;menadžmenta;
 manageru;menadžeru;
+manèestera;Manchestera;Case sensitive
 manèmelou;munchmallow;Foreign words
 mandžete;manžete;
 maneran;namjeran;Typo
@@ -13747,6 +13822,7 @@ medjusobnoj;meðusobnoj;missing Cro phonemes
 medjuspremnik;meðuspremnik;missing Cro phonemes
 medjuspremniku;meðuspremniku;missing Cro phonemes
 medjutim;meðutim;missing Cro phonemes
+medjutiom;meðutim;Typo
 medjuvramanu;meðuvremenu;Typo
 medjuvremenu;meðuvremenu;missing Cro phonemes
 medjuzvjezdani;meðuzvjezdani;missing Cro phonemes
@@ -14122,6 +14198,7 @@ micve;mitzvah;Foreign words
 micvi;mitzvah;Foreign words
 micvu;mitzvah;Foreign words
 mièel;Mitchell;Case sensitive
+mièigan;Michigan;Case sensitive
 mièigenskom;michigenskom;
 miæe;mièe;wrong Cro phonemes
 miæeš;mièeš;wrong Cro phonemes
@@ -14331,6 +14408,7 @@ mišel;Michel;Case sensitive
 mišela;Michela;Case sensitive
 mišicima;mišiæima;missing Cro phonemes
 mišièa;mišiæa;wrong Cro phonemes
+mišièav;mišiæav;wrong Cro phonemes
 mišièi;mišiæi;wrong Cro phonemes
 mišièni;mišiæni;wrong Cro phonemes
 mišièno;mišiæno;wrong Cro phonemes
@@ -14814,6 +14892,7 @@ munchenu;Münchenu;Case sensitive
 munèenjem;muèenjem;Typo
 municije;streljiva;
 municiji;streljivu;
+municja;streljivo;Wrong Form
 mur;Moore;Case sensitive
 murdoka;Murdocka;Case sensitive
 murdokove;Murdockove;Case sensitive
@@ -14882,6 +14961,7 @@ nabavicemo;nabavit æemo;1->2
 nabavicu;nabavit æu;1->2
 nabaviæemo;nabavit æemo;1->2
 nabaviæu;nabavit æu;1->2
+nabavirti;nabaviti;Typo
 nabedio;uvjerio;
 nabiæu;nabit æu;1->2
 nabliži;najbliži;Typo
@@ -15132,6 +15212,7 @@ najbrzi;najbrži;missing Cro phonemes
 najcasnije;najèasnije;missing Cro phonemes
 najcenjenija;najcjenjenija;
 najcenjenijih;najcjenjenijih;
+najcivilizovanija;najciviliziranija;
 najcudesniji;najèudesniji;missing Cro phonemes
 najcudnija;najèudnija;missing Cro phonemes
 najcudnijim;najèudnijim;missing Cro phonemes
@@ -15189,6 +15270,7 @@ najlepšu;najljepšu;
 najliènije;najosobnije;
 najlijepsih;najljepših;ije->je
 najlijepših;najljepših;ije->je
+najlor;Naylor;Case sensitive
 najlosija;najlošija;missing Cro phonemes
 najludje;najluðe;missing Cro phonemes
 najljepsa;najljepša;missing Cro phonemes
@@ -15336,6 +15418,7 @@ najvelicanstveniju;najvelièanstveniju;missing Cro phonemes
 najvernije;najvjernije;
 najverniji;najvjerniji;
 najvernijih;najvjernijih;
+najverojatnije;najvjerojatnije;Typo
 najverovantije;najvjerojatnije;Typo
 najverovatnije;najvjerojatnije;
 najverovatnijej;najvjerojatnije;Typo
@@ -15368,6 +15451,7 @@ najžešèa;najžešæa;wrong Cro phonemes
 nakaèi;zakaèi;
 nakako;nekako;Typo
 nakašijala;nakašljala;OCR errors
+nakjuèe;nakjuèer;
 nakodošesu;Nacogdochesu;Case sensitive
 nakog;nekog;Typo
 nakoji;na koji;Typo
@@ -15718,6 +15802,7 @@ napustiæemo;napustit æemo;1->2
 napustiæete;napustit æete;1->2
 napustiæu;napustit æu;1->2
 napustitio;napustio;Typo
+napustli;napustili;Typo
 napuštimo;napustimo;Typo
 naputovan;proputovan;
 naraèito;naroèito;Typo
@@ -15783,6 +15868,7 @@ narkièem;narkiæem;wrong Cro phonemes
 narkièi;narkiæi;wrong Cro phonemes
 narocito;naroèito;missing Cro phonemes
 naroæito;naroèito;wrong Cro phonemes
+narqavno;naravno;Typo
 narteraj;natjeraj;Typo
 narucena;naruèena;missing Cro phonemes
 naruci;naruèi;missing Cro phonemes
@@ -15932,6 +16018,7 @@ nasmesis;nasmiješiš;missing Cro phonemes
 nasmesite;nasmijte;missing Cro phonemes
 nasmešena;nasmiješena;
 nasmeši;nasmiješi;
+nasmešiæu;nasmiješit æu;1->2
 nasmešila;nasmiješila;
 nasmešim;nasmiješim;
 nasmešiš;nasmiješiš;
@@ -16074,6 +16161,7 @@ naucit;nauèit;missing Cro phonemes
 naucite;nauèite;missing Cro phonemes
 nauciti;nauèiti;missing Cro phonemes
 nauèale;naoèale;Typo
+nauèièe;nauèit æe;1->2
 nauèiæe;nauèit æe;1->2
 nauèiæemo;nauèit æemo;1->2
 nauèiæeš;nauèit æeš;1->2
@@ -16124,6 +16212,7 @@ navjerovatnije;najvjerojatnije;
 navježbao;izvježbao;
 navodjavamo;navodnjavamo;Typo
 navodjenja;navoðenja;missing Cro phonemes
+navodjenje;navoðenje;missing Cro phonemes
 navodjenjem;navoðenjem;missing Cro phonemes
 navodnoje;navodno je;Typo
 navraticu;navratit æu;1->2
@@ -16417,6 +16506,8 @@ nejbolja;najbolja;Typo
 nejdem;ne idem;Negation
 nejdemo;ne idemo;Negation
 nejdeš;ne ideš;Negation
+nejlor;Naylor;Case sensitive
+nejlore;Naylor;Case sensitive
 nejt;Nate;Case sensitive
 nejtan;Nathan;Case sensitive
 nejtanvila;Nathanvillea;Case sensitive
@@ -16447,6 +16538,7 @@ nekontrolisem;ne kontroliram;Negation
 nekontrolišem;ne kontroliram;Negation
 nekonvecionalne;nekonvencionalne;
 nekonvencijalne;nekonvencionalne;
+nekorišæene;nekorištene;
 nekrivi;ne krivi;Typo
 nekrivim;ne krivim;Typo
 nekrscansku;nekršæansku;missing Cro phonemes
@@ -16608,6 +16700,7 @@ neopredeljena;neopredijeljena;
 neopredjeljen;neopredijeljen;je->ije
 neorganizovana;neorganizirana;
 neorganizovane;neorganizirane;
+neorganizovano;neorganizirano;
 neoseæajnosti;neosjeæajnosti;
 neosetljiv;neosjetljiv;
 neosetljiva;neosjetljiva;
@@ -16664,6 +16757,7 @@ neovlašæeno;neovlašteno;
 neovlašæenog;neovlaštenog;
 neovlašæenom;neovlaštenom;
 neovlašæenu;neovlaštenu;
+neozledjene;neozlijeðene;missing Cro phonemes
 neozleðeni;neozlijeðeni;
 neozljeðen;neozlijeðen;je->ije
 neozljeðeni;neozlijeðeni;je->ije
@@ -16814,6 +16908,7 @@ neprocijenjivom;neprocjenjivom;ije->je
 neprodate;ne prodane;Negation
 neprodiru;ne prodiru;Negation
 nepromenljiv;nepromjenljiv;
+nepromenljivo;nepromjenjivo;
 nepromenjena;nepromijenjena;
 nepromenjeno;nepromijenjeno;
 nepromenjiv;nepromjenjiv;
@@ -16827,6 +16922,7 @@ neprosvecenim;neprosvijeæenim;missing Cro phonemes
 neprosveæenim;neprosvijeæenim;
 nepucaj;ne pucaj;Negation
 nepuštajte;ne puštajte;Negation
+neraèišæenih;nerašèišæenih;Typo
 neradiš;ne radiš;Negation
 nerafinisan;nerafiniran;
 neravnomerno;neravnomjerno;
@@ -17033,6 +17129,7 @@ nesviðaš;ne sviðaš;Negation
 nesvjest;nesvijest;je->ije
 nesvjesti;nesvijesti;je->ije
 nešta;nešto;
+netabilan;nestabilan;Typo
 netacan;netoèan;missing Cro phonemes
 netacni;netoèni;missing Cro phonemes
 netacnim;netoènim;missing Cro phonemes
@@ -17100,6 +17197,7 @@ neuradis;ne uradiš;Negation
 neuradiš;ne uradiš;Negation
 neuradite;ne uradite;Negation
 neurloško;neurološko;Typo
+neurohirurg;neurokirurg;
 neurohirurgije;neurokirurgije;
 neurohirurgiju;neurokirurgiju;
 neurohirurški;neurokirurški;
@@ -17192,6 +17290,7 @@ neverstvo;nevjerstvo;
 neveruje;ne vjeruje;Negation
 neverujem;ne vjerujem;Negation
 nevestin;nevjestin;
+nevestine;nevjestine;
 nevestom;nevjestom;
 nevešt;nevješt;
 nevešta;nevješta;
@@ -17501,6 +17600,7 @@ norvud;Norwood;Case sensitive
 nosac;nosaè;missing Cro phonemes
 nosaci;nosaèi;missing Cro phonemes
 nosaæa;nosaèa;wrong Cro phonemes
+noseèi;noseæi;wrong Cro phonemes
 nosem;nosom;
 nosenju;nošenju;missing Cro phonemes
 noseve;nosove;
@@ -17967,6 +18067,7 @@ obezbeðivati;osiguravati;
 obezbeðnje;osiguranje;Typo
 obezbeðuje;osigurava;
 obezbeðuješ;osiguravaš;
+obezbeðuju;osiguravaju;
 obezbijedite;osigurate;
 obezbjedila;osigurala;
 obezbjedim;osiguram;
@@ -18151,6 +18252,7 @@ obraèate;obraæate;wrong Cro phonemes
 obraèati;obraæati;wrong Cro phonemes
 obraèen;obraæen;wrong Cro phonemes
 obraèunaæu;obraèunat æu;1->2
+obraæaæeš;obraæat æeš;1->2
 obraæeajt;obraæajte;Typo
 obraæunati;obraèunati;wrong Cro phonemes
 obradjeno;obraðeno;missing Cro phonemes
@@ -18302,6 +18404,7 @@ ocijukas;oèijukaš;missing Cro phonemes
 ocikledno;oèigledno;Typo
 ocima;oèima;missing Cro phonemes
 ocinkarila;cinkala;
+ocinkariš;cinkaš;
 ocinkariti;cinkati;
 ocinkat;cinkat;
 ocinski;oèinski;missing Cro phonemes
@@ -18488,6 +18591,7 @@ odeljci;odjeljci;
 odeljenjeu;odjeljenju;Typo
 odeljka;odjeljka;
 odeljku;odjeljku;
+odemtnuo;odmetnuo;Typo
 odeno;odnio;Typo
 odenuta;odjenuta;
 odenuti;odjenuti;
@@ -18526,8 +18630,10 @@ odgovarajucu;odgovarajuæu;missing Cro phonemes
 odgovarajuèe;odgovarajuæe;wrong Cro phonemes
 odgovarajuèi;odgovarajuæi;wrong Cro phonemes
 odgovarajuæ;odgovarajuæi;
+odgovonost;odgovornost;Typo
 odgovoraj;odgovaraj;Typo
 odgovoraš;odgovaraš;Typo
+odgovorate;odgovarate;Typo
 odgovorice;odgovorit æe;1->2
 odgovoricemo;odgovorit æemo;1->2
 odgovoriceš;odgovorit æeš;1->2
@@ -18914,6 +19020,7 @@ odsekla;odsjekla;
 odsekle;odsjekle;
 odsekli;odsjekli;
 odsekom;odsjekom;
+odsela;odsjela;
 odselicu;odselit æu;1->2
 odseliæu;odselit æu;1->2
 odseo;odsjeo;
@@ -19018,6 +19125,7 @@ oduvek;oduvijek;
 oduvjek;oduvijek;je->ije
 oduzecemo;oduzet æemo;1->2
 oduzeæemo;oduzet æemo;1->2
+oduzeæete;oduzet æete;1->2
 oduzezi;oduzeti;Typo
 oduzi;oduži;missing Cro phonemes
 oduzicu;odužit æu;1->2
@@ -19167,10 +19275,12 @@ ograniæio;ogranièio;wrong Cro phonemes
 ogranizacija;organizacija;Typo
 ogreban;ogreben;
 ogrebati;ogrepsti;
+ogrejali;ogrijali;
 ogrejete;ogrijete;
 ogrešila;ogriješila;
 ogrešili;ogriješili;
 ogrešio;ogriješio;
+ogrev;ogrjev;
 ogrtac;ogrtaè;missing Cro phonemes
 ogrtaca;ogrtaèa;missing Cro phonemes
 ogrtacu;ogrtaèu;missing Cro phonemes
@@ -19359,6 +19469,7 @@ omanula;podbacila;
 omanuli;podbacili;
 omanuo;podbacio;
 omanuti;podbaciti;
+omašim;promašim;
 omatorila;ostarjela;
 omatorim;ostarim;
 omca;omèa;missing Cro phonemes
@@ -19641,6 +19752,7 @@ opštu;opæu;
 opterecuj;optereæuj;missing Cro phonemes
 opticki;optièki;missing Cro phonemes
 optjicaja;optjecaja;Typo
+optružena;optužena;Typo
 optuzba;optužba;missing Cro phonemes
 optuzbi;optužbi;missing Cro phonemes
 optuze;optuže;missing Cro phonemes
@@ -20039,6 +20151,7 @@ oslobodiæe;oslobodit æe;1->2
 oslobodiæemo;oslobodit æemo;1->2
 oslobodiæete;oslobodit æete;1->2
 oslobodiæu;oslobodit æu;1->2
+oslobodiocem;osloboditeljem;
 oslobodjen;osloboðen;missing Cro phonemes
 oslobodjeni;osloboðeni;missing Cro phonemes
 oslobodti;osloboditi;Typo
@@ -20048,6 +20161,7 @@ oslušneš;osluhneš;
 osljepila;oslijepila;je->ije
 osmatra;motri;
 osmatracemo;motrit æemo;1->2
+osmatraèe;promatraèe;
 osmatraèka;motriteljska;
 osmatraèke;motriteljske;
 osmatraèkim;motriteljskim;
@@ -20125,6 +20239,7 @@ ostaniti;ostanite;Typo
 ostarela;ostarjela;
 ostarelih;ostarjelih;
 ostarelo;ostarjelo;
+ostarelog;ostarjelog;
 ostariæeš;ostarit æeš;1->2
 ostariæu;ostarjet æu;1->2
 ostarila;ostarjela;
@@ -20196,6 +20311,7 @@ osudenicima;osuðenicima;missing Cro phonemes
 osudiæete;osudit æete;1->2
 osudis;osudiš;missing Cro phonemes
 osudjen;osuðen;missing Cro phonemes
+osudjena;osuðena;missing Cro phonemes
 osudjeni;osuðeni;missing Cro phonemes
 osudjenicima;osuðenicima;missing Cro phonemes
 osudjenik;osuðenik;missing Cro phonemes
@@ -20303,6 +20419,7 @@ osvežavajuæoj;osvježavajuæoj;
 osvežavanje;osvježavanje;
 osveže;osvježe;
 osvežen;osvježen;
+osveženi;osvježeni;
 osveženja;osvježenja;
 osveženje;osvježenje;
 osveži;osvježi;
@@ -20425,6 +20542,7 @@ oteram;otjeram;
 oteramo;otjeramo;
 oterana;otjerana;
 oterane;otjerane;
+oterani;otjerani;
 oterao;otjerao;
 oterasite;otarasite;
 oteraš;otjeraš;
@@ -20864,6 +20982,7 @@ padaæe;padat æe;1->2
 padajuèi;padajuæi;wrong Cro phonemes
 padas;padaš;missing Cro phonemes
 padavicarke;padavièarke;missing Cro phonemes
+padijatra;pedijatra;Typo
 padose;padoše;missing Cro phonemes
 pagan;pogan;
 pagana;pogana;
@@ -20947,6 +21066,7 @@ pametnjakovièu;pametnjakoviæu;wrong Cro phonemes
 pampur;èep;
 pamtice;pamtit æe;1->2
 pamtiæe;pamtit æe;1->2
+pamtiveka;pamtivijeka;
 pamtivjeka;pamtivijeka;je->ije
 pamtnih;pametnih;Typo
 pamuænim;pamuènim;wrong Cro phonemes
@@ -21042,10 +21162,12 @@ pariskom;pariškom;missing Cro phonemes
 parkiraliste;parkiralište;missing Cro phonemes
 parnerstvo;partnerstvo;
 parohijanima;župljanima;
+partihla;partikla;
 partnerka;partnerica;
 partnerko;partnerice;
 partnerkom;partnericom;
 partnerku;partnericu;
+party;parti;
 pascemo;past æemo;1->2
 pasces;past æeš;1->2
 pasifikacija;pacifikacija;
@@ -21141,6 +21263,7 @@ peèine;peæine;wrong Cro phonemes
 peèini;peæini;wrong Cro phonemes
 peèinu;peæinu;wrong Cro phonemes
 peènica;peænica;wrong Cro phonemes
+peènice;peænice;wrong Cro phonemes
 peènici;peænici;wrong Cro phonemes
 peènicu;peænicu;wrong Cro phonemes
 peèuraka;gljiva;
@@ -21379,6 +21502,7 @@ pešadija;pješadija;
 pešadije;pješadije;
 pešadiji;pješadiji;
 pešadijom;pješadijom;
+pešadijska;pješadijska;
 pešadijski;pješadijski;
 pešadijskih;pješadijskih;
 pešadijsko;pješadijsko;
@@ -21408,9 +21532,11 @@ peškirom;ruènikom;
 petao;pijetao;
 pethodnik;prethodnik;Typo
 petlom;pijetlom;
+petlove;pijetlove;
 petodelnih;petodijelnih;
 petospratne;peterokatne;
 petostruki;peterostruki;
+petpostavljam;pretpostavljam;Typo
 petrohemijskoj;petrokemijskoj;
 petrolejom;petrolejem;
 petrživanje;pretraživanje;Typo
@@ -21593,6 +21719,7 @@ pitbula;pitbulla;
 pitenje;pitanje;Typo
 piter;Peter;Case sensitive
 pitijas;Pythias;Case sensitive
+pitimaca;pitomaca;Typo
 pitnje;pitanje;Typo
 pitsburg;Pittsburgh;Case sensitive
 pitsburga;Pittsburgha;Case sensitive
@@ -21983,6 +22110,8 @@ pobegnite;pobjegnite;
 pobegnu;pobjegnu;
 pobego;pobjegao;
 pobegoše;pobjegoše;
+pobegulja;pobjegulja;
+pobegulju;pobjegulju;
 pobelela;pobijelila;
 pobeli;pobijeli;
 pobesneæeš;pobjesnjet æeš;1->2
@@ -22436,6 +22565,7 @@ podmladiti;pomladiti;
 podmornicaje;podmornica je;Typo
 podmornicarska;podmornièka;missing Cro phonemes
 podmornièarska;podmornièka;
+podmorniènkog;podmornièkog;Typo
 podnecemo;podnijet æemo;1->2
 podnecu;podnijet æu;1->2
 podneæemo;podnijet æemo;1->2
@@ -22651,11 +22781,13 @@ poduèavaæeš;poduèavat æeš;1->2
 poduèavateljica;pouèavateljica;
 poduèavateljice;pouèavateljice;
 poduèavla;poduèavala;Typo
+poduèuvaš;pouèuvaš;
 podupore;potpornje;Wrong Form
 podupori;potpornji;
 podupreti;poduprijeti;
 podurara;podudara;Typo
 poduuèavati;poduèavati;Typo
+poduzeèe;poduzeæe;wrong Cro phonemes
 poduzeèu;poduzeæu;wrong Cro phonemes
 podvezacu;podvezat æu;1->2
 podvezaæu;podvezat æu;1->2
@@ -22827,6 +22959,7 @@ pohovanog;pohanog;
 pohovanu;pohanu;
 pohranilji;pohranili;
 pohrðat;zahrðat;
+pohvataæemo;pohvatat æemo;1->2
 poigraæeš;poigrat æeš;1->2
 poigravaæe;poigravat æe;1->2
 poimenice;poimence;
@@ -22933,6 +23066,7 @@ pokrecite;pokreæite;missing Cro phonemes
 pokrecu;pokreæu;missing Cro phonemes
 pokreèem;pokreæem;wrong Cro phonemes
 pokreniga;pokreni ga;Typo
+pokrenuæemo;pokrenut æemo;1->2
 pokrenuæu;pokrenut æu;1->2
 pokretac;pokretaè;missing Cro phonemes
 pokretajuæi;pokreæuæi;
@@ -22949,6 +23083,7 @@ pokrivaæemo;pokrivat æemo;1->2
 pokrivaæu;pokrivat æu;1->2
 pokrivas;pokrivaš;missing Cro phonemes
 pokucarac;pokuæarac;missing Cro phonemes
+pokulja;prokulja;
 pokupice;pokupit æe;1->2
 pokupicemo;pokupit æemo;1->2
 pokupicete;pokupit æete;1->2
@@ -23091,6 +23226,7 @@ položis;položiš;missing Cro phonemes
 polsovoðe;poslovoðe;Typo
 poludecu;poludjet æu;1->2
 poludeæe;poludjet æe;1->2
+poludeæeš;poludjet æeš;1->2
 poludeæu;poludjet æu;1->2
 poludel;poludio;
 poludela;poludjela;
@@ -23174,6 +23310,7 @@ pomenuste;spomenuste;
 pomenute;spomenute;
 pomenuti;spomenuti;
 pomenutih;spomenutih;
+pomenuto;spomenuto;
 pomenutog;spomenutog;
 pomera;pomièe;
 pomeraæeš;pomicat æeš;1->2
@@ -23216,6 +23353,7 @@ pomeris;pomakneš;missing Cro phonemes
 pomeriš;pomakneš;
 pomerite;pomaknite;
 pomeriti;pomaknuti;
+pomerivši;pomaknuvši;
 pomesa;pomiješa;missing Cro phonemes
 pomesaj;pomiješaj;missing Cro phonemes
 pomesajte;pomiješajte;missing Cro phonemes
@@ -23770,6 +23908,8 @@ poseduješ;posjeduješ;
 posedujete;posjedujete;
 poseduju;posjeduju;
 posejaæu;posijat æu;1->2
+posejali;posijali;
+posejano;posijano;
 posejao;posijao;
 posejati;posijati;
 poseje;posije;
@@ -24291,6 +24431,7 @@ potrbno;potrebno;Typo
 potrbnoj;potrebnoj;Typo
 potrcka;potrèka;missing Cro phonemes
 potrèkalo;potrèko;Wrong Form
+potrebana;potrebna;Typo
 potreben;potreban;Typo
 potrebma;potrebama;Typo
 potrebstine;potrepštine;missing Cro phonemes
@@ -24470,6 +24611,7 @@ povešæeš;povest æeš;1->2
 povešæete;povest æete;1->2
 povešæu;povest æu;1->2
 povetarac;povjetarac;
+povetarca;povjetarca;
 povetarcem;povjetarcem;
 povetarcu;povjetarcu;
 povezacemo;povezat æemo;1->2
@@ -24524,6 +24666,7 @@ povraèao;povraæao;wrong Cro phonemes
 povraèat;povraæat;wrong Cro phonemes
 povraèati;povraæati;wrong Cro phonemes
 povraæaæete;povraæat æete;1->2
+povraæaæu;povraæat æu;1->2
 povraæka;izbljuvak;Wrong Form
 povraticemo;povratit æemo;1->2
 povraticu;povratit æu;1->2
@@ -24895,6 +25038,7 @@ prebivacu;prebivat æu;1->2
 prebivaæu;prebivat æu;1->2
 prebledelo;problijedjelo;
 preblema;problema;Typo
+preblizog;bliskog;
 prebojati;prebojiti;
 prebolece;preboljet æe;1->2
 preboleces;preboljet æeš;1->2
@@ -24907,6 +25051,7 @@ preboleo;prebolio;
 preboleti;preboljeti;
 prebolila;preboljela;
 prebolili;preboljeli;
+prebolit;preboljet;
 preboliti;preboljeti;
 preboljece;preboljet æe;1->2
 preboljeæe;preboljet æe;1->2
@@ -24952,6 +25097,7 @@ precutimo;prešutimo;missing Cro phonemes
 precutnog;prešutnog;
 preèasni;veleèasni;
 preèešljajte;proèešljajte;
+preèešljati;proèešljati;
 preènik;promjer;
 preènika;promjera;
 preèniku;promjeru;
@@ -25119,6 +25265,7 @@ predsednikovog;predsjednikovog;
 predsednikovu;predsjednikovu;
 predsedniku;predsjedniku;
 predsendièe;predsjednièe;Typo
+predsenièe;predsjednièe;Typo
 predsjednicke;predsjednièke;missing Cro phonemes
 predsjedniæe;predsjednièe;wrong Cro phonemes
 predsjeniku;predsjedniku;Typo
@@ -25167,6 +25314,7 @@ preduzimaè;poduzimaè;
 preduzimaj;poduzimaj;
 preduzimajte;poduzimajte;
 preduzimaju;poduzimaju;
+preduzimam;poduzimam;
 preduzimamo;poduzimamo;
 preduzimanje;poduzimanje;
 preduzimate;poduzimate;
@@ -25263,6 +25411,7 @@ prehladjen;prehlaðen;missing Cro phonemes
 preigru;predigru;Typo
 preimucstvo;prednost;
 preimuæstvo;prednost;
+preipituješ;preispituješ;Typo
 preipremite;pripremite;Typo
 preispitivam;preispitujem;
 preispitivaš;preispituješ;
@@ -25413,6 +25562,7 @@ premijestamo;premještamo;ije->je
 premijesteni;premješteni;ije->je
 premijestiti;premjestiti;ije->je
 premiješta;premješta;ije->je
+premiještaju;premještaju;ije->je
 premiještali;premještali;ije->je
 premiještamo;premještamo;ije->je
 premiješteni;premješteni;ije->je
@@ -25511,6 +25661,7 @@ prepešaèili;propješaèili;
 prepipaš;ispipaš;
 prepis;prijepis;
 prepješaèiti;propješaèiti;
+preplaèuje;preplaæuje;wrong Cro phonemes
 preplasen;preplašen;missing Cro phonemes
 preplasi;preplaši;missing Cro phonemes
 preplasili;preplašili;missing Cro phonemes
@@ -25541,6 +25692,7 @@ preporuæiti;preporuèiti;wrong Cro phonemes
 preporuæljivo;preporuèljivo;wrong Cro phonemes
 prepostavile;pretpostavile;Typo
 prepostavimo;pretpostavimo;Typo
+prepostavio;pretpostavio;
 prepostavka;pretpostavka;Typo
 prepostavku;pretpostavku;Typo
 prepostavljam;pretpostavljam;
@@ -25976,6 +26128,7 @@ prezivjeti;preživjeti;missing Cro phonemes
 prezivljava;preživljava;missing Cro phonemes
 prezivljavanje;preživljavanje;missing Cro phonemes
 prezivljavanju;preživljavanju;missing Cro phonemes
+prezmem;preuzmem;Typo
 prezrijeh;prezrjeh;ije->je
 preživece;preživjet æe;1->2
 preživecemo;preživjet æemo;1->2
@@ -26502,6 +26655,8 @@ pripazicu;pripazit æu;1->2
 pripaziæu;pripazit æu;1->2
 pripemamo;pripremamo;Typo
 pripemit;pripremit;
+pripitomiæemo;pripitomit æemo;1->2
+pripitomljavali;pripitomljivali;
 pripomèi;pripomoæi;Typo
 pripomoc;pripomoæ;missing Cro phonemes
 pripomoèi;pripomoæi;wrong Cro phonemes
@@ -26725,6 +26880,7 @@ problemèic;problemèiæ;missing Cro phonemes
 problemèiè;problemèiæ;wrong Cro phonemes
 problemæiè;problemèiæ;wrong Cro phonemes
 problemæiæ;problemèiæ;wrong Cro phonemes
+problemæiæem;problemèiæem;wrong Cro phonemes
 probližava;približava;Typo
 problrm;problem;Typo
 proboscu;probost æu;1->2
@@ -27387,6 +27543,7 @@ prošecu;prošeæu;missing Cro phonemes
 prošeèemo;prošeæemo;wrong Cro phonemes
 prošeèite;prošeæite;wrong Cro phonemes
 prošetaæemo;prošetat æemo;1->2
+prošetaæu;prošetat æu;1->2
 prošetaj;prošeæi;
 prošetajmo;prošeæimo;
 prošetamo;prošeæemo;
@@ -27396,6 +27553,7 @@ prošiost;prošlost;OCR errors
 proširiæemo;proširit æemo;1->2
 prošlošèu;prošlošæu;wrong Cro phonemes
 prošlji;prošli;
+proštetaæu;proštetat æu;1->2
 prošvercovao;prošvercao;
 prošvercovati;prošvercati;
 prošvercuju;prošvercaju;
@@ -27487,6 +27645,7 @@ prouciš;prouèiš;missing Cro phonemes
 proucit;prouèit;missing Cro phonemes
 prouciti;prouèiti;missing Cro phonemes
 prouèavalac;prouèavatelj;
+prouèuvati;prouèavati;Typo
 prouæis;prouèiš;missing Cro phonemes
 prouæiš;prouèiš;wrong Cro phonemes
 prouæite;prouèite;wrong Cro phonemes
@@ -27728,6 +27887,7 @@ pucaces;pucat æeš;1->2
 pucaæe;pucat æe;1->2
 pucaæemo;pucat æemo;1->2
 pucaæeš;pucat æeš;1->2
+pucaæete;pucat æete;1->2
 pucaæu;pucat æu;1->2
 pucajuci;pucajuæi;missing Cro phonemes
 pucal;pucao;
@@ -27916,6 +28076,7 @@ radnickog;radnièkog;missing Cro phonemes
 radoscu;radošæu;missing Cro phonemes
 radosæu;radošæu;missing Cro phonemes
 radošcu;radošæu;missing Cro phonemes
+radošèu;radošæu;wrong Cro phonemes
 radovacemo;radovat æemo;1->2
 radovacete;radovat æete;1->2
 radovaæemo;radovat æemo;1->2
@@ -28081,6 +28242,7 @@ raspodelite;raspodijeliti;
 raspodelu;raspodjelu;
 raspodeljena;raspodijeljena;
 raspodeljeni;raspodijeljeni;
+raspodjeljeni;raspodijeljeni;je->ije
 raspolaganu;raspolaganju;Typo
 raspolovicu;raspolovit æu;1->2
 raspoloviæu;raspolovit æu;1->2
@@ -28116,6 +28278,7 @@ rastrešeni;rastreseni;
 rastrgli;rastrgali;
 rastrgnuce;rastrgnut æe;1->2
 rastrgnuæe;rastrgnut æe;1->2
+rasturaæu;rasturat æu;1->2
 rasturas;rasturaš;missing Cro phonemes
 rasturiæu;rasturit æu;1->2
 rastvaracem;rastvaraèem;missing Cro phonemes
@@ -28202,6 +28365,7 @@ razdbolja;razdoblja;Typo
 razdele;razdjele;
 razdeli;razdijeli;
 razdeliæu;razdijelit æu;1->2
+razdelili;razdijelili;
 razdelimo;razdijelimo;
 razdeliti;razdijeliti;
 razdelnik;razdjelnik;
@@ -28448,9 +28612,11 @@ razrešenje;razrješenje;
 razrešimo;razriješimo;
 razrešio;razriješio;
 razrijeðivanje;razrjeðivanje;ije->je
+razrijeðujete;razrjeðujete;ije->je
 razrijeðuju;razrjeðuju;ije->je
 razrijesimo;razriješimo;missing Cro phonemes
 razrijesiti;razriješiti;missing Cro phonemes
+razriješenje;razrješenje;ije->je
 razrjesavam;razrješavam;missing Cro phonemes
 razrjesenje;razrješenje;missing Cro phonemes
 razrooki;razroki;
@@ -28511,6 +28677,7 @@ ražalosæeni;ražalošæeni;missing Cro phonemes
 ražani;raženi;
 rdaije;radije;Typo
 rdav;rðav;missing Cro phonemes
+rdeèa;crvena;
 rdja;rða;missing Cro phonemes
 rdjajuæeg;hrðajuæeg;missing Cro phonemes
 rðendan;roðendan;Typo
@@ -28961,6 +29128,7 @@ rezerviši;rezerviraj;
 rezervišite;rezervirajte;
 rezervu;prièuvu;
 rezete;režete;missing Cro phonemes
+rezgovarati;razgovarati;Typo
 rezija;režija;missing Cro phonemes
 reziltat;rezultat;Typo
 rezima;režima;missing Cro phonemes
@@ -29577,6 +29745,7 @@ samopostovanja;samopoštovanja;missing Cro phonemes
 samopuzdanja;samopouzdanja;
 samostrijelski;samostrelski;
 samosvesno;samosvjesno;
+samosvesnost;samosvjesnost;
 samosvjest;samosvijest;je->ije
 samosvjesti;samosvijesti;je->ije
 samoubica;samoubojica;
@@ -29760,6 +29929,7 @@ saradnik;suradnik;
 saradnika;suradnika;
 saradnike;suradnike;
 saradnikom;suradnikom;
+saradništva;suradništva;
 saradnja;suradnja;
 saradnje;suradnje;
 saradnji;suradnji;
@@ -29837,6 +30007,7 @@ satelitiskih;satelitskih;Typo
 satera;stjera;
 sateraæemo;satjerat æemo;1->2
 sateraj;satjeraj;
+sateraju;stjeraju;
 saterala;stjerala;
 saterali;stjerali;
 saterana;satjerana;
@@ -29935,6 +30106,7 @@ savremene;suvremene;
 savremeni;suvremeni;
 savremenije;suvremenije;
 savremeno;suvremeno;
+savremenog;suvremenog;
 savrsen;savršen;missing Cro phonemes
 savrsena;savršena;missing Cro phonemes
 savrsene;savršene;missing Cro phonemes
@@ -30209,6 +30381,7 @@ seizmièna;seizmièka;
 seizmometar;seizmograf;
 seizmometru;seizmografu;
 sejanje;sijanje;
+sejati;sijati;
 sejedan;se jedan;Typo
 sejem;sijem;
 sejk;shake;Foreign words
@@ -30226,6 +30399,7 @@ sekiraj;nerviraj;
 sekirèe;sjekira;Wrong Form
 sekire;sjekire;
 sekiri;sjekiri;
+sekiricom;sjekiricom;
 sekirom;sjekirom;
 sekiru;sjekiru;
 sekla;sjekla;
@@ -30256,10 +30430,8 @@ seljanine;seljaèe;
 seljaninu;seljaku;
 seljastvo;seljaštvo;missing Cro phonemes
 seljoberu;seljaèe;Wrong Form
-sema;shema;
 semama;shemama;
 sematskih;shematskih;
-seme;sjeme;
 semena;sjemena;
 semenkama;sjemenkama;
 semenke;sjemenke;
@@ -30269,7 +30441,6 @@ semenom;sjemenom;
 semjuel;Samuel;Case sensitive
 semjuela;Samuela;Case sensitive
 semjuele;Samuele;Case sensitive
-semu;shemu;
 senatorijum;sanatorij;
 senazcionalnim;senzacionalnim;
 sencenja;sjenèanja;missing Cro phonemes
@@ -30805,6 +30976,7 @@ sjeæas;sjeæaš;missing Cro phonemes
 sjeæe;sjeèe;wrong Cro phonemes
 sjeæm;sjeæam;Typo
 sjeænju;sjeæanju;Typo
+sjedeèi;sjedeæi;wrong Cro phonemes
 sjedicemo;sjedit æemo;1->2
 sjediæemo;sjedit æemo;1->2
 sjedis;sjediš;missing Cro phonemes
@@ -30827,6 +30999,7 @@ sjledeæi;sljedeæi;Typo
 sju;Sue;Case sensitive
 sjurice;sjurit æe;1->2
 sjuriæe;sjurit æe;1->2
+sjutra;sutra;
 skace;skaèe;missing Cro phonemes
 skacem;skaèem;missing Cro phonemes
 skacemo;skaèemo;missing Cro phonemes
@@ -31092,6 +31265,7 @@ skuvao;skuhao;
 skuvas;skuhaš;missing Cro phonemes
 skuvaš;skuhaš;
 skuvati;skuhati;
+skvase;pokvase;
 skver;Square;Case sensitive
 skveru;Squareu;Case sensitive
 skvicao;skvièao;missing Cro phonemes
@@ -31122,6 +31296,7 @@ slatkoreèivošæu;slatkorjeèivošæu;
 slatkorijeciva;slatkorjeèiva;ije->je
 slatkorijeèiv;slatkorjeèiv;ije->je
 slatkorijeèiva;slatkorjeèiva;ije->je
+slatkorijeèivi;slatkorjeèivi;ije->je
 slaveci;slaveæi;missing Cro phonemes
 slavicemo;slavit æemo;1->2
 slaviæemo;slavit æemo;1->2
@@ -31153,6 +31328,7 @@ slediæu;slijedit æu;1->2
 sledovanja;sljedovanja;
 sledovanje;sljedovanje;
 sleduje;slijedi;
+slegnuæe;slegnut æe;1->2
 slejter;Slater;Case sensitive
 slejtera;Slatera;Case sensitive
 slejterom;Slaterom;Case sensitive
@@ -31263,6 +31439,7 @@ slomiæemo;slomit æemo;1->2
 slomiæeš;slomit æeš;1->2
 slomiæu;slomit æu;1->2
 slomij;slomi;
+slomijem;slomim;
 slomis;slomiš;missing Cro phonemes
 slonovace;slonovaèe;missing Cro phonemes
 slonvskih;slonovskih;
@@ -31486,6 +31663,7 @@ smelosti;smjelosti;
 smem;smijem;
 smemo;smijemo;
 smena;smjena;
+smenama;smjenama;
 smene;smjene;
 smeni;smjeni;
 smenila;smijenila;
@@ -31687,6 +31865,7 @@ smokljani;šmokljani;missing Cro phonemes
 smokljanima;šmokljanima;missing Cro phonemes
 smontirali;montirali;
 smoto;smotao;
+smoždiæe;smoždit æe;1->2
 smraci;smraèi;missing Cro phonemes
 smracice;smraèit æe;1->2
 smraèiæe;smraèit æe;1->2
@@ -31747,6 +31926,9 @@ snabdeti;snabdjeti;
 snabdeva;snabdijeva;
 snabdevac;snabdjevaè;missing Cro phonemes
 snabdevaè;snabdjevaè;
+snabdevaèa;dobavljaèa;
+snabdevaèi;dobavljaèi;
+snabdevaèu;dobavljaèu;
 snabdevam;snabdijevam;
 snabdevamo;snabdijevamo;
 snabdevan;snabdijevan;
@@ -32287,6 +32469,7 @@ spustiæemo;spustit æemo;1->2
 spustiæeš;spustit æeš;1->2
 spustiæu;spustit æu;1->2
 spuštiš;spustiš;Typo
+spuštiti;spustiti;Typo
 sputiti;spustiti;Typo
 sraèke;sraæke;wrong Cro phonemes
 sraðujte;suraðujte;Typo
@@ -32465,6 +32648,7 @@ srusit;srušit;missing Cro phonemes
 srusiti;srušiti;missing Cro phonemes
 srušiæe;srušit æe;1->2
 srušiæemo;srušit æemo;1->2
+srušiæeš;srušit æeš;1->2
 srušiæu;srušit æu;1->2
 srvotèina;crvotoèina;Typo
 ssakrili;sakrili;Typo
@@ -32571,6 +32755,7 @@ starešine;starješine;
 starešinu;starješinu;
 starijesine;starješine;ije->je
 stariješine;starješine;ije->je
+starijiem;starijem;Typo
 starila;starjela;
 starile;starjele;
 starnac;stranac;Typo
@@ -32635,6 +32820,7 @@ stenama;stijenama;
 stenara;štenara;missing Cro phonemes
 stenari;štenari;missing Cro phonemes
 stenaru;štenaru;missing Cro phonemes
+stenom;stijenom;
 stenovitoj;stjenovitoj;
 stenovitu;stjenovitu;
 stenu;stijenu;
@@ -32723,6 +32909,7 @@ stisæete;stišæete;missing Cro phonemes
 stisæi;stišæi;missing Cro phonemes
 stisæite;stišæite;missing Cro phonemes
 stiskaj;stišæi;
+stiskajte;stišæite;
 stisnio;stisnuo;
 stisnuce;stisnut æe;1->2
 stisnuæe;stisnut æe;1->2
@@ -32869,9 +33056,11 @@ strelom;strijelom;
 strelu;strijelu;
 streljaæe;strijeljat æe;1->2
 streljaæu;streljat æu;1->2
+streljajte;strijeljajte;
 streljaju;strijeljaju;
 streljam;strijeljam;
 streljan;strijeljan;
+streljao;strijeljao;
 strepeli;strepili;
 streptokokama;streptokokom;Wrong Form
 stresira;uznemiri;
@@ -33046,6 +33235,7 @@ sumlje;sumnje;
 sumljicavi;sumnjièavi;missing Cro phonemes
 sumljièav;sumnjièav;
 sumljièavi;sumnjièavi;
+sumljièavijeg;sumnjièavijeg;
 sumljiv;sumnjiv;
 sumljivac;sumnjivac;
 sumljivca;sumnjivca;
@@ -33283,6 +33473,7 @@ svadja;svaða;missing Cro phonemes
 svadjace;svaðat æe;1->2
 svadjajmo;svaðajmo;missing Cro phonemes
 svadjaju;svaðaju;missing Cro phonemes
+svadjali;svaðali;missing Cro phonemes
 svadjalica;svaðalica;missing Cro phonemes
 svadjamo;svaðamo;missing Cro phonemes
 svadjanje;svaðanje;missing Cro phonemes
@@ -33400,6 +33591,8 @@ svejdno;svejedno;
 sveje;sve je;Typo
 svejedni;svejedno;
 sveke;svake;Typo
+svemirce;vanzemaljce;
+svemirci;vanzemaljci;
 svemircima;vanzemaljcima;
 svemirèe;vanzemaljèe;
 svemocan;svemoæan;missing Cro phonemes
@@ -34673,6 +34866,7 @@ tisucu;tisuæu;missing Cro phonemes
 tisuèa;tisuæa;wrong Cro phonemes
 tisuèama;tisuæama;wrong Cro phonemes
 tisuèe;tisuæe;wrong Cro phonemes
+tisuèicama;tisuæicama;wrong Cro phonemes
 tisuèicu;tisuæicu;wrong Cro phonemes
 tisuèu;tisuæu;wrong Cro phonemes
 titlulom;titulom;
@@ -34937,6 +35131,7 @@ trèaæe;trèat æe;1->2
 trèaæeš;trèat æeš;1->2
 trèaæu;trèat æu;1->2
 trèajuæi;trèeæi;
+trèeèi;trèeæi;wrong Cro phonemes
 trèkajuæi;trèkarajuæi;
 træe;trèe;wrong Cro phonemes
 træeèi;trèeæi;wrong Cro phonemes
@@ -35305,6 +35500,8 @@ ubices;ubit æeš;1->2
 ubiceš;ubit æeš;1->2
 ubicete;ubit æete;1->2
 ubici;ubojici;
+ubicine;ubojièine;
+ubicinom;ubojièinom;
 ubico;ubojico;
 ubicom;ubojicom;
 ubièin;ubojièin;
@@ -35365,6 +35562,7 @@ ubjeðenju;uvjerenju;
 ubjeðivanja;uvjeravanja;
 ubjeðivanje;uvjeravanje;
 ubjeðivao;uvjeravao;
+ubjeðivati;uvjeravati;
 ubjen;ubijen;Typo
 ubjiao;ubijao;Typo
 ublazava;ublažava;missing Cro phonemes
@@ -35537,6 +35735,30 @@ uèenci;uèenici;Typo
 uèenjaæku;uèenjaèku;wrong Cro phonemes
 uèesce;uèešæe;missing Cro phonemes
 uèesæe;uèešæe;missing Cro phonemes
+uèesnica;sudionica;
+uèesnica;sudionica;
+uèesnice;sudionice;
+uèesnice;sudionice;
+uèesnici;sudionici;
+uèesnici;sudionici;
+uèesnicima;sudionicima;
+uèesnicima;sudionicima;
+uèesnicom;sudionicom;
+uèesnicom;sudionicom;
+uèesnicu;sudionicu;
+uèesnicu;sudionicu;
+uèesnièe;sudionièe;
+uèesnièe;sudionièe;
+uèesnik;sudionik;
+uèesnik;sudionik;
+uèesnika;sudionika;
+uèesnika;sudionika;
+uèesnike;sudionike;
+uèesnike;sudionike;
+uèesnikom;sudionikom;
+uèesnikom;sudionikom;
+uèesniku;sudioniku;
+uèesniku;sudioniku;
 uèestvovaæe;sudjelovat æe;1->2
 uèestvovaæemo;sudjelovat æemo;1->2
 uèestvovala;sudjelovala;
@@ -35572,6 +35794,7 @@ uèiteljova;uèiteljeva;
 uèlaniæu;uèlanit æu;1->2
 uèutati;ušutjeti;
 uèuti;ušuti;
+uèutkate;ušutkate;
 uèvræujuæi;uèvršæujuæi;Typo
 uæestvujete;sudjelujete;
 uæešæe;uèešæe;wrong Cro phonemes
@@ -35730,6 +35953,7 @@ ugnjezdi;ugnijezdi;je->ije
 ugnjezdila;ugnijezdila;je->ije
 ugodicemo;ugodit æemo;1->2
 ugodiæemo;ugodit æemo;1->2
+ugodjaj;ugoðaj;missing Cro phonemes
 ugovoriæu;ugovorit æu;1->2
 ugradeni;ugraðeni;missing Cro phonemes
 ugradiæe;ugradit æe;1->2
@@ -35845,6 +36069,7 @@ uklizam;uklizim;
 uklnoi;ukloni;Typo
 uklnomo;uklonimo;Typo
 uklonicete;uklonit æete;1->2
+ukloniæe;uklonit æe;1->2
 ukloniæete;uklonit æete;1->2
 ukloniæu;uklonit æu;1->2
 uklonilasam;uklonila sam;Typo
@@ -36083,6 +36308,7 @@ umetnièkog;umjetnièkog;
 umetnièku;umjetnièku;
 umetnik;umjetnik;
 umetnika;umjetnik;
+umetnika;umjetnika;
 umetnike;umjetnike;
 umetnikom;umjetnikom;
 umetniku;umjetniku;
@@ -36516,6 +36742,7 @@ upravnik;ravnatelj;
 upravnika;ravnatelja;
 upraznjava;upražnjava;missing Cro phonemes
 upraznjavaju;upražnjavaju;missing Cro phonemes
+upreio;uperio;Typo
 uprevo;upravo;Typo
 uprilicimo;uprilièimo;missing Cro phonemes
 uprkos;usprkos;
@@ -36793,6 +37020,7 @@ uspeju;uspiju;
 uspentraæu;uspentrat æu;1->2
 uspenjemo;uspinjemo;
 uspesan;uspješan;missing Cro phonemes
+uspesi;uspjesi;
 uspesima;uspjesima;
 uspesna;uspješna;missing Cro phonemes
 uspesne;uspješne;missing Cro phonemes
@@ -37507,6 +37735,7 @@ vanka;vani;
 vanredne;izvanredne;
 vanredno;izvanredno;
 vanrednom;izvanrednom;
+vanrednu;izvanrednu;
 vantelesne;vantjelesne;
 vantelesnim;vantjelesnim;
 vantelesno;izvantjelesno;
@@ -37741,6 +37970,7 @@ veèerasje;veèeras je;Typo
 veèerasnjoj;veèerašnjoj;missing Cro phonemes
 veèeravao;veèerao;
 veèeravate;veèerate;
+veèeres;veèeras;Typo
 veèerešnja;veèerašnja;
 veèers;veèeras;Typo
 veèetas;veèeras;Typo
@@ -37909,6 +38139,7 @@ venèaš;vjenèaš;
 venèate;vjenèate;
 venèati;vjenèati;
 venèava;vjenèava;
+venèavaju;vjenèaju;
 venèavam;vjenèavam;
 venèavamo;vjenèavamo;
 venèavate;vjenèavate;
@@ -37995,6 +38226,7 @@ verniku;vjerniku;
 vernim;vjernim;
 verno;vjerno;
 vernog;vjernog;
+vernom;vjernom;
 vernost;vjernost;
 vernosti;vjernosti;
 vernošæu;vjernošæu;
@@ -38226,6 +38458,7 @@ vežbanje;vježbanje;
 vežbanjem;vježbanjem;
 vežbanju;vježbanju;
 vežbao;vježbao;
+vežbaonicu;vježbaonicu;
 vežbaš;vježbaš;
 vežbate;vježbate;
 vežbati;vježbati;
@@ -38347,6 +38580,7 @@ viði;vidi;
 viencanja;vjenèanja;Typo
 vienèanja;vjenèanja;
 vierovatno;vjerojatno;
+vietnamu;Vijetnamu;Case sensitive
 viidmo;vidimo;
 vijecem;vijeæem;missing Cro phonemes
 vijecnica;vijeænica;missing Cro phonemes
@@ -38473,6 +38707,7 @@ visila;visjela;
 visili;visjeli;
 visilo;visjelo;
 visionar;vizionar;Typo
+visit;visjet;
 visiti;visjeti;
 vislji;viši;missing Cro phonemes
 visljim;višim;missing Cro phonemes
@@ -38667,6 +38902,7 @@ vocno;voæno;missing Cro phonemes
 voèa;voæa;wrong Cro phonemes
 voèarna;voæarna;wrong Cro phonemes
 voèe;voæe;wrong Cro phonemes
+voèeras;veèeras;Typo
 voèke;voæke;wrong Cro phonemes
 voènih;voænih;wrong Cro phonemes
 voènu;voænu;wrong Cro phonemes
@@ -38698,6 +38934,7 @@ vodkom;votkom;
 vodku;votku;d->t
 vodoinstalera;vodoinstalatera;
 vodoinstalere;vodoinstalatere;
+vodonepropusan;vodonepropustan;
 vodonik;vodik;
 vodonika;vodika;
 voðstva;vodstva;
@@ -38747,6 +38984,7 @@ volila;voljela;
 volili;voljeli;
 volis;voliš;missing Cro phonemes
 voliti;voljeti;
+volksvagen;Volkswagen;Foreign words
 voll;voli;OCR errors
 volontiro;volontirao;
 voljeæu;voljet æu;1->2
@@ -38930,6 +39168,7 @@ vrijedjas;vrijeðaš;missing Cro phonemes
 vrijedjati;vrijeðati;missing Cro phonemes
 vrijednija;vrjednija;ije->je
 vrijednije;vrjednije;ije->je
+vrijednijega;vrjednijega;ije->je
 vrijedniji;vrjedniji;ije->je
 vrijednijim;vrjednijim;ije->je
 vrijedo;vrijedno;Typo
@@ -38967,6 +39206,7 @@ vrsku;vršku;missing Cro phonemes
 vršiæu;vršit æu;1->2
 vršilac;vršitelj;
 vrteæemo;vrtjet æemo;1->2
+vrteæeš;vrtjet æeš;1->2
 vrtelo;vrtjelo;
 vrtenja;vræenja;
 vrtenje;vræenje;
@@ -39202,6 +39442,7 @@ zadiviæu;zadivit æu;1->2
 zadivljujce;zadivljujuæe;missing Cro phonemes
 zadivljujæe;zadivljujuæe;
 zadivljujuce;zadivljujuæe;missing Cro phonemes
+zadivljujuèe;zadivljujuæe;wrong Cro phonemes
 zadivljujuæ;zadivljujuæi;
 zadnaj;zadnja;Typo
 zadneg;zadnjeg;
@@ -39509,6 +39750,7 @@ zakljuæanih;zakljuèanih;wrong Cro phonemes
 zakljuæili;zakljuèili;wrong Cro phonemes
 zakljuæke;zakljuèke;wrong Cro phonemes
 zakomplikovale;zakomplicirale;
+zakomplikovalo;zakompliciralo;
 zakomplikovan;zakompliciran;
 zakomplikovao;zakompliciralo;
 zakomplikovati;zakomplicirati;
@@ -40199,6 +40441,7 @@ zašte;zašto;Typo
 zašti;zašto;Typo
 zašticenom;zaštiæenom;missing Cro phonemes
 zaštièena;zaštiæena;wrong Cro phonemes
+zaštièene;zaštiæene;wrong Cro phonemes
 zaštièeni;zaštiæeni;wrong Cro phonemes
 zaštit;zaštitit;Typo
 zaštiticemo;zaštitit æemo;1->2
@@ -41177,6 +41420,7 @@ zvuænog;zvuènog;wrong Cro phonemes
 žnaèku;znaèku;Typo
 žnaš;znaš;Typo
 žnskog;ženskog;Typo
+žongliraæu;žonglirat æu;1->2
 žprizemni;prizemni;Typo
 žreb;ždrijeb;
 žrebom;ždrijebom;

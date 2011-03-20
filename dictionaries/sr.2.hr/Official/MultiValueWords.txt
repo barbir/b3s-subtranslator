@@ -397,6 +397,23 @@ cveta;cvijeta;;false;cvjeta;;true
 èelije;æelije;;true;stanice;;false
 èeliji;æeliji;;true;stanici;;false
 èeliju;æeliju;;true;stanicu;;false
+èesma;èesma;;false;slavina;;true
+èesmama;èesmama;;false;slavinama;;true
+èesme;èesme;;false;slavine;;true
+èesmi;èesmi;;false;slavini;;true
+èesmica;èesmica;;false;slavinica;;true
+èesmice;èesmice;;false;slavinice;;true
+èesmici;èesmici;;false;slavinici;;true
+èesmico;èesmico;;false;slavinico;;true
+èesmicu;èesmicu;;false;slavinicu;;true
+èesmina;èesmina;;false;slavinina;;true
+èesmine;èesmine;;false;slavinine;;true
+èesmini;èesmini;;false;slavinini;;true
+èesmino;èesmino;;false;slavinino;;true
+èesminu;èesminu;;false;slavininu;;true
+èesmo;èesmo;;false;slavino;;true
+èesmom;èesmom;;false;slavinom;;true
+èesmu;èesmu;;false;slavinu;;true
 èet;èet;skr. od èetvrtak;false;Chet;ime;true;chat;int. interaktivni razgovor više korisnika preko Interneta;false
 èete;æete;za množinu;true;æe te;za jedninu;false;èete;vojne jedinice;false
 èeza;Chaza;;true;èeza;reg. laka zaprežna kola na dva kotaèa;false
@@ -1409,6 +1426,7 @@ naduven;naduven;;false;napuhan;;true
 nadzornice;nadzornice;;true;nadzornièe;;false
 nagraðem;nagraðen;Typo;true;nadgraðem;Typo;false
 naiskreniji;najiskreniji;Typo;true;neiskreniji;Typo;false
+najinteresantniju;najinteresantniju;;false;najzanimljiviju;;true
 nakakav;nekakav;Typo;true;nikakav;Typo;false
 nakom;nakon;Typo;true;nekom;Typo;false
 nalazi;nalaži;;false;nalazi;;true
@@ -2343,6 +2361,9 @@ seli;sjeli;sjesti;false;seli;seliti;true
 selo;selo;;true;sjelo;;false;sijelo;sastanak;false
 selu;selu;;true;sijelu;;false
 sem;osim;;true;Sam;strano ime;false
+sema;shema;;false;Sama;strano ime;true
+seme;sjeme;;true;Same;strano ime;false;Sam;strano ime;false
+semu;shemu;;false;Samu;strano ime;true
 sena;sijena;;false;sjena;;true
 seni;sjeni;;true;šeni;;false
 senom;sjenom;sjena, silueta;true;sijenom;pokošena i osušena trava;false
@@ -2704,6 +2725,7 @@ svece;sveèe;;true;svijeæe;;false
 svecenice;sveæenice;;true;sveæenièe;;false
 sveci;sveci;;true;svijeæi;;false
 svecu;svetcu;;false;svijeæu;;true
+svecu;svijeæu;;true;svecu;svetac;false
 svest;svest;;false;svijest;;true
 svesti;svesti;;false;svijesti;;true
 svet;svet;;false;svijet;;true
@@ -2802,6 +2824,7 @@ tronosce;tronošce;;true;tronošèe;;false
 tuca;tuca;;false;tuèa;;true
 tuèi;tuæi;;false;tuèi;;true;tuènjavi;;false
 tuæi;tuæi;;true;tuèi;;false;tuènjavi;;false
+turistici;turistkinji;;true;turistici;turistika, opæi naziv za poslove u turizmu;false
 ubi;ubi;;false;ubij;;true
 ubice;ubojice;;true;ubit æe;;false
 ubicu;ubojicu;;true;ubit æu;;false
@@ -2832,6 +2855,7 @@ ugaono;ugaono;prostor na križanju dviju ulica;false;kutno;;true
 ugaonog;ugaonog;prostor na križanju dviju ulica;false;kutnog;;true
 ugaonu;ugaonu;prostor na križanju dviju ulica;false;kutnu;;true
 ujka;ujaka;;false;ujaèe;;true;ujak;;false
+ujka;ujaka;;false;ujaèe;;true;ujak;;false;ujakom;;false
 ukaze;ukaze;;true;ukaže;;false
 ukazi;ukazi;;true;ukaži;;false
 ukrcanti;ukrcati;Typo;true;ukrcani;Typo;false
@@ -2962,6 +2986,7 @@ veoma;vrlo;;true;jako;;false;mnogo;;false;puno;;false;prilièno;;false;dosta;;fal
 veprica;veprica;;false;vepriæa;;true
 vera;Vera;;false;vjera;;true
 vere;vere;;false;vjere;;true
+verifikujemo;verificiramo;;false;potvrdimo;;true
 verna;vjerna;;true;Vernea;Julesa Vernea;false
 verne;Verne;Jules Verne;false;vjerne;;true
 vernu;Vernu;Julesu Vernu;false;vjernu;;true
