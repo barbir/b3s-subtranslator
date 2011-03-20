@@ -228,6 +228,7 @@ bojnice;bojnice;;true;bojnièe;;false
 bord;board;;false;brod;Typo;true;vijeæe;;false
 borda;boarda;;false;vijeæa;;false;broda;;true
 bordu;brodu;Typo;true;boardu;vijeæu;false;vijeæu;;false
+borice;borit æe;;false;borice;male bore;true
 borice;borit æe;;true;borice;male bore;false
 borici;borici;maloj bori;false;boriæi;missing Cro phonemes;true
 boriæe;boriæe;male borove;false;borit æe;1->2;true
@@ -390,6 +391,7 @@ cutite;æutite;;false;šutite;;true
 cutljiv;æutljiv;;false;šutljiv;;true
 cveta;cvijeta;;false;cvjeta;;true
 èak;èak;;true;Chuck;ime;false
+èak;èak;;true;Chuck;Strano ime Chuck;false
 èas;èas;;false;sat;;false;tren;;true;trenutak;;false
 èasa;èasa;;false;èaša;;false;sata;;false;trena;;true
 èasu;èasu;;false;èašu;;false;satu;;false;trenu;;true
@@ -620,6 +622,7 @@ džin;džin;;true;Jean;;false
 džina;džina;;true;Jean;;false
 džine;džine;;true;Jean;;false
 džini;džini;;true;Jean;;false;Jeanie;;false
+džini;džini;;true;Jeanie;Strano žensko ime Jeanie;false
 džinovsko;džinovsko;;false;ogromno;;true
 džinu;džinu;;true;Jean;;false
 džonovi;Johnovi;;true;ðonovi;;false
@@ -760,6 +763,7 @@ herkul;Hercules;;false;Hercule;;true
 herkula;Herculea;;true;Herculesa;;false
 hertz;Hertz;;true;Herc;;false
 hertza;Hertza;;true;Herca;;false
+hey;hey;;false;hej;;true
 hodace;hodaèe;;true;hodat æe;1->2;false
 hodocasnice;hodoèasnice;;true;hodoèasnièe;;false
 holandez;Holandez;;false;Holanðanin;;true
@@ -768,6 +772,7 @@ holandezom;Holandezom;;false;Holanðaninom;;true
 holandezu;Holandezu;;false;Holanðaninu;;true
 hropce;hropèe;;true;hropæe;;false
 idi;idi;;true;Edie;ime;false
+idi;idi;;true;Edie;Strano žensko ime;false
 igrace;igraèe;;true;igraæe;;false
 igraci;igraèi;;true;igraæi;;false
 igracima;igraèima;;true;igraæima;;false
@@ -868,6 +873,7 @@ izvinulo;isprièalo;;true;izvinulo;izviti se;false
 izvinuo;izvinuo;izviti se;false;isprièao;;true
 izvinusmo;isprièasmo;;true;izvinusmo;izviti se;false
 izvinuste;isprièaste;;true;izvinuste;izviti se;false
+izvinut;izvinut;;true;isprièat;;false
 izvinut;izvinut;izviti se;true;isprièat;;false
 izvinuti;isprièati;;true;izvinuti;izviti se;false
 izvjestila;izvijestila;;true;izvještila;;false
@@ -891,6 +897,7 @@ jahacu;jahaèu;onaj koji jaše;true;jahaæu;koji služi za jahanje;false
 jakuzzi;jakuzi;pripadniku japanske mafije;false;yakuzi;pripadniku japanske mafije;false;jacuzzi;;true
 jamacno;jamaèno;;false;zacijelo;;true;sigurno;;false;pouzdano;;false
 jamaèno;jamaèno;;true;zacijelo;;false;sigurno;;false;pouzdano;;false
+jang;yang;ying-yang;false;Young;strano prezime;true
 jang;Young;eng.;true;jang;jing-jang;false
 jdan;jadan;Typo;false;jedan;Typo;true;odan;Typo;false
 jdnog;jednog;Typo;true;jadnog;Typo;false;jodnog;Typo;false
@@ -911,7 +918,10 @@ jule;Eule;ime Eula;false;srpnje;;true
 julu;Eulu;ime Eula;false;srpnju;;true
 jun;lipanj;;false;Jun;nadimak za lika iz Sopranosa - June;true
 juna;Juna;nadimak za Juniora Soprana;false;lipnja;;true
+juna;Juna;nadimak za Juniora Soprana;true;lipnja;;false
+june;june;mlado krave;false;lipnje;;false;June;lik iz Sopranosa - June;true
 june;lipnje;;true;june;mlado krave;false;June;strano ime;false
+junom;junetom;mladim krave;false;lipnjem;;false;Junom;lik iz Sopranosa - June;true
 junom;junetom;mladim krave;false;lipnjem;;true
 junu;lipnju;;false;Junu;lik iz Sopranosa - June;true
 junjakinja;junakinja;;true;južnjakinja;;false
@@ -1140,6 +1150,7 @@ leveli;nivoi;;true;razine;;false
 levelom;nivoom;;true;razinom;;false
 levelu;nivou;;true;razini;;false
 levi;lijevi;;true;Levi;ime;false
+levi;lijevi;;true;Levi;Strano muško ime;false
 lezi;legni;;true;leži;;false
 lezite;legnite;;true;ležite;;false
 lici;slièi;;true;lièi;boja;false;Lici;;false;boja;;false;boji;;false
@@ -1171,11 +1182,12 @@ lijecnice;lijeènice;;true;lijeènièe;;false
 lijekare;ljekare;;true;lijeènike;;false;apotekare;;false
 lijekarna;ljekarna;;true;apoteka;;false
 lijes;lijes;;true;liješ;missing Cro phonemes;false
-lila;Leela;ime ženskog lika iz Futurame;false;lila;boja;true
+lila;Leela;Ime ženskog lika iz Futurame;false;lila;boja;true
 lile;Leele;ime ženskog lika iz Futurame;false;lile;boja;true
-lili;Leeli;ime ženskog lika iz Futurame;false;lili;boja;true
+lili;Leeli;Ime ženskog lika iz Futurame;false;lili;boja;true
 lilom;Leelom;ime ženskog lika iz Futurame;false;lilom;boja;true
 lilu;Leelu;ime ženskog lika iz Futurame;false;lilu;boja;true;Leeloo;ime;false
+lilu;Leelu;Ime ženskog lika iz Futurame;false;lilu;boja;true;Leeloo;Strano žensko ime;false
 lin;Lin;kinesko ime;false;Lynn;;true
 lisca;lišæa;;true;lišca;licu;false
 lisce;lišæe;;true;lišce;licu;false
@@ -1258,8 +1270,11 @@ macicu;maèicu;;true;maèiæu;;false
 madelin;Madeline;;false;Madeleine;;true
 maja;svibnja;;true;Maja;ime;false;Maya;;false
 majka;majka;;true;Mikea;ime;false
+majka;majka;;true;Mikea;Strano ime Mike;false
 majkom;majkom;;true;Mikeom;ime;false
+majkom;majkom;;true;Mikeom;Strano ime Mike;false
 majku;majku;;true;Mikeu;ime;false
+majku;majku;;true;Mikeu;Strano ime Mike;false
 major;bojnik;;true;major;;false
 majora;bojnika;;true;majora;;false
 majore;bojnièe;;true;bojnike;;false;majore;;false
@@ -1555,6 +1570,7 @@ nemaèke;njemaèke;;false;Njemaèke;;true
 nemaèku;njemaèku;;false;Njemaèku;;true
 nemna;neman;Typo;true;nema;Typo;false;zemna;Typo;false;neona;Typo;false
 nemo;nijemo;;true;Nemo;Finding Nemo;false
+nemo;nijemo;;true;Nemo;strano ime;false
 nemod;nemoj;Typo;true;nemoæ;Typo;false
 neo;nebo;Typo;false;neko;Typo;false;nego;Typo;false;neo;;true
 neprevazidjena;nenadiðena;;false;nenadmašena;;true
@@ -1592,8 +1608,10 @@ njenr;njen;Typo;true;njena;Typo;false;njene;Typo;false;njeni;Typo;false;njeno;Ty
 nješto;nešto;Typo;true;vješto;Typo;false
 njihvo;njihov;;true;njihovo;;false
 nju;nju;;true;New;;false
+obavjesti;obavjesti;;true;obavijesti;;false
 obezbedi;osigura;;true;osiguraj;;false
 obezbeðujem;osiguram;;false;osiguravam;;true
+obezbeðujem;snabdjevam;;true;osiguravam;;false
 obezbjedi;osigura;;true;osiguraj;;false
 obogaljite;obogaljite;;false;ozlijedite;;true;oštetite;;false
 oboja;oboji;;true;obadvoja;kad se misli na dvije, a ne na bojenje;false
@@ -1768,6 +1786,7 @@ osmatraè;motritelj;;true;motrilac;;false
 osmatraèa;motritelja;;true;motrioca;;false
 osmatraèi;motritelji;;true;motrioci;;false
 osmatraju;promatraju;;true;motre;;false
+osmesi;osmjesi;;true;osmješi;;false
 ostanmo;ostanemo;Typo;true;ostanimo;Typo;false
 otecemo;oteèemo;;true;otet æemo;1->2;false
 oteæena;ošteæena;Typo;false;oteèena;missing Cro phonemes;true
@@ -1869,6 +1888,7 @@ pici;pici;;true;pizzi;;false
 picom;picom;;true;pizzom;;false
 picu;piæu;;true;pizzu;;false;picu;pi*ku;false
 pièe;piæe;;false;pit æe;;true
+pièe;piæe;;true;pit æe;;false
 piæe;piæe;;true;pit æe;;false
 pijuci;pijuæi;piti;true;pijuèi;pijukati;false
 pilice;pilice;;false;piliæe;;true
@@ -2176,6 +2196,7 @@ prosveti;prosvjeti;društvena djelatnost školstva;false;posveti;posvetiti;true
 prošunjao;prošunjao;;false;prošuljao;;true
 prozdrvljivce;proždrljivce;;false;proždrljivèe;;true
 prsis;prsiš;;true;pršiš;;false
+prsnuæu;prsnut æu;1->2;true;prsnuæu;;false
 prsnuæu;prsnut æu;1->2;true;puknuæu;;false
 prtljaznice;prtljažnice;;true;prtljažnièe;;false
 prvukao;privukao;;true;prevukao;;false;provukao;;false;povukao;;false
@@ -2238,10 +2259,13 @@ reèem;reèem;;false;kažem;;true
 reèemo;reèemo;;false;kažemo;;true
 reèete;reèete;;false;kažete;;true
 reèi;reæi;;false;rijeèi;;true
+reèi;reæi;;true;rijeèi;;false
 redak;rijedak;;true;redak;umanj. od red;false
 reketnog;reketnog;;false;raketnog;Typo;true
 remi;remi;kartaška igra;false;Remy;ime;true
+remi;remi;kartaška igra;false;Remy;strano muško ime Remy;true
 remiju;Remyju;ime;true;remiju;kartaška igra;false
+remiju;Remyju;muško ime Remy;true;remiju;kartaška igra;false
 rescepe;rascijepe;rascijepe se;false;rascjepe;razlaze, raskide;true
 rese;rese;;false;riješe;;true
 reseci;reseæi;;true;rešeci;;false
@@ -2307,6 +2331,7 @@ saobracanje;prometovanje;;true;komuniciranje;;false
 saobracanju;prometovanju;;true;komuniciranju;;false
 saobraæaju;prometuju;;false;prometu;;true
 saopštenja;priopæenja;;true;obavijesti;;false
+saopštenja;priopæenja;;true;obavjesti;;false
 sapa;sapa;dah, iskop u obliku rova;false;šapa;missing Cro phonemes;true
 sape;sape;dah, iskop u obliku rova;false;šape;missing Cro phonemes;true
 sapi;sapi;dah, iskop u obliku rova;false;šapi;missing Cro phonemes;true
@@ -2317,6 +2342,7 @@ sasa;saša;;true;šaša;;false
 sasije;sašije;;true;šasije;;false
 sasiju;sašiju;;true;šasiju;;false
 sataninog;sotoninog;;false;vražjeg;;true
+sataninog;sotoninog;;true;vražjeg;;false
 satnice;satnice;;true;satnièe;;false
 sav;šav;;false;sav;;true
 savana;savana;;true;Savannah;;false
@@ -2347,6 +2373,7 @@ sekretare;sekretare;zool. afrièka ptica, pov. ideol. glavni dužnosnik partijske 
 sekretari;sekretari;zool. afrièka ptica, pov. ideol. glavni dužnosnik partijske organizacije;false;tajnici;;true;ministri;visoki službenik u vladi nekih zemalja;false
 sekretarica;tajnica;;true;sekretarica;aparat koji samostalno prima i snima telefonske poruke;false
 sekretarice;tajnice;;true;sekretarice;aparat koji samostalno prima i snima telefonske poruke;false
+sekretarice;tajnice;;true;sekretarice;npr. telefonske sekretarice;false
 sekretarici;sekretarici;aparat koji samostalno prima i snima telefonske poruke;false;tajnici;;true
 sekretaricom;sekretaricom;aparat koji samostalno prima i snima telefonske poruke;false;tajnicom;;true
 sekretaricu;sekretaricu;aparat koji samostalno prima i snima telefonske poruke;false;tajnicu;;true
@@ -2374,6 +2401,7 @@ sest;sjest;;true;šest;;false
 sesti;sjesti;;true;šesti;;false
 setacu;šetaèu;;true;šetat æu;1->2;false
 seti;SETI;;false;sjeti;;true
+sexy;sexy;;false;seksi;;true
 siedeæi;sjedeæi;;false;slijedeæi;koje prati nekog;true;sljedeæi;iduæi, naredni;false
 sija;sja;;true;šija;;false
 sijeèanja;sijeèanja;;true;sjeæanja;;false
@@ -2759,6 +2787,7 @@ systemu;sistemu;;false;sustavu;;true
 šerpu;lonac;;false;Sherpu;lokalni vodièi ili etnièka grupa u Nepalu;false;šerpu;;false;zdjelu;;true
 širu;šire;;false;širu;;true
 škarnicl;škarnicl;reg. papirnata vreæica;false;škartoc;reg. papirnata vreæica;false;vreæica;Wrong Form;true
+šolje;šalice;;true;školjke;WC školjka;false
 šolje;školjke;;false;šalice;;true
 šolji;šalici;;true;školjci;;false;školjki;;false
 šopingom;šopingom;;true;kupovinom;;false
@@ -2800,6 +2829,8 @@ testa;testa;;true;tijesta;;false
 testera;testera;onog koji testira;false;pila;;true
 testere;testere;one koji testiraju;false;pilaju;;true
 testeri;pili;;true;pila;;false
+testerisanja;testiranja;;false;pilanja;;true
+testerom;testerom;množina od "tester";false;pilom;;true
 testerom;testerom;onim koji testira;false;pilom;;true
 testeru;testeru;onom koji testira;false;pilu;;true
 teše;teše;od tesati;false;tješe;;true
@@ -2807,6 +2838,8 @@ teši;teši;od tesati;false;tješi;;true
 tezi;tezi;;true;teži;missing Cro phonemes;false
 tice;tièe;;true;tice;nastavak npr. 100-tice;false
 tinu;Teenu;;false;Tinu;;true
+tinu;Teenu;;true;Tinu;;false
+tomijevog;tomijevog;;true;tommyevog;;false
 translaciju;translaciju;Foreign words;false;prijevod;;true
 transmitovanu;emitiranu;;false;odaslanu;;true
 transmituje;emitira;;false;odašilje;;true
@@ -2824,6 +2857,7 @@ tronosce;tronošce;;true;tronošèe;;false
 tuca;tuca;;false;tuèa;;true
 tuèi;tuæi;;false;tuèi;;true;tuènjavi;;false
 tuæi;tuæi;;true;tuèi;;false;tuènjavi;;false
+tupadžija;glupana;;true;glupan;;false
 turistici;turistkinji;;true;turistici;turistika, opæi naziv za poslove u turizmu;false
 ubi;ubi;;false;ubij;;true
 ubice;ubojice;;true;ubit æe;;false
@@ -2864,6 +2898,7 @@ ulubit;ulupit;;true;udubit;;false
 umaci;umaæi;umaknuti;false;umaèi;umakati;false;umaci;umak, tekuæi dodatak jelu;true
 umece;umijeæe;;true;umeæe;umetati;false;umeèe;umetak, dio koji se umeæe;false
 umeæe;umeæe;;false;umijeæe;;true
+umeæe;umeæe;;false;umjeæe;;true
 umeæem;umeæem;umetati;true;umijeæem;vještina, sposobnost;false
 umirte;umrite;Typo;false;umirete;Typo;true;umirite;Typo;false
 umješavanja;umjeravanja;Typo;false;miješanja;;true
@@ -2981,6 +3016,7 @@ veæom;veæom;;true;vijeæem;;false
 veæu;veæu;;true;vijeæu;;false
 vels;Wales;;true;Wells;npr. Wells Fargo;false
 venca;vijenca;;true;vjenèa;missing Cro phonemes;false
+venca;vjenèa;;false;vijenca;;true
 veoma;vrlo;;true;jako;;false;mnogo;;false;puno;;false
 veoma;vrlo;;true;jako;;false;mnogo;;false;puno;;false;prilièno;;false;dosta;;false
 veprica;veprica;;false;vepriæa;;true
@@ -3184,6 +3220,7 @@ zaptiven;zatvoren;;false;zabrtvljen;;true
 zaptiveni;zatvoreni;;false;zabrtvljeni;;true
 zaptiveno;zatvoreno;;false;zabrtvljeno;;true
 zapusila;zaèepila;;true;zapušila;;false
+zapušen;zapušen;;false;zaèepljen;;true
 zarucnice;zaruènice;;true;zaruènièe;;false
 zasijalo;zasijalo;;false;zasjalo;;true
 zasijes;zasiješ;;true;zašiješ;;false

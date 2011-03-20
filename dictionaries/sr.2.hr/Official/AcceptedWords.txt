@@ -262,6 +262,7 @@ adaptivno
 adaptivnoj
 adaptivnom
 adaptivnu
+addison
 ade
 adekvatan
 adekvatna
