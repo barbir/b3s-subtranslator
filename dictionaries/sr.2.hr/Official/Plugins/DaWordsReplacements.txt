@@ -3513,6 +3513,7 @@ da telefoniram;telefonirati
 da telefoniramo;telefonirati
 da telefoniraš;telefonirati
 da telefonirate;telefonirati
+da ti kažem;ti reæi
 da tolerira;tolerirati
 da toleriraju;tolerirati
 da toleriram;tolerirati
